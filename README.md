@@ -1,7 +1,7 @@
 # Sparta International 
-# A recreation of an old ass program for a bunch of old ass dudes. 
+A recreation of an old ass program for a bunch of old ass dudes. 
 
-# The Math
+## The Math
 10 players
 .10 per hole
 .50 per 9
