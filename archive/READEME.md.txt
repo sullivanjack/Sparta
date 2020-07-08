@@ -1,0 +1,47 @@
+# Sparta International 
+# A recreation of an old ass program for a bunch of old dudes. 
+
+Dave will send you spreadsheet later but below are examples of the
+assumptions we used and believe the program uses.  This assumes the players
+net score per hole after handicap is applied. I already explained how we
+applied / distributed the handicaps via phone.
+
+Once Dave sends file we need you to replicate all this with the Apple
+program if you can and see if daily money is correct.
+
+Example of our Assumptions
+
+
+10 players
+
+.10 per hole
+
+.50 per 9
+
+1.00 total
+
+Everyone plays everyone
+
+One guy losses every hole
+
+
+.90 (lost to 9 players) x 18 = 16.20
+
+.50 x 9 = 4.50 x 2 = 9.00
+
+1.00 x 9 players = 9.00
+
+Total:  34.20
+
+34.20/18 = 1.90 max loss per player with 10 total players
+
+
+15 players
+
+14 x .10 x 18 = 25.20
+
+.50 x 14 = 7.00 x 2 = 14.00
+
+1.00 x 14  = 14 for total
+
+53.20/18  = 2.95 per hole max

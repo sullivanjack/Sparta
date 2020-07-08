@@ -1,0 +1,133 @@
+def getNextHoleScore(group, hole):
+    ranking = []
+    if(hole == 18):
+        print("cannot get score for 19th hole! (They're proabably drinking!)")
+        return group
+    for p in group:
+        ranking.append([p[0], p[2].getHoleScore(hole + 1), p[2]])
+    ranking.sort(key = lambda x: x[1])
+    print("")
+    print(ranking)
+    print("")
+    return ranking
+
+def settleGroup(grpup, hole):
+    if(len(group) == 1):
+        return group
+    elif (len(group) != 0):
+        seen = [] 
+        uniq = True
+        for g in group:
+            if(g[1] not in seen):
+                seen.append(g[1])
+            else:
+                # Not unique
+                uniq = False
+                
+def splitScoreGroups(group):
+    scores = []
+
+    index = 0
+    for p in groups:
+        s = p[1]
+        scores.append( (p[2].getName(), s, p[2]) )
+        index += 1
+    scores.sort(key = lambda x: x[1])
+                          
+def settleHole(groups, hole):    
+    ranking = []
+
+    index = 0
+    for g in groups:
+        if(len(g) == 1):
+            print(g)
+            index += 1
+            ranking[index] = g
+        elif (len(g) != 0):
+            print("GROUP SCORES FOR HOLE: ", hole)
+            print(g)
+            
+            rankedGroups = []
+            for i in range(0, len(g)):
+                # Name, Score on Hole, Object, Total Score, isSorted
+                rankedGroups.append([g[i][0], g[i][1], g[i][2], g[i][1], False])
+            
+            print("RANKED GROUPS:")
+            print(rankedGroups)
+            
+            # while true
+            nextHoleScores = getNextHoleScore(g, hole + 1)
+            print("NEXT SCORES FOR HOLE : " + str(hole+1))
+            print(nextHoleScores)
+
+            for i in range(0, len(nextHoleScores)):
+                for k in range(0, len(rankedGroups)):
+                    if(nextHoleScores[i][0] == rankedGroups[k][0]):
+                        rankedGroups[k][3] = rankedGroups[k][3] + nextHoleScores[i][1]
+            print("\n NEXT RANKED GROUPS")
+            print(rankedGroups)
+            print("\n\n")
+            
+            
+    print(ranking)
+            
+        
+def getGroupsFromGroup(singleGroup, currentHole):
+    nextHole = currentHole + 1
+    players = []
+    for p in singleGroup:
+        players.append(p[3])
+    scores = getScores(players, nextHole)
+    
+    newGroups = [[], [], [], [], [], [], [], [], [], [], []] 
+    lastScore = 0
+    for s in scores:
+        if(s[1] == lastScore):
+            newGroups[s[1]].append(s)
+        else:
+            lastScore = s[1]
+            newGroups[s[1]].append(s)
+    return newGroups
+    
+"""
+for hole in range(1,2):
+    
+    scores = getScores(players, hole)
+    print(scores)
+    print("*****")
+    groups = getGroups(scores)
+    printGroup(groups)
+    print("*****")
+    
+    ranking = []
+    currentRank = 0
+    for g in groups:
+        
+        if(len(g) == 1):
+            ranking[currentRank] = g[0]
+        else:
+            idkGroups = g   
+    print(groups[4])
+    groupSplit = getGroupsFromGroup(groups[4], hole)
+    printGroup(groupSplit)
+"""    
+
+    """
+    lastScore = 0
+    index = -1
+    groups = [[],[],[],[],[],[],[],[],[]] 
+    for s in scores:
+        if(s[1] == lastScore):
+            print(s)
+            groups[index].append(s)
+        elif(s[1] > lastScore):
+            print("\n")
+            print(s)
+            index+=1
+            lastScore = s[1]
+            groups[index].append(s)
+
+        else:
+            lastScore+=1
+    printGroup(groups)
+    """    
