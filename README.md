@@ -1,5 +1,6 @@
 # Sparta International 
-A recreation of an old ass program for a bunch of old ass dudes. 
+Calcualtes the money owed by each person for a round of golf using Sparta Rules.
+It could be the only golf gambling game that requires recursion to calcuate the money.
 
 ## The Math
 10 players
