@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A season overview from the Sparta International.">
+  <title>Season · Sparta International</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="profile-header year-header">
+    <div class="shell">
+      <a class="back-link" href="index.html#years">← All years</a>
+      <p class="eyebrow">Season overview</p>
+      <h1 id="season-title">Loading…</h1>
+      <p class="profile-subtitle" id="season-subtitle"></p>
+    </div>
+  </header>
+  <main id="year-content">
+    <section class="profile-section shell">
+      <p class="eyebrow dark">Season standings</p>
+      <h2>Leaderboard</h2>
+      <div class="table-card">
+        <table><thead><tr id="year-leaderboard-head"></tr></thead><tbody id="year-leaderboard"></tbody></table>
+      </div>
+    </section>
+    <section class="profile-section rounds-section">
+      <div class="shell">
+        <div class="section-heading light">
+          <div><p class="eyebrow">Day by day</p><h2>Round results</h2></div>
+          <label class="select-label dark-select">Day <select id="day-filter"></select></label>
+        </div>
+        <div id="day-result"></div>
+      </div>
+    </section>
+  </main>
+  <footer><div class="shell"><span>Sparta International</span><a class="light-link" href="index.html">Back to archive</a></div></footer>
+  <script src="year.js" defer></script>
+</body>
+</html>

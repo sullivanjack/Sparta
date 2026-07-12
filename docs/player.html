@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Individual golfer statistics from the Sparta International.">
+  <title>Golfer Profile · Sparta International</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="profile-header">
+    <div class="shell">
+      <a class="back-link" href="index.html#leaderboard">← All golfers</a>
+      <p class="eyebrow">Golfer profile</p>
+      <h1 id="player-name">Loading…</h1>
+      <p class="profile-subtitle" id="player-subtitle"></p>
+    </div>
+  </header>
+  <main id="profile-content">
+    <div class="stat-grid shell" id="career-stats"></div>
+    <section class="profile-section shell">
+      <p class="eyebrow dark">Year by year</p>
+      <h2>Season performance</h2>
+      <div class="season-grid" id="season-grid"></div>
+    </section>
+    <section class="profile-section rounds-section">
+      <div class="shell">
+        <div class="section-heading light">
+          <div><p class="eyebrow">The full record</p><h2>Round history</h2></div>
+          <label class="select-label dark-select">Year <select id="round-year-filter"></select></label>
+        </div>
+        <div class="scorecard-list" id="player-rounds"></div>
+      </div>
+    </section>
+    <section class="profile-section shell handicap-section">
+      <p class="eyebrow dark">World Handicap System</p>
+      <h2>Handicap estimate</h2>
+      <div class="handicap-panel" id="handicap-panel"></div>
+    </section>
+  </main>
+  <footer><div class="shell"><span>Sparta International</span><a class="light-link" href="index.html">Back to archive</a></div></footer>
+  <script src="player.js" defer></script>
+</body>
+</html>
