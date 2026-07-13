@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T23:37:06.496658+00:00",
+  "generated_at": "2026-07-13T00:22:55.025533+00:00",
   "rules_version": 1,
   "course": {
     "holes": 18,
@@ -712,6 +712,7 @@
           "rounds": 3,
           "total_cents": 7450,
           "total_net": 199,
+          "total_gross": 280,
           "hole_wins": 762,
           "hole_losses": 492,
           "day_scores": {
@@ -726,6 +727,7 @@
           },
           "complete": true,
           "average_net": 66.33333333333333,
+          "average_gross": 93.33333333333333,
           "rank": 1,
           "money_rank": 5
         },
@@ -734,6 +736,7 @@
           "rounds": 3,
           "total_cents": 11080,
           "total_net": 199,
+          "total_gross": 290,
           "hole_wins": 810,
           "hole_losses": 457,
           "day_scores": {
@@ -748,6 +751,7 @@
           },
           "complete": true,
           "average_net": 66.33333333333333,
+          "average_gross": 96.66666666666667,
           "rank": 2,
           "money_rank": 1
         },
@@ -756,6 +760,7 @@
           "rounds": 3,
           "total_cents": 9820,
           "total_net": 202,
+          "total_gross": 236,
           "hole_wins": 764,
           "hole_losses": 492,
           "day_scores": {
@@ -770,6 +775,7 @@
           },
           "complete": true,
           "average_net": 67.33333333333333,
+          "average_gross": 78.66666666666667,
           "rank": 3,
           "money_rank": 2
         },
@@ -778,6 +784,7 @@
           "rounds": 3,
           "total_cents": 7980,
           "total_net": 204,
+          "total_gross": 241,
           "hole_wins": 755,
           "hole_losses": 497,
           "day_scores": {
@@ -792,6 +799,7 @@
           },
           "complete": true,
           "average_net": 68.0,
+          "average_gross": 80.33333333333333,
           "rank": 4,
           "money_rank": 4
         },
@@ -800,6 +808,7 @@
           "rounds": 3,
           "total_cents": 8240,
           "total_net": 206,
+          "total_gross": 283,
           "hole_wins": 747,
           "hole_losses": 513,
           "day_scores": {
@@ -814,6 +823,7 @@
           },
           "complete": true,
           "average_net": 68.66666666666667,
+          "average_gross": 94.33333333333333,
           "rank": 5,
           "money_rank": 3
         },
@@ -822,6 +832,7 @@
           "rounds": 3,
           "total_cents": 1970,
           "total_net": 209,
+          "total_gross": 284,
           "hole_wins": 657,
           "hole_losses": 615,
           "day_scores": {
@@ -836,6 +847,7 @@
           },
           "complete": true,
           "average_net": 69.66666666666667,
+          "average_gross": 94.66666666666667,
           "rank": 6,
           "money_rank": 10
         },
@@ -844,6 +856,7 @@
           "rounds": 3,
           "total_cents": 5350,
           "total_net": 212,
+          "total_gross": 259,
           "hole_wins": 689,
           "hole_losses": 579,
           "day_scores": {
@@ -858,6 +871,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 86.33333333333333,
           "rank": 7,
           "money_rank": 6
         },
@@ -866,6 +880,7 @@
           "rounds": 3,
           "total_cents": 2690,
           "total_net": 213,
+          "total_gross": 277,
           "hole_wins": 680,
           "hole_losses": 596,
           "day_scores": {
@@ -880,6 +895,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 92.33333333333333,
           "rank": 8,
           "money_rank": 8
         },
@@ -888,6 +904,7 @@
           "rounds": 3,
           "total_cents": 3290,
           "total_net": 213,
+          "total_gross": 267,
           "hole_wins": 663,
           "hole_losses": 619,
           "day_scores": {
@@ -902,6 +919,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 89.0,
           "rank": 9,
           "money_rank": 7
         },
@@ -910,6 +928,7 @@
           "rounds": 3,
           "total_cents": 1900,
           "total_net": 214,
+          "total_gross": 233,
           "hole_wins": 622,
           "hole_losses": 642,
           "day_scores": {
@@ -924,6 +943,7 @@
           },
           "complete": true,
           "average_net": 71.33333333333333,
+          "average_gross": 77.66666666666667,
           "rank": 10,
           "money_rank": 11
         },
@@ -932,6 +952,7 @@
           "rounds": 3,
           "total_cents": 2580,
           "total_net": 214,
+          "total_gross": 309,
           "hole_wins": 671,
           "hole_losses": 598,
           "day_scores": {
@@ -946,6 +967,7 @@
           },
           "complete": true,
           "average_net": 71.33333333333333,
+          "average_gross": 103.0,
           "rank": 11,
           "money_rank": 9
         },
@@ -954,6 +976,7 @@
           "rounds": 3,
           "total_cents": 100,
           "total_net": 215,
+          "total_gross": 310,
           "hole_wins": 669,
           "hole_losses": 609,
           "day_scores": {
@@ -968,6 +991,7 @@
           },
           "complete": true,
           "average_net": 71.66666666666667,
+          "average_gross": 103.33333333333333,
           "rank": 12,
           "money_rank": 12
         },
@@ -976,6 +1000,7 @@
           "rounds": 3,
           "total_cents": -770,
           "total_net": 216,
+          "total_gross": 283,
           "hole_wins": 620,
           "hole_losses": 647,
           "day_scores": {
@@ -990,6 +1015,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 94.33333333333333,
           "rank": 13,
           "money_rank": 15
         },
@@ -998,6 +1024,7 @@
           "rounds": 3,
           "total_cents": -340,
           "total_net": 217,
+          "total_gross": 281,
           "hole_wins": 637,
           "hole_losses": 616,
           "day_scores": {
@@ -1012,6 +1039,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 93.66666666666667,
           "rank": 14,
           "money_rank": 13
         },
@@ -1020,6 +1048,7 @@
           "rounds": 3,
           "total_cents": -360,
           "total_net": 218,
+          "total_gross": 283,
           "hole_wins": 627,
           "hole_losses": 638,
           "day_scores": {
@@ -1034,6 +1063,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 94.33333333333333,
           "rank": 15,
           "money_rank": 14
         },
@@ -1042,6 +1072,7 @@
           "rounds": 3,
           "total_cents": -3300,
           "total_net": 221,
+          "total_gross": 281,
           "hole_wins": 556,
           "hole_losses": 706,
           "day_scores": {
@@ -1056,6 +1087,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 93.66666666666667,
           "rank": 16,
           "money_rank": 19
         },
@@ -1064,6 +1096,7 @@
           "rounds": 3,
           "total_cents": -1410,
           "total_net": 224,
+          "total_gross": 304,
           "hole_wins": 663,
           "hole_losses": 609,
           "day_scores": {
@@ -1078,6 +1111,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 101.33333333333333,
           "rank": 17,
           "money_rank": 17
         },
@@ -1086,6 +1120,7 @@
           "rounds": 3,
           "total_cents": -3220,
           "total_net": 224,
+          "total_gross": 362,
           "hole_wins": 611,
           "hole_losses": 648,
           "day_scores": {
@@ -1100,6 +1135,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 120.66666666666667,
           "rank": 18,
           "money_rank": 18
         },
@@ -1108,6 +1144,7 @@
           "rounds": 3,
           "total_cents": -980,
           "total_net": 225,
+          "total_gross": 302,
           "hole_wins": 566,
           "hole_losses": 689,
           "day_scores": {
@@ -1122,6 +1159,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 100.66666666666667,
           "rank": 19,
           "money_rank": 16
         },
@@ -1130,6 +1168,7 @@
           "rounds": 3,
           "total_cents": -4030,
           "total_net": 225,
+          "total_gross": 276,
           "hole_wins": 555,
           "hole_losses": 703,
           "day_scores": {
@@ -1144,6 +1183,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 92.0,
           "rank": 20,
           "money_rank": 20
         },
@@ -1152,6 +1192,7 @@
           "rounds": 3,
           "total_cents": -6510,
           "total_net": 229,
+          "total_gross": 297,
           "hole_wins": 520,
           "hole_losses": 741,
           "day_scores": {
@@ -1166,6 +1207,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 99.0,
           "rank": 21,
           "money_rank": 21
         },
@@ -1174,6 +1216,7 @@
           "rounds": 3,
           "total_cents": -7870,
           "total_net": 230,
+          "total_gross": 352,
           "hole_wins": 567,
           "hole_losses": 699,
           "day_scores": {
@@ -1188,6 +1231,7 @@
           },
           "complete": true,
           "average_net": 76.66666666666667,
+          "average_gross": 117.33333333333333,
           "rank": 22,
           "money_rank": 23
         },
@@ -1196,6 +1240,7 @@
           "rounds": 3,
           "total_cents": -7750,
           "total_net": 232,
+          "total_gross": 324,
           "hole_wins": 540,
           "hole_losses": 725,
           "day_scores": {
@@ -1210,6 +1255,7 @@
           },
           "complete": true,
           "average_net": 77.33333333333333,
+          "average_gross": 108.0,
           "rank": 23,
           "money_rank": 22
         },
@@ -1218,6 +1264,7 @@
           "rounds": 3,
           "total_cents": -12150,
           "total_net": 233,
+          "total_gross": 307,
           "hole_wins": 419,
           "hole_losses": 859,
           "day_scores": {
@@ -1232,6 +1279,7 @@
           },
           "complete": true,
           "average_net": 77.66666666666667,
+          "average_gross": 102.33333333333333,
           "rank": 24,
           "money_rank": 24
         },
@@ -1240,6 +1288,7 @@
           "rounds": 3,
           "total_cents": -13760,
           "total_net": 244,
+          "total_gross": 371,
           "hole_wins": 445,
           "hole_losses": 826,
           "day_scores": {
@@ -1254,6 +1303,7 @@
           },
           "complete": true,
           "average_net": 81.33333333333333,
+          "average_gross": 123.66666666666667,
           "rank": 25,
           "money_rank": 25
         }
@@ -1264,6 +1314,7 @@
           "rounds": 3,
           "total_cents": 11080,
           "total_net": 199,
+          "total_gross": 290,
           "hole_wins": 810,
           "hole_losses": 457,
           "day_scores": {
@@ -1278,6 +1329,7 @@
           },
           "complete": true,
           "average_net": 66.33333333333333,
+          "average_gross": 96.66666666666667,
           "rank": 2,
           "money_rank": 1
         },
@@ -1286,6 +1338,7 @@
           "rounds": 3,
           "total_cents": 9820,
           "total_net": 202,
+          "total_gross": 236,
           "hole_wins": 764,
           "hole_losses": 492,
           "day_scores": {
@@ -1300,6 +1353,7 @@
           },
           "complete": true,
           "average_net": 67.33333333333333,
+          "average_gross": 78.66666666666667,
           "rank": 3,
           "money_rank": 2
         },
@@ -1308,6 +1362,7 @@
           "rounds": 3,
           "total_cents": 8240,
           "total_net": 206,
+          "total_gross": 283,
           "hole_wins": 747,
           "hole_losses": 513,
           "day_scores": {
@@ -1322,6 +1377,7 @@
           },
           "complete": true,
           "average_net": 68.66666666666667,
+          "average_gross": 94.33333333333333,
           "rank": 5,
           "money_rank": 3
         },
@@ -1330,6 +1386,7 @@
           "rounds": 3,
           "total_cents": 7980,
           "total_net": 204,
+          "total_gross": 241,
           "hole_wins": 755,
           "hole_losses": 497,
           "day_scores": {
@@ -1344,6 +1401,7 @@
           },
           "complete": true,
           "average_net": 68.0,
+          "average_gross": 80.33333333333333,
           "rank": 4,
           "money_rank": 4
         },
@@ -1352,6 +1410,7 @@
           "rounds": 3,
           "total_cents": 7450,
           "total_net": 199,
+          "total_gross": 280,
           "hole_wins": 762,
           "hole_losses": 492,
           "day_scores": {
@@ -1366,6 +1425,7 @@
           },
           "complete": true,
           "average_net": 66.33333333333333,
+          "average_gross": 93.33333333333333,
           "rank": 1,
           "money_rank": 5
         },
@@ -1374,6 +1434,7 @@
           "rounds": 3,
           "total_cents": 5350,
           "total_net": 212,
+          "total_gross": 259,
           "hole_wins": 689,
           "hole_losses": 579,
           "day_scores": {
@@ -1388,6 +1449,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 86.33333333333333,
           "rank": 7,
           "money_rank": 6
         },
@@ -1396,6 +1458,7 @@
           "rounds": 3,
           "total_cents": 3290,
           "total_net": 213,
+          "total_gross": 267,
           "hole_wins": 663,
           "hole_losses": 619,
           "day_scores": {
@@ -1410,6 +1473,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 89.0,
           "rank": 9,
           "money_rank": 7
         },
@@ -1418,6 +1482,7 @@
           "rounds": 3,
           "total_cents": 2690,
           "total_net": 213,
+          "total_gross": 277,
           "hole_wins": 680,
           "hole_losses": 596,
           "day_scores": {
@@ -1432,6 +1497,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 92.33333333333333,
           "rank": 8,
           "money_rank": 8
         },
@@ -1440,6 +1506,7 @@
           "rounds": 3,
           "total_cents": 2580,
           "total_net": 214,
+          "total_gross": 309,
           "hole_wins": 671,
           "hole_losses": 598,
           "day_scores": {
@@ -1454,6 +1521,7 @@
           },
           "complete": true,
           "average_net": 71.33333333333333,
+          "average_gross": 103.0,
           "rank": 11,
           "money_rank": 9
         },
@@ -1462,6 +1530,7 @@
           "rounds": 3,
           "total_cents": 1970,
           "total_net": 209,
+          "total_gross": 284,
           "hole_wins": 657,
           "hole_losses": 615,
           "day_scores": {
@@ -1476,6 +1545,7 @@
           },
           "complete": true,
           "average_net": 69.66666666666667,
+          "average_gross": 94.66666666666667,
           "rank": 6,
           "money_rank": 10
         },
@@ -1484,6 +1554,7 @@
           "rounds": 3,
           "total_cents": 1900,
           "total_net": 214,
+          "total_gross": 233,
           "hole_wins": 622,
           "hole_losses": 642,
           "day_scores": {
@@ -1498,6 +1569,7 @@
           },
           "complete": true,
           "average_net": 71.33333333333333,
+          "average_gross": 77.66666666666667,
           "rank": 10,
           "money_rank": 11
         },
@@ -1506,6 +1578,7 @@
           "rounds": 3,
           "total_cents": 100,
           "total_net": 215,
+          "total_gross": 310,
           "hole_wins": 669,
           "hole_losses": 609,
           "day_scores": {
@@ -1520,6 +1593,7 @@
           },
           "complete": true,
           "average_net": 71.66666666666667,
+          "average_gross": 103.33333333333333,
           "rank": 12,
           "money_rank": 12
         },
@@ -1528,6 +1602,7 @@
           "rounds": 3,
           "total_cents": -340,
           "total_net": 217,
+          "total_gross": 281,
           "hole_wins": 637,
           "hole_losses": 616,
           "day_scores": {
@@ -1542,6 +1617,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 93.66666666666667,
           "rank": 14,
           "money_rank": 13
         },
@@ -1550,6 +1626,7 @@
           "rounds": 3,
           "total_cents": -360,
           "total_net": 218,
+          "total_gross": 283,
           "hole_wins": 627,
           "hole_losses": 638,
           "day_scores": {
@@ -1564,6 +1641,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 94.33333333333333,
           "rank": 15,
           "money_rank": 14
         },
@@ -1572,6 +1650,7 @@
           "rounds": 3,
           "total_cents": -770,
           "total_net": 216,
+          "total_gross": 283,
           "hole_wins": 620,
           "hole_losses": 647,
           "day_scores": {
@@ -1586,6 +1665,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 94.33333333333333,
           "rank": 13,
           "money_rank": 15
         },
@@ -1594,6 +1674,7 @@
           "rounds": 3,
           "total_cents": -980,
           "total_net": 225,
+          "total_gross": 302,
           "hole_wins": 566,
           "hole_losses": 689,
           "day_scores": {
@@ -1608,6 +1689,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 100.66666666666667,
           "rank": 19,
           "money_rank": 16
         },
@@ -1616,6 +1698,7 @@
           "rounds": 3,
           "total_cents": -1410,
           "total_net": 224,
+          "total_gross": 304,
           "hole_wins": 663,
           "hole_losses": 609,
           "day_scores": {
@@ -1630,6 +1713,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 101.33333333333333,
           "rank": 17,
           "money_rank": 17
         },
@@ -1638,6 +1722,7 @@
           "rounds": 3,
           "total_cents": -3220,
           "total_net": 224,
+          "total_gross": 362,
           "hole_wins": 611,
           "hole_losses": 648,
           "day_scores": {
@@ -1652,6 +1737,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 120.66666666666667,
           "rank": 18,
           "money_rank": 18
         },
@@ -1660,6 +1746,7 @@
           "rounds": 3,
           "total_cents": -3300,
           "total_net": 221,
+          "total_gross": 281,
           "hole_wins": 556,
           "hole_losses": 706,
           "day_scores": {
@@ -1674,6 +1761,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 93.66666666666667,
           "rank": 16,
           "money_rank": 19
         },
@@ -1682,6 +1770,7 @@
           "rounds": 3,
           "total_cents": -4030,
           "total_net": 225,
+          "total_gross": 276,
           "hole_wins": 555,
           "hole_losses": 703,
           "day_scores": {
@@ -1696,6 +1785,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 92.0,
           "rank": 20,
           "money_rank": 20
         },
@@ -1704,6 +1794,7 @@
           "rounds": 3,
           "total_cents": -6510,
           "total_net": 229,
+          "total_gross": 297,
           "hole_wins": 520,
           "hole_losses": 741,
           "day_scores": {
@@ -1718,6 +1809,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 99.0,
           "rank": 21,
           "money_rank": 21
         },
@@ -1726,6 +1818,7 @@
           "rounds": 3,
           "total_cents": -7750,
           "total_net": 232,
+          "total_gross": 324,
           "hole_wins": 540,
           "hole_losses": 725,
           "day_scores": {
@@ -1740,6 +1833,7 @@
           },
           "complete": true,
           "average_net": 77.33333333333333,
+          "average_gross": 108.0,
           "rank": 23,
           "money_rank": 22
         },
@@ -1748,6 +1842,7 @@
           "rounds": 3,
           "total_cents": -7870,
           "total_net": 230,
+          "total_gross": 352,
           "hole_wins": 567,
           "hole_losses": 699,
           "day_scores": {
@@ -1762,6 +1857,7 @@
           },
           "complete": true,
           "average_net": 76.66666666666667,
+          "average_gross": 117.33333333333333,
           "rank": 22,
           "money_rank": 23
         },
@@ -1770,6 +1866,7 @@
           "rounds": 3,
           "total_cents": -12150,
           "total_net": 233,
+          "total_gross": 307,
           "hole_wins": 419,
           "hole_losses": 859,
           "day_scores": {
@@ -1784,6 +1881,7 @@
           },
           "complete": true,
           "average_net": 77.66666666666667,
+          "average_gross": 102.33333333333333,
           "rank": 24,
           "money_rank": 24
         },
@@ -1792,6 +1890,7 @@
           "rounds": 3,
           "total_cents": -13760,
           "total_net": 244,
+          "total_gross": 371,
           "hole_wins": 445,
           "hole_losses": 826,
           "day_scores": {
@@ -1806,6 +1905,7 @@
           },
           "complete": true,
           "average_net": 81.33333333333333,
+          "average_gross": 123.66666666666667,
           "rank": 25,
           "money_rank": 25
         }
@@ -1822,6 +1922,7 @@
           "rounds": 3,
           "total_cents": 12420,
           "total_net": 191,
+          "total_gross": 293,
           "hole_wins": 741,
           "hole_losses": 359,
           "day_scores": {
@@ -1836,6 +1937,7 @@
           },
           "complete": true,
           "average_net": 63.666666666666664,
+          "average_gross": 97.66666666666667,
           "rank": 1,
           "money_rank": 2
         },
@@ -1844,6 +1946,7 @@
           "rounds": 3,
           "total_cents": 13000,
           "total_net": 196,
+          "total_gross": 279,
           "hole_wins": 745,
           "hole_losses": 330,
           "day_scores": {
@@ -1858,6 +1961,7 @@
           },
           "complete": true,
           "average_net": 65.33333333333333,
+          "average_gross": 93.0,
           "rank": 2,
           "money_rank": 1
         },
@@ -1866,6 +1970,7 @@
           "rounds": 3,
           "total_cents": 8530,
           "total_net": 203,
+          "total_gross": 268,
           "hole_wins": 649,
           "hole_losses": 436,
           "day_scores": {
@@ -1880,6 +1985,7 @@
           },
           "complete": true,
           "average_net": 67.66666666666667,
+          "average_gross": 89.33333333333333,
           "rank": 3,
           "money_rank": 3
         },
@@ -1888,6 +1994,7 @@
           "rounds": 3,
           "total_cents": 7780,
           "total_net": 204,
+          "total_gross": 268,
           "hole_wins": 644,
           "hole_losses": 451,
           "day_scores": {
@@ -1902,6 +2009,7 @@
           },
           "complete": true,
           "average_net": 68.0,
+          "average_gross": 89.33333333333333,
           "rank": 4,
           "money_rank": 4
         },
@@ -1910,6 +2018,7 @@
           "rounds": 3,
           "total_cents": 7060,
           "total_net": 205,
+          "total_gross": 272,
           "hole_wins": 611,
           "hole_losses": 475,
           "day_scores": {
@@ -1924,6 +2033,7 @@
           },
           "complete": true,
           "average_net": 68.33333333333333,
+          "average_gross": 90.66666666666667,
           "rank": 5,
           "money_rank": 5
         },
@@ -1932,6 +2042,7 @@
           "rounds": 3,
           "total_cents": 1450,
           "total_net": 213,
+          "total_gross": 281,
           "hole_wins": 555,
           "hole_losses": 525,
           "day_scores": {
@@ -1946,6 +2057,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 93.66666666666667,
           "rank": 6,
           "money_rank": 9
         },
@@ -1954,6 +2066,7 @@
           "rounds": 3,
           "total_cents": 3290,
           "total_net": 213,
+          "total_gross": 353,
           "hole_wins": 614,
           "hole_losses": 500,
           "day_scores": {
@@ -1968,6 +2081,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 117.66666666666667,
           "rank": 7,
           "money_rank": 6
         },
@@ -1976,6 +2090,7 @@
           "rounds": 3,
           "total_cents": 1930,
           "total_net": 214,
+          "total_gross": 231,
           "hole_wins": 561,
           "hole_losses": 533,
           "day_scores": {
@@ -1990,6 +2105,7 @@
           },
           "complete": true,
           "average_net": 71.33333333333333,
+          "average_gross": 77.0,
           "rank": 8,
           "money_rank": 8
         },
@@ -1998,6 +2114,7 @@
           "rounds": 3,
           "total_cents": 2670,
           "total_net": 215,
+          "total_gross": 280,
           "hole_wins": 559,
           "hole_losses": 532,
           "day_scores": {
@@ -2012,6 +2129,7 @@
           },
           "complete": true,
           "average_net": 71.66666666666667,
+          "average_gross": 93.33333333333333,
           "rank": 9,
           "money_rank": 7
         },
@@ -2020,6 +2138,7 @@
           "rounds": 3,
           "total_cents": 1050,
           "total_net": 217,
+          "total_gross": 281,
           "hole_wins": 563,
           "hole_losses": 533,
           "day_scores": {
@@ -2034,6 +2153,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 93.66666666666667,
           "rank": 10,
           "money_rank": 10
         },
@@ -2042,6 +2162,7 @@
           "rounds": 3,
           "total_cents": -1320,
           "total_net": 218,
+          "total_gross": 293,
           "hole_wins": 536,
           "hole_losses": 563,
           "day_scores": {
@@ -2056,6 +2177,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 97.66666666666667,
           "rank": 11,
           "money_rank": 13
         },
@@ -2064,6 +2186,7 @@
           "rounds": 3,
           "total_cents": -60,
           "total_net": 221,
+          "total_gross": 278,
           "hole_wins": 533,
           "hole_losses": 554,
           "day_scores": {
@@ -2078,6 +2201,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 92.66666666666667,
           "rank": 12,
           "money_rank": 11
         },
@@ -2086,6 +2210,7 @@
           "rounds": 3,
           "total_cents": -1100,
           "total_net": 221,
+          "total_gross": 279,
           "hole_wins": 502,
           "hole_losses": 587,
           "day_scores": {
@@ -2100,6 +2225,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 93.0,
           "rank": 13,
           "money_rank": 12
         },
@@ -2108,6 +2234,7 @@
           "rounds": 3,
           "total_cents": -2910,
           "total_net": 222,
+          "total_gross": 280,
           "hole_wins": 508,
           "hole_losses": 584,
           "day_scores": {
@@ -2122,6 +2249,7 @@
           },
           "complete": true,
           "average_net": 74.0,
+          "average_gross": 93.33333333333333,
           "rank": 14,
           "money_rank": 14
         },
@@ -2130,6 +2258,7 @@
           "rounds": 3,
           "total_cents": -4760,
           "total_net": 224,
+          "total_gross": 255,
           "hole_wins": 440,
           "hole_losses": 641,
           "day_scores": {
@@ -2144,6 +2273,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 85.0,
           "rank": 15,
           "money_rank": 16
         },
@@ -2152,6 +2282,7 @@
           "rounds": 3,
           "total_cents": -5900,
           "total_net": 226,
+          "total_gross": 257,
           "hole_wins": 455,
           "hole_losses": 630,
           "day_scores": {
@@ -2166,6 +2297,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 85.66666666666667,
           "rank": 16,
           "money_rank": 17
         },
@@ -2174,6 +2306,7 @@
           "rounds": 3,
           "total_cents": -4500,
           "total_net": 226,
+          "total_gross": 315,
           "hole_wins": 499,
           "hole_losses": 589,
           "day_scores": {
@@ -2188,6 +2321,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 105.0,
           "rank": 17,
           "money_rank": 15
         },
@@ -2196,6 +2330,7 @@
           "rounds": 3,
           "total_cents": -6170,
           "total_net": 228,
+          "total_gross": 296,
           "hole_wins": 461,
           "hole_losses": 638,
           "day_scores": {
@@ -2210,6 +2345,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 98.66666666666667,
           "rank": 18,
           "money_rank": 19
         },
@@ -2218,6 +2354,7 @@
           "rounds": 3,
           "total_cents": -6000,
           "total_net": 231,
+          "total_gross": 274,
           "hole_wins": 453,
           "hole_losses": 643,
           "day_scores": {
@@ -2232,6 +2369,7 @@
           },
           "complete": true,
           "average_net": 77.0,
+          "average_gross": 91.33333333333333,
           "rank": 19,
           "money_rank": 18
         },
@@ -2240,6 +2378,7 @@
           "rounds": 3,
           "total_cents": -6450,
           "total_net": 231,
+          "total_gross": 320,
           "hole_wins": 482,
           "hole_losses": 622,
           "day_scores": {
@@ -2254,6 +2393,7 @@
           },
           "complete": true,
           "average_net": 77.0,
+          "average_gross": 106.66666666666667,
           "rank": 20,
           "money_rank": 20
         },
@@ -2262,6 +2402,7 @@
           "rounds": 3,
           "total_cents": -11650,
           "total_net": 243,
+          "total_gross": 315,
           "hole_wins": 402,
           "hole_losses": 687,
           "day_scores": {
@@ -2276,6 +2417,7 @@
           },
           "complete": true,
           "average_net": 81.0,
+          "average_gross": 105.0,
           "rank": 21,
           "money_rank": 22
         },
@@ -2284,6 +2426,7 @@
           "rounds": 2,
           "total_cents": -8360,
           "total_net": 171,
+          "total_gross": 279,
           "hole_wins": 318,
           "hole_losses": 419,
           "day_scores": {
@@ -2296,6 +2439,7 @@
           },
           "complete": false,
           "average_net": 85.5,
+          "average_gross": 139.5,
           "rank": 22,
           "money_rank": 21
         }
@@ -2306,6 +2450,7 @@
           "rounds": 3,
           "total_cents": 13000,
           "total_net": 196,
+          "total_gross": 279,
           "hole_wins": 745,
           "hole_losses": 330,
           "day_scores": {
@@ -2320,6 +2465,7 @@
           },
           "complete": true,
           "average_net": 65.33333333333333,
+          "average_gross": 93.0,
           "rank": 2,
           "money_rank": 1
         },
@@ -2328,6 +2474,7 @@
           "rounds": 3,
           "total_cents": 12420,
           "total_net": 191,
+          "total_gross": 293,
           "hole_wins": 741,
           "hole_losses": 359,
           "day_scores": {
@@ -2342,6 +2489,7 @@
           },
           "complete": true,
           "average_net": 63.666666666666664,
+          "average_gross": 97.66666666666667,
           "rank": 1,
           "money_rank": 2
         },
@@ -2350,6 +2498,7 @@
           "rounds": 3,
           "total_cents": 8530,
           "total_net": 203,
+          "total_gross": 268,
           "hole_wins": 649,
           "hole_losses": 436,
           "day_scores": {
@@ -2364,6 +2513,7 @@
           },
           "complete": true,
           "average_net": 67.66666666666667,
+          "average_gross": 89.33333333333333,
           "rank": 3,
           "money_rank": 3
         },
@@ -2372,6 +2522,7 @@
           "rounds": 3,
           "total_cents": 7780,
           "total_net": 204,
+          "total_gross": 268,
           "hole_wins": 644,
           "hole_losses": 451,
           "day_scores": {
@@ -2386,6 +2537,7 @@
           },
           "complete": true,
           "average_net": 68.0,
+          "average_gross": 89.33333333333333,
           "rank": 4,
           "money_rank": 4
         },
@@ -2394,6 +2546,7 @@
           "rounds": 3,
           "total_cents": 7060,
           "total_net": 205,
+          "total_gross": 272,
           "hole_wins": 611,
           "hole_losses": 475,
           "day_scores": {
@@ -2408,6 +2561,7 @@
           },
           "complete": true,
           "average_net": 68.33333333333333,
+          "average_gross": 90.66666666666667,
           "rank": 5,
           "money_rank": 5
         },
@@ -2416,6 +2570,7 @@
           "rounds": 3,
           "total_cents": 3290,
           "total_net": 213,
+          "total_gross": 353,
           "hole_wins": 614,
           "hole_losses": 500,
           "day_scores": {
@@ -2430,6 +2585,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 117.66666666666667,
           "rank": 7,
           "money_rank": 6
         },
@@ -2438,6 +2594,7 @@
           "rounds": 3,
           "total_cents": 2670,
           "total_net": 215,
+          "total_gross": 280,
           "hole_wins": 559,
           "hole_losses": 532,
           "day_scores": {
@@ -2452,6 +2609,7 @@
           },
           "complete": true,
           "average_net": 71.66666666666667,
+          "average_gross": 93.33333333333333,
           "rank": 9,
           "money_rank": 7
         },
@@ -2460,6 +2618,7 @@
           "rounds": 3,
           "total_cents": 1930,
           "total_net": 214,
+          "total_gross": 231,
           "hole_wins": 561,
           "hole_losses": 533,
           "day_scores": {
@@ -2474,6 +2633,7 @@
           },
           "complete": true,
           "average_net": 71.33333333333333,
+          "average_gross": 77.0,
           "rank": 8,
           "money_rank": 8
         },
@@ -2482,6 +2642,7 @@
           "rounds": 3,
           "total_cents": 1450,
           "total_net": 213,
+          "total_gross": 281,
           "hole_wins": 555,
           "hole_losses": 525,
           "day_scores": {
@@ -2496,6 +2657,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 93.66666666666667,
           "rank": 6,
           "money_rank": 9
         },
@@ -2504,6 +2666,7 @@
           "rounds": 3,
           "total_cents": 1050,
           "total_net": 217,
+          "total_gross": 281,
           "hole_wins": 563,
           "hole_losses": 533,
           "day_scores": {
@@ -2518,6 +2681,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 93.66666666666667,
           "rank": 10,
           "money_rank": 10
         },
@@ -2526,6 +2690,7 @@
           "rounds": 3,
           "total_cents": -60,
           "total_net": 221,
+          "total_gross": 278,
           "hole_wins": 533,
           "hole_losses": 554,
           "day_scores": {
@@ -2540,6 +2705,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 92.66666666666667,
           "rank": 12,
           "money_rank": 11
         },
@@ -2548,6 +2714,7 @@
           "rounds": 3,
           "total_cents": -1100,
           "total_net": 221,
+          "total_gross": 279,
           "hole_wins": 502,
           "hole_losses": 587,
           "day_scores": {
@@ -2562,6 +2729,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 93.0,
           "rank": 13,
           "money_rank": 12
         },
@@ -2570,6 +2738,7 @@
           "rounds": 3,
           "total_cents": -1320,
           "total_net": 218,
+          "total_gross": 293,
           "hole_wins": 536,
           "hole_losses": 563,
           "day_scores": {
@@ -2584,6 +2753,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 97.66666666666667,
           "rank": 11,
           "money_rank": 13
         },
@@ -2592,6 +2762,7 @@
           "rounds": 3,
           "total_cents": -2910,
           "total_net": 222,
+          "total_gross": 280,
           "hole_wins": 508,
           "hole_losses": 584,
           "day_scores": {
@@ -2606,6 +2777,7 @@
           },
           "complete": true,
           "average_net": 74.0,
+          "average_gross": 93.33333333333333,
           "rank": 14,
           "money_rank": 14
         },
@@ -2614,6 +2786,7 @@
           "rounds": 3,
           "total_cents": -4500,
           "total_net": 226,
+          "total_gross": 315,
           "hole_wins": 499,
           "hole_losses": 589,
           "day_scores": {
@@ -2628,6 +2801,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 105.0,
           "rank": 17,
           "money_rank": 15
         },
@@ -2636,6 +2810,7 @@
           "rounds": 3,
           "total_cents": -4760,
           "total_net": 224,
+          "total_gross": 255,
           "hole_wins": 440,
           "hole_losses": 641,
           "day_scores": {
@@ -2650,6 +2825,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 85.0,
           "rank": 15,
           "money_rank": 16
         },
@@ -2658,6 +2834,7 @@
           "rounds": 3,
           "total_cents": -5900,
           "total_net": 226,
+          "total_gross": 257,
           "hole_wins": 455,
           "hole_losses": 630,
           "day_scores": {
@@ -2672,6 +2849,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 85.66666666666667,
           "rank": 16,
           "money_rank": 17
         },
@@ -2680,6 +2858,7 @@
           "rounds": 3,
           "total_cents": -6000,
           "total_net": 231,
+          "total_gross": 274,
           "hole_wins": 453,
           "hole_losses": 643,
           "day_scores": {
@@ -2694,6 +2873,7 @@
           },
           "complete": true,
           "average_net": 77.0,
+          "average_gross": 91.33333333333333,
           "rank": 19,
           "money_rank": 18
         },
@@ -2702,6 +2882,7 @@
           "rounds": 3,
           "total_cents": -6170,
           "total_net": 228,
+          "total_gross": 296,
           "hole_wins": 461,
           "hole_losses": 638,
           "day_scores": {
@@ -2716,6 +2897,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 98.66666666666667,
           "rank": 18,
           "money_rank": 19
         },
@@ -2724,6 +2906,7 @@
           "rounds": 3,
           "total_cents": -6450,
           "total_net": 231,
+          "total_gross": 320,
           "hole_wins": 482,
           "hole_losses": 622,
           "day_scores": {
@@ -2738,6 +2921,7 @@
           },
           "complete": true,
           "average_net": 77.0,
+          "average_gross": 106.66666666666667,
           "rank": 20,
           "money_rank": 20
         },
@@ -2746,6 +2930,7 @@
           "rounds": 2,
           "total_cents": -8360,
           "total_net": 171,
+          "total_gross": 279,
           "hole_wins": 318,
           "hole_losses": 419,
           "day_scores": {
@@ -2758,6 +2943,7 @@
           },
           "complete": false,
           "average_net": 85.5,
+          "average_gross": 139.5,
           "rank": 22,
           "money_rank": 21
         },
@@ -2766,6 +2952,7 @@
           "rounds": 3,
           "total_cents": -11650,
           "total_net": 243,
+          "total_gross": 315,
           "hole_wins": 402,
           "hole_losses": 687,
           "day_scores": {
@@ -2780,6 +2967,7 @@
           },
           "complete": true,
           "average_net": 81.0,
+          "average_gross": 105.0,
           "rank": 21,
           "money_rank": 22
         }
@@ -2796,6 +2984,7 @@
           "rounds": 3,
           "total_cents": 10680,
           "total_net": 199,
+          "total_gross": 265,
           "hole_wins": 752,
           "hole_losses": 384,
           "day_scores": {
@@ -2810,6 +2999,7 @@
           },
           "complete": true,
           "average_net": 66.33333333333333,
+          "average_gross": 88.33333333333333,
           "rank": 1,
           "money_rank": 2
         },
@@ -2818,6 +3008,7 @@
           "rounds": 3,
           "total_cents": 11680,
           "total_net": 203,
+          "total_gross": 272,
           "hole_wins": 690,
           "hole_losses": 447,
           "day_scores": {
@@ -2832,6 +3023,7 @@
           },
           "complete": true,
           "average_net": 67.66666666666667,
+          "average_gross": 90.66666666666667,
           "rank": 2,
           "money_rank": 1
         },
@@ -2840,6 +3032,7 @@
           "rounds": 3,
           "total_cents": 7180,
           "total_net": 209,
+          "total_gross": 237,
           "hole_wins": 635,
           "hole_losses": 497,
           "day_scores": {
@@ -2854,6 +3047,7 @@
           },
           "complete": true,
           "average_net": 69.66666666666667,
+          "average_gross": 79.0,
           "rank": 3,
           "money_rank": 3
         },
@@ -2862,6 +3056,7 @@
           "rounds": 3,
           "total_cents": 5920,
           "total_net": 212,
+          "total_gross": 252,
           "hole_wins": 629,
           "hole_losses": 492,
           "day_scores": {
@@ -2876,6 +3071,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 84.0,
           "rank": 4,
           "money_rank": 4
         },
@@ -2884,6 +3080,7 @@
           "rounds": 3,
           "total_cents": 3790,
           "total_net": 213,
+          "total_gross": 279,
           "hole_wins": 610,
           "hole_losses": 521,
           "day_scores": {
@@ -2898,6 +3095,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 93.0,
           "rank": 5,
           "money_rank": 5
         },
@@ -2906,6 +3104,7 @@
           "rounds": 3,
           "total_cents": 3750,
           "total_net": 216,
+          "total_gross": 281,
           "hole_wins": 605,
           "hole_losses": 510,
           "day_scores": {
@@ -2920,6 +3119,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 93.66666666666667,
           "rank": 6,
           "money_rank": 6
         },
@@ -2928,6 +3128,7 @@
           "rounds": 3,
           "total_cents": 2480,
           "total_net": 217,
+          "total_gross": 313,
           "hole_wins": 615,
           "hole_losses": 507,
           "day_scores": {
@@ -2942,6 +3143,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 104.33333333333333,
           "rank": 7,
           "money_rank": 8
         },
@@ -2950,6 +3152,7 @@
           "rounds": 3,
           "total_cents": 2530,
           "total_net": 218,
+          "total_gross": 255,
           "hole_wins": 566,
           "hole_losses": 573,
           "day_scores": {
@@ -2964,6 +3167,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 85.0,
           "rank": 8,
           "money_rank": 7
         },
@@ -2972,6 +3176,7 @@
           "rounds": 3,
           "total_cents": -1040,
           "total_net": 220,
+          "total_gross": 282,
           "hole_wins": 549,
           "hole_losses": 583,
           "day_scores": {
@@ -2986,6 +3191,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 94.0,
           "rank": 9,
           "money_rank": 10
         },
@@ -2994,6 +3200,7 @@
           "rounds": 3,
           "total_cents": -250,
           "total_net": 221,
+          "total_gross": 287,
           "hole_wins": 547,
           "hole_losses": 587,
           "day_scores": {
@@ -3008,6 +3215,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 95.66666666666667,
           "rank": 10,
           "money_rank": 9
         },
@@ -3016,6 +3224,7 @@
           "rounds": 3,
           "total_cents": -1710,
           "total_net": 224,
+          "total_gross": 358,
           "hole_wins": 540,
           "hole_losses": 591,
           "day_scores": {
@@ -3030,6 +3239,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 119.33333333333333,
           "rank": 11,
           "money_rank": 13
         },
@@ -3038,6 +3248,7 @@
           "rounds": 3,
           "total_cents": -1440,
           "total_net": 225,
+          "total_gross": 281,
           "hole_wins": 554,
           "hole_losses": 573,
           "day_scores": {
@@ -3052,6 +3263,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 93.66666666666667,
           "rank": 12,
           "money_rank": 11
         },
@@ -3060,6 +3272,7 @@
           "rounds": 3,
           "total_cents": -3490,
           "total_net": 225,
+          "total_gross": 302,
           "hole_wins": 523,
           "hole_losses": 617,
           "day_scores": {
@@ -3074,6 +3287,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 100.66666666666667,
           "rank": 13,
           "money_rank": 16
         },
@@ -3082,6 +3296,7 @@
           "rounds": 3,
           "total_cents": -1450,
           "total_net": 225,
+          "total_gross": 280,
           "hole_wins": 567,
           "hole_losses": 562,
           "day_scores": {
@@ -3096,6 +3311,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 93.33333333333333,
           "rank": 14,
           "money_rank": 12
         },
@@ -3104,6 +3320,7 @@
           "rounds": 3,
           "total_cents": -1830,
           "total_net": 226,
+          "total_gross": 326,
           "hole_wins": 562,
           "hole_losses": 575,
           "day_scores": {
@@ -3118,6 +3335,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 108.66666666666667,
           "rank": 15,
           "money_rank": 14
         },
@@ -3126,6 +3344,7 @@
           "rounds": 3,
           "total_cents": -3870,
           "total_net": 227,
+          "total_gross": 279,
           "hole_wins": 494,
           "hole_losses": 631,
           "day_scores": {
@@ -3140,6 +3359,7 @@
           },
           "complete": true,
           "average_net": 75.66666666666667,
+          "average_gross": 93.0,
           "rank": 16,
           "money_rank": 18
         },
@@ -3148,6 +3368,7 @@
           "rounds": 3,
           "total_cents": -3960,
           "total_net": 228,
+          "total_gross": 370,
           "hole_wins": 526,
           "hole_losses": 607,
           "day_scores": {
@@ -3162,6 +3383,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 123.33333333333333,
           "rank": 17,
           "money_rank": 19
         },
@@ -3170,6 +3392,7 @@
           "rounds": 3,
           "total_cents": -3510,
           "total_net": 228,
+          "total_gross": 269,
           "hole_wins": 502,
           "hole_losses": 623,
           "day_scores": {
@@ -3184,6 +3407,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 89.66666666666667,
           "rank": 18,
           "money_rank": 17
         },
@@ -3192,6 +3416,7 @@
           "rounds": 3,
           "total_cents": -4430,
           "total_net": 229,
+          "total_gross": 297,
           "hole_wins": 489,
           "hole_losses": 627,
           "day_scores": {
@@ -3206,6 +3431,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 99.0,
           "rank": 19,
           "money_rank": 20
         },
@@ -3214,6 +3440,7 @@
           "rounds": 3,
           "total_cents": -5470,
           "total_net": 230,
+          "total_gross": 281,
           "hole_wins": 479,
           "hole_losses": 641,
           "day_scores": {
@@ -3228,6 +3455,7 @@
           },
           "complete": true,
           "average_net": 76.66666666666667,
+          "average_gross": 93.66666666666667,
           "rank": 20,
           "money_rank": 21
         },
@@ -3236,6 +3464,7 @@
           "rounds": 3,
           "total_cents": -5600,
           "total_net": 231,
+          "total_gross": 301,
           "hole_wins": 536,
           "hole_losses": 591,
           "day_scores": {
@@ -3250,6 +3479,7 @@
           },
           "complete": true,
           "average_net": 77.0,
+          "average_gross": 100.33333333333333,
           "rank": 21,
           "money_rank": 22
         },
@@ -3258,6 +3488,7 @@
           "rounds": 3,
           "total_cents": -7400,
           "total_net": 234,
+          "total_gross": 269,
           "hole_wins": 486,
           "hole_losses": 641,
           "day_scores": {
@@ -3272,6 +3503,7 @@
           },
           "complete": true,
           "average_net": 78.0,
+          "average_gross": 89.66666666666667,
           "rank": 22,
           "money_rank": 23
         },
@@ -3280,6 +3512,7 @@
           "rounds": 1,
           "total_cents": -2560,
           "total_net": 77,
+          "total_gross": 109,
           "hole_wins": 156,
           "hole_losses": 232,
           "day_scores": {
@@ -3290,6 +3523,7 @@
           },
           "complete": false,
           "average_net": 77.0,
+          "average_gross": 109.0,
           "rank": 23,
           "money_rank": 15
         }
@@ -3300,6 +3534,7 @@
           "rounds": 3,
           "total_cents": 11680,
           "total_net": 203,
+          "total_gross": 272,
           "hole_wins": 690,
           "hole_losses": 447,
           "day_scores": {
@@ -3314,6 +3549,7 @@
           },
           "complete": true,
           "average_net": 67.66666666666667,
+          "average_gross": 90.66666666666667,
           "rank": 2,
           "money_rank": 1
         },
@@ -3322,6 +3558,7 @@
           "rounds": 3,
           "total_cents": 10680,
           "total_net": 199,
+          "total_gross": 265,
           "hole_wins": 752,
           "hole_losses": 384,
           "day_scores": {
@@ -3336,6 +3573,7 @@
           },
           "complete": true,
           "average_net": 66.33333333333333,
+          "average_gross": 88.33333333333333,
           "rank": 1,
           "money_rank": 2
         },
@@ -3344,6 +3582,7 @@
           "rounds": 3,
           "total_cents": 7180,
           "total_net": 209,
+          "total_gross": 237,
           "hole_wins": 635,
           "hole_losses": 497,
           "day_scores": {
@@ -3358,6 +3597,7 @@
           },
           "complete": true,
           "average_net": 69.66666666666667,
+          "average_gross": 79.0,
           "rank": 3,
           "money_rank": 3
         },
@@ -3366,6 +3606,7 @@
           "rounds": 3,
           "total_cents": 5920,
           "total_net": 212,
+          "total_gross": 252,
           "hole_wins": 629,
           "hole_losses": 492,
           "day_scores": {
@@ -3380,6 +3621,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 84.0,
           "rank": 4,
           "money_rank": 4
         },
@@ -3388,6 +3630,7 @@
           "rounds": 3,
           "total_cents": 3790,
           "total_net": 213,
+          "total_gross": 279,
           "hole_wins": 610,
           "hole_losses": 521,
           "day_scores": {
@@ -3402,6 +3645,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 93.0,
           "rank": 5,
           "money_rank": 5
         },
@@ -3410,6 +3654,7 @@
           "rounds": 3,
           "total_cents": 3750,
           "total_net": 216,
+          "total_gross": 281,
           "hole_wins": 605,
           "hole_losses": 510,
           "day_scores": {
@@ -3424,6 +3669,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 93.66666666666667,
           "rank": 6,
           "money_rank": 6
         },
@@ -3432,6 +3678,7 @@
           "rounds": 3,
           "total_cents": 2530,
           "total_net": 218,
+          "total_gross": 255,
           "hole_wins": 566,
           "hole_losses": 573,
           "day_scores": {
@@ -3446,6 +3693,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 85.0,
           "rank": 8,
           "money_rank": 7
         },
@@ -3454,6 +3702,7 @@
           "rounds": 3,
           "total_cents": 2480,
           "total_net": 217,
+          "total_gross": 313,
           "hole_wins": 615,
           "hole_losses": 507,
           "day_scores": {
@@ -3468,6 +3717,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 104.33333333333333,
           "rank": 7,
           "money_rank": 8
         },
@@ -3476,6 +3726,7 @@
           "rounds": 3,
           "total_cents": -250,
           "total_net": 221,
+          "total_gross": 287,
           "hole_wins": 547,
           "hole_losses": 587,
           "day_scores": {
@@ -3490,6 +3741,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 95.66666666666667,
           "rank": 10,
           "money_rank": 9
         },
@@ -3498,6 +3750,7 @@
           "rounds": 3,
           "total_cents": -1040,
           "total_net": 220,
+          "total_gross": 282,
           "hole_wins": 549,
           "hole_losses": 583,
           "day_scores": {
@@ -3512,6 +3765,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 94.0,
           "rank": 9,
           "money_rank": 10
         },
@@ -3520,6 +3774,7 @@
           "rounds": 3,
           "total_cents": -1440,
           "total_net": 225,
+          "total_gross": 281,
           "hole_wins": 554,
           "hole_losses": 573,
           "day_scores": {
@@ -3534,6 +3789,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 93.66666666666667,
           "rank": 12,
           "money_rank": 11
         },
@@ -3542,6 +3798,7 @@
           "rounds": 3,
           "total_cents": -1450,
           "total_net": 225,
+          "total_gross": 280,
           "hole_wins": 567,
           "hole_losses": 562,
           "day_scores": {
@@ -3556,6 +3813,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 93.33333333333333,
           "rank": 14,
           "money_rank": 12
         },
@@ -3564,6 +3822,7 @@
           "rounds": 3,
           "total_cents": -1710,
           "total_net": 224,
+          "total_gross": 358,
           "hole_wins": 540,
           "hole_losses": 591,
           "day_scores": {
@@ -3578,6 +3837,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 119.33333333333333,
           "rank": 11,
           "money_rank": 13
         },
@@ -3586,6 +3846,7 @@
           "rounds": 3,
           "total_cents": -1830,
           "total_net": 226,
+          "total_gross": 326,
           "hole_wins": 562,
           "hole_losses": 575,
           "day_scores": {
@@ -3600,6 +3861,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 108.66666666666667,
           "rank": 15,
           "money_rank": 14
         },
@@ -3608,6 +3870,7 @@
           "rounds": 1,
           "total_cents": -2560,
           "total_net": 77,
+          "total_gross": 109,
           "hole_wins": 156,
           "hole_losses": 232,
           "day_scores": {
@@ -3618,6 +3881,7 @@
           },
           "complete": false,
           "average_net": 77.0,
+          "average_gross": 109.0,
           "rank": 23,
           "money_rank": 15
         },
@@ -3626,6 +3890,7 @@
           "rounds": 3,
           "total_cents": -3490,
           "total_net": 225,
+          "total_gross": 302,
           "hole_wins": 523,
           "hole_losses": 617,
           "day_scores": {
@@ -3640,6 +3905,7 @@
           },
           "complete": true,
           "average_net": 75.0,
+          "average_gross": 100.66666666666667,
           "rank": 13,
           "money_rank": 16
         },
@@ -3648,6 +3914,7 @@
           "rounds": 3,
           "total_cents": -3510,
           "total_net": 228,
+          "total_gross": 269,
           "hole_wins": 502,
           "hole_losses": 623,
           "day_scores": {
@@ -3662,6 +3929,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 89.66666666666667,
           "rank": 18,
           "money_rank": 17
         },
@@ -3670,6 +3938,7 @@
           "rounds": 3,
           "total_cents": -3870,
           "total_net": 227,
+          "total_gross": 279,
           "hole_wins": 494,
           "hole_losses": 631,
           "day_scores": {
@@ -3684,6 +3953,7 @@
           },
           "complete": true,
           "average_net": 75.66666666666667,
+          "average_gross": 93.0,
           "rank": 16,
           "money_rank": 18
         },
@@ -3692,6 +3962,7 @@
           "rounds": 3,
           "total_cents": -3960,
           "total_net": 228,
+          "total_gross": 370,
           "hole_wins": 526,
           "hole_losses": 607,
           "day_scores": {
@@ -3706,6 +3977,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 123.33333333333333,
           "rank": 17,
           "money_rank": 19
         },
@@ -3714,6 +3986,7 @@
           "rounds": 3,
           "total_cents": -4430,
           "total_net": 229,
+          "total_gross": 297,
           "hole_wins": 489,
           "hole_losses": 627,
           "day_scores": {
@@ -3728,6 +4001,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 99.0,
           "rank": 19,
           "money_rank": 20
         },
@@ -3736,6 +4010,7 @@
           "rounds": 3,
           "total_cents": -5470,
           "total_net": 230,
+          "total_gross": 281,
           "hole_wins": 479,
           "hole_losses": 641,
           "day_scores": {
@@ -3750,6 +4025,7 @@
           },
           "complete": true,
           "average_net": 76.66666666666667,
+          "average_gross": 93.66666666666667,
           "rank": 20,
           "money_rank": 21
         },
@@ -3758,6 +4034,7 @@
           "rounds": 3,
           "total_cents": -5600,
           "total_net": 231,
+          "total_gross": 301,
           "hole_wins": 536,
           "hole_losses": 591,
           "day_scores": {
@@ -3772,6 +4049,7 @@
           },
           "complete": true,
           "average_net": 77.0,
+          "average_gross": 100.33333333333333,
           "rank": 21,
           "money_rank": 22
         },
@@ -3780,6 +4058,7 @@
           "rounds": 3,
           "total_cents": -7400,
           "total_net": 234,
+          "total_gross": 269,
           "hole_wins": 486,
           "hole_losses": 641,
           "day_scores": {
@@ -3794,6 +4073,7 @@
           },
           "complete": true,
           "average_net": 78.0,
+          "average_gross": 89.66666666666667,
           "rank": 22,
           "money_rank": 23
         }
@@ -3810,6 +4090,7 @@
           "rounds": 3,
           "total_cents": 7840,
           "total_net": 207,
+          "total_gross": 315,
           "hole_wins": 590,
           "hole_losses": 401,
           "day_scores": {
@@ -3824,6 +4105,7 @@
           },
           "complete": true,
           "average_net": 69.0,
+          "average_gross": 105.0,
           "rank": 1,
           "money_rank": 1
         },
@@ -3832,6 +4114,7 @@
           "rounds": 3,
           "total_cents": 5060,
           "total_net": 208,
+          "total_gross": 268,
           "hole_wins": 585,
           "hole_losses": 409,
           "day_scores": {
@@ -3846,6 +4129,7 @@
           },
           "complete": true,
           "average_net": 69.33333333333333,
+          "average_gross": 89.33333333333333,
           "rank": 2,
           "money_rank": 2
         },
@@ -3854,6 +4138,7 @@
           "rounds": 3,
           "total_cents": 2750,
           "total_net": 212,
+          "total_gross": 296,
           "hole_wins": 534,
           "hole_losses": 444,
           "day_scores": {
@@ -3868,6 +4153,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 98.66666666666667,
           "rank": 3,
           "money_rank": 4
         },
@@ -3876,6 +4162,7 @@
           "rounds": 3,
           "total_cents": 3360,
           "total_net": 212,
+          "total_gross": 268,
           "hole_wins": 548,
           "hole_losses": 447,
           "day_scores": {
@@ -3890,6 +4177,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 89.33333333333333,
           "rank": 4,
           "money_rank": 3
         },
@@ -3898,6 +4186,7 @@
           "rounds": 3,
           "total_cents": 2240,
           "total_net": 216,
+          "total_gross": 243,
           "hole_wins": 526,
           "hole_losses": 462,
           "day_scores": {
@@ -3912,6 +4201,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 81.0,
           "rank": 5,
           "money_rank": 5
         },
@@ -3920,6 +4210,7 @@
           "rounds": 3,
           "total_cents": 1220,
           "total_net": 216,
+          "total_gross": 251,
           "hole_wins": 506,
           "hole_losses": 474,
           "day_scores": {
@@ -3934,6 +4225,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 83.66666666666667,
           "rank": 6,
           "money_rank": 7
         },
@@ -3942,6 +4234,7 @@
           "rounds": 3,
           "total_cents": 1250,
           "total_net": 216,
+          "total_gross": 289,
           "hole_wins": 524,
           "hole_losses": 454,
           "day_scores": {
@@ -3956,6 +4249,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 96.33333333333333,
           "rank": 7,
           "money_rank": 6
         },
@@ -3964,6 +4258,7 @@
           "rounds": 3,
           "total_cents": 330,
           "total_net": 217,
+          "total_gross": 269,
           "hole_wins": 507,
           "hole_losses": 464,
           "day_scores": {
@@ -3978,6 +4273,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 89.66666666666667,
           "rank": 8,
           "money_rank": 9
         },
@@ -3986,6 +4282,7 @@
           "rounds": 3,
           "total_cents": -570,
           "total_net": 218,
+          "total_gross": 264,
           "hole_wins": 497,
           "hole_losses": 474,
           "day_scores": {
@@ -4000,6 +4297,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 88.0,
           "rank": 9,
           "money_rank": 11
         },
@@ -4008,6 +4306,7 @@
           "rounds": 3,
           "total_cents": 660,
           "total_net": 220,
+          "total_gross": 269,
           "hole_wins": 532,
           "hole_losses": 456,
           "day_scores": {
@@ -4022,6 +4321,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 89.66666666666667,
           "rank": 10,
           "money_rank": 8
         },
@@ -4030,6 +4330,7 @@
           "rounds": 3,
           "total_cents": -670,
           "total_net": 220,
+          "total_gross": 271,
           "hole_wins": 492,
           "hole_losses": 479,
           "day_scores": {
@@ -4044,6 +4345,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 90.33333333333333,
           "rank": 11,
           "money_rank": 12
         },
@@ -4052,6 +4354,7 @@
           "rounds": 3,
           "total_cents": -170,
           "total_net": 220,
+          "total_gross": 267,
           "hole_wins": 487,
           "hole_losses": 489,
           "day_scores": {
@@ -4066,6 +4369,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 89.0,
           "rank": 12,
           "money_rank": 10
         },
@@ -4074,6 +4378,7 @@
           "rounds": 3,
           "total_cents": -1150,
           "total_net": 222,
+          "total_gross": 301,
           "hole_wins": 469,
           "hole_losses": 519,
           "day_scores": {
@@ -4088,6 +4393,7 @@
           },
           "complete": true,
           "average_net": 74.0,
+          "average_gross": 100.33333333333333,
           "rank": 13,
           "money_rank": 14
         },
@@ -4096,6 +4402,7 @@
           "rounds": 3,
           "total_cents": -1400,
           "total_net": 224,
+          "total_gross": 285,
           "hole_wins": 468,
           "hole_losses": 513,
           "day_scores": {
@@ -4110,6 +4417,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 95.0,
           "rank": 14,
           "money_rank": 15
         },
@@ -4118,6 +4426,7 @@
           "rounds": 3,
           "total_cents": -2900,
           "total_net": 224,
+          "total_gross": 276,
           "hole_wins": 470,
           "hole_losses": 515,
           "day_scores": {
@@ -4132,6 +4441,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 92.0,
           "rank": 15,
           "money_rank": 16
         },
@@ -4140,6 +4450,7 @@
           "rounds": 3,
           "total_cents": -4210,
           "total_net": 227,
+          "total_gross": 285,
           "hole_wins": 432,
           "hole_losses": 548,
           "day_scores": {
@@ -4154,6 +4465,7 @@
           },
           "complete": true,
           "average_net": 75.66666666666667,
+          "average_gross": 95.0,
           "rank": 16,
           "money_rank": 18
         },
@@ -4162,6 +4474,7 @@
           "rounds": 3,
           "total_cents": -3010,
           "total_net": 227,
+          "total_gross": 275,
           "hole_wins": 409,
           "hole_losses": 585,
           "day_scores": {
@@ -4176,6 +4489,7 @@
           },
           "complete": true,
           "average_net": 75.66666666666667,
+          "average_gross": 91.66666666666667,
           "rank": 17,
           "money_rank": 17
         },
@@ -4184,6 +4498,7 @@
           "rounds": 3,
           "total_cents": -1050,
           "total_net": 229,
+          "total_gross": 297,
           "hole_wins": 446,
           "hole_losses": 546,
           "day_scores": {
@@ -4198,6 +4513,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 99.0,
           "rank": 18,
           "money_rank": 13
         },
@@ -4206,6 +4522,7 @@
           "rounds": 3,
           "total_cents": -4880,
           "total_net": 234,
+          "total_gross": 345,
           "hole_wins": 382,
           "hole_losses": 595,
           "day_scores": {
@@ -4220,6 +4537,7 @@
           },
           "complete": true,
           "average_net": 78.0,
+          "average_gross": 115.0,
           "rank": 19,
           "money_rank": 20
         },
@@ -4228,6 +4546,7 @@
           "rounds": 2,
           "total_cents": -4700,
           "total_net": 155,
+          "total_gross": 211,
           "hole_wins": 270,
           "hole_losses": 400,
           "day_scores": {
@@ -4240,6 +4559,7 @@
           },
           "complete": false,
           "average_net": 77.5,
+          "average_gross": 105.5,
           "rank": 20,
           "money_rank": 19
         }
@@ -4250,6 +4570,7 @@
           "rounds": 3,
           "total_cents": 7840,
           "total_net": 207,
+          "total_gross": 315,
           "hole_wins": 590,
           "hole_losses": 401,
           "day_scores": {
@@ -4264,6 +4585,7 @@
           },
           "complete": true,
           "average_net": 69.0,
+          "average_gross": 105.0,
           "rank": 1,
           "money_rank": 1
         },
@@ -4272,6 +4594,7 @@
           "rounds": 3,
           "total_cents": 5060,
           "total_net": 208,
+          "total_gross": 268,
           "hole_wins": 585,
           "hole_losses": 409,
           "day_scores": {
@@ -4286,6 +4609,7 @@
           },
           "complete": true,
           "average_net": 69.33333333333333,
+          "average_gross": 89.33333333333333,
           "rank": 2,
           "money_rank": 2
         },
@@ -4294,6 +4618,7 @@
           "rounds": 3,
           "total_cents": 3360,
           "total_net": 212,
+          "total_gross": 268,
           "hole_wins": 548,
           "hole_losses": 447,
           "day_scores": {
@@ -4308,6 +4633,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 89.33333333333333,
           "rank": 4,
           "money_rank": 3
         },
@@ -4316,6 +4642,7 @@
           "rounds": 3,
           "total_cents": 2750,
           "total_net": 212,
+          "total_gross": 296,
           "hole_wins": 534,
           "hole_losses": 444,
           "day_scores": {
@@ -4330,6 +4657,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 98.66666666666667,
           "rank": 3,
           "money_rank": 4
         },
@@ -4338,6 +4666,7 @@
           "rounds": 3,
           "total_cents": 2240,
           "total_net": 216,
+          "total_gross": 243,
           "hole_wins": 526,
           "hole_losses": 462,
           "day_scores": {
@@ -4352,6 +4681,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 81.0,
           "rank": 5,
           "money_rank": 5
         },
@@ -4360,6 +4690,7 @@
           "rounds": 3,
           "total_cents": 1250,
           "total_net": 216,
+          "total_gross": 289,
           "hole_wins": 524,
           "hole_losses": 454,
           "day_scores": {
@@ -4374,6 +4705,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 96.33333333333333,
           "rank": 7,
           "money_rank": 6
         },
@@ -4382,6 +4714,7 @@
           "rounds": 3,
           "total_cents": 1220,
           "total_net": 216,
+          "total_gross": 251,
           "hole_wins": 506,
           "hole_losses": 474,
           "day_scores": {
@@ -4396,6 +4729,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 83.66666666666667,
           "rank": 6,
           "money_rank": 7
         },
@@ -4404,6 +4738,7 @@
           "rounds": 3,
           "total_cents": 660,
           "total_net": 220,
+          "total_gross": 269,
           "hole_wins": 532,
           "hole_losses": 456,
           "day_scores": {
@@ -4418,6 +4753,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 89.66666666666667,
           "rank": 10,
           "money_rank": 8
         },
@@ -4426,6 +4762,7 @@
           "rounds": 3,
           "total_cents": 330,
           "total_net": 217,
+          "total_gross": 269,
           "hole_wins": 507,
           "hole_losses": 464,
           "day_scores": {
@@ -4440,6 +4777,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 89.66666666666667,
           "rank": 8,
           "money_rank": 9
         },
@@ -4448,6 +4786,7 @@
           "rounds": 3,
           "total_cents": -170,
           "total_net": 220,
+          "total_gross": 267,
           "hole_wins": 487,
           "hole_losses": 489,
           "day_scores": {
@@ -4462,6 +4801,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 89.0,
           "rank": 12,
           "money_rank": 10
         },
@@ -4470,6 +4810,7 @@
           "rounds": 3,
           "total_cents": -570,
           "total_net": 218,
+          "total_gross": 264,
           "hole_wins": 497,
           "hole_losses": 474,
           "day_scores": {
@@ -4484,6 +4825,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 88.0,
           "rank": 9,
           "money_rank": 11
         },
@@ -4492,6 +4834,7 @@
           "rounds": 3,
           "total_cents": -670,
           "total_net": 220,
+          "total_gross": 271,
           "hole_wins": 492,
           "hole_losses": 479,
           "day_scores": {
@@ -4506,6 +4849,7 @@
           },
           "complete": true,
           "average_net": 73.33333333333333,
+          "average_gross": 90.33333333333333,
           "rank": 11,
           "money_rank": 12
         },
@@ -4514,6 +4858,7 @@
           "rounds": 3,
           "total_cents": -1050,
           "total_net": 229,
+          "total_gross": 297,
           "hole_wins": 446,
           "hole_losses": 546,
           "day_scores": {
@@ -4528,6 +4873,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 99.0,
           "rank": 18,
           "money_rank": 13
         },
@@ -4536,6 +4882,7 @@
           "rounds": 3,
           "total_cents": -1150,
           "total_net": 222,
+          "total_gross": 301,
           "hole_wins": 469,
           "hole_losses": 519,
           "day_scores": {
@@ -4550,6 +4897,7 @@
           },
           "complete": true,
           "average_net": 74.0,
+          "average_gross": 100.33333333333333,
           "rank": 13,
           "money_rank": 14
         },
@@ -4558,6 +4906,7 @@
           "rounds": 3,
           "total_cents": -1400,
           "total_net": 224,
+          "total_gross": 285,
           "hole_wins": 468,
           "hole_losses": 513,
           "day_scores": {
@@ -4572,6 +4921,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 95.0,
           "rank": 14,
           "money_rank": 15
         },
@@ -4580,6 +4930,7 @@
           "rounds": 3,
           "total_cents": -2900,
           "total_net": 224,
+          "total_gross": 276,
           "hole_wins": 470,
           "hole_losses": 515,
           "day_scores": {
@@ -4594,6 +4945,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 92.0,
           "rank": 15,
           "money_rank": 16
         },
@@ -4602,6 +4954,7 @@
           "rounds": 3,
           "total_cents": -3010,
           "total_net": 227,
+          "total_gross": 275,
           "hole_wins": 409,
           "hole_losses": 585,
           "day_scores": {
@@ -4616,6 +4969,7 @@
           },
           "complete": true,
           "average_net": 75.66666666666667,
+          "average_gross": 91.66666666666667,
           "rank": 17,
           "money_rank": 17
         },
@@ -4624,6 +4978,7 @@
           "rounds": 3,
           "total_cents": -4210,
           "total_net": 227,
+          "total_gross": 285,
           "hole_wins": 432,
           "hole_losses": 548,
           "day_scores": {
@@ -4638,6 +4993,7 @@
           },
           "complete": true,
           "average_net": 75.66666666666667,
+          "average_gross": 95.0,
           "rank": 16,
           "money_rank": 18
         },
@@ -4646,6 +5002,7 @@
           "rounds": 2,
           "total_cents": -4700,
           "total_net": 155,
+          "total_gross": 211,
           "hole_wins": 270,
           "hole_losses": 400,
           "day_scores": {
@@ -4658,6 +5015,7 @@
           },
           "complete": false,
           "average_net": 77.5,
+          "average_gross": 105.5,
           "rank": 20,
           "money_rank": 19
         },
@@ -4666,6 +5024,7 @@
           "rounds": 3,
           "total_cents": -4880,
           "total_net": 234,
+          "total_gross": 345,
           "hole_wins": 382,
           "hole_losses": 595,
           "day_scores": {
@@ -4680,6 +5039,7 @@
           },
           "complete": true,
           "average_net": 78.0,
+          "average_gross": 115.0,
           "rank": 19,
           "money_rank": 20
         }
@@ -4696,6 +5056,7 @@
           "rounds": 3,
           "total_cents": 11540,
           "total_net": 202,
+          "total_gross": 290,
           "hole_wins": 681,
           "hole_losses": 387,
           "day_scores": {
@@ -4710,6 +5071,7 @@
           },
           "complete": true,
           "average_net": 67.33333333333333,
+          "average_gross": 96.66666666666667,
           "rank": 1,
           "money_rank": 1
         },
@@ -4718,6 +5080,7 @@
           "rounds": 3,
           "total_cents": 3490,
           "total_net": 210,
+          "total_gross": 265,
           "hole_wins": 585,
           "hole_losses": 481,
           "day_scores": {
@@ -4732,6 +5095,7 @@
           },
           "complete": true,
           "average_net": 70.0,
+          "average_gross": 88.33333333333333,
           "rank": 2,
           "money_rank": 7
         },
@@ -4740,6 +5104,7 @@
           "rounds": 3,
           "total_cents": 5240,
           "total_net": 210,
+          "total_gross": 245,
           "hole_wins": 601,
           "hole_losses": 472,
           "day_scores": {
@@ -4754,6 +5119,7 @@
           },
           "complete": true,
           "average_net": 70.0,
+          "average_gross": 81.66666666666667,
           "rank": 3,
           "money_rank": 2
         },
@@ -4762,6 +5128,7 @@
           "rounds": 3,
           "total_cents": 4860,
           "total_net": 212,
+          "total_gross": 277,
           "hole_wins": 629,
           "hole_losses": 448,
           "day_scores": {
@@ -4776,6 +5143,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 92.33333333333333,
           "rank": 4,
           "money_rank": 3
         },
@@ -4784,6 +5152,7 @@
           "rounds": 3,
           "total_cents": 4620,
           "total_net": 212,
+          "total_gross": 376,
           "hole_wins": 641,
           "hole_losses": 439,
           "day_scores": {
@@ -4798,6 +5167,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 125.33333333333333,
           "rank": 5,
           "money_rank": 5
         },
@@ -4806,6 +5176,7 @@
           "rounds": 3,
           "total_cents": 4510,
           "total_net": 213,
+          "total_gross": 304,
           "hole_wins": 599,
           "hole_losses": 473,
           "day_scores": {
@@ -4820,6 +5191,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 101.33333333333333,
           "rank": 6,
           "money_rank": 6
         },
@@ -4828,6 +5200,7 @@
           "rounds": 3,
           "total_cents": 4680,
           "total_net": 213,
+          "total_gross": 264,
           "hole_wins": 590,
           "hole_losses": 487,
           "day_scores": {
@@ -4842,6 +5215,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 88.0,
           "rank": 7,
           "money_rank": 4
         },
@@ -4850,6 +5224,7 @@
           "rounds": 3,
           "total_cents": 470,
           "total_net": 213,
+          "total_gross": 267,
           "hole_wins": 587,
           "hole_losses": 490,
           "day_scores": {
@@ -4864,6 +5239,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 89.0,
           "rank": 8,
           "money_rank": 14
         },
@@ -4872,6 +5248,7 @@
           "rounds": 3,
           "total_cents": 1900,
           "total_net": 216,
+          "total_gross": 274,
           "hole_wins": 527,
           "hole_losses": 552,
           "day_scores": {
@@ -4886,6 +5263,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 91.33333333333333,
           "rank": 9,
           "money_rank": 8
         },
@@ -4894,6 +5272,7 @@
           "rounds": 3,
           "total_cents": 1310,
           "total_net": 218,
+          "total_gross": 243,
           "hole_wins": 537,
           "hole_losses": 546,
           "day_scores": {
@@ -4908,6 +5287,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 81.0,
           "rank": 10,
           "money_rank": 10
         },
@@ -4916,6 +5296,7 @@
           "rounds": 3,
           "total_cents": 1150,
           "total_net": 218,
+          "total_gross": 296,
           "hole_wins": 586,
           "hole_losses": 486,
           "day_scores": {
@@ -4930,6 +5311,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 98.66666666666667,
           "rank": 11,
           "money_rank": 12
         },
@@ -4938,6 +5320,7 @@
           "rounds": 3,
           "total_cents": 1070,
           "total_net": 219,
+          "total_gross": 306,
           "hole_wins": 585,
           "hole_losses": 503,
           "day_scores": {
@@ -4952,6 +5335,7 @@
           },
           "complete": true,
           "average_net": 73.0,
+          "average_gross": 102.0,
           "rank": 12,
           "money_rank": 13
         },
@@ -4960,6 +5344,7 @@
           "rounds": 3,
           "total_cents": 1310,
           "total_net": 221,
+          "total_gross": 269,
           "hole_wins": 540,
           "hole_losses": 544,
           "day_scores": {
@@ -4974,6 +5359,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 89.66666666666667,
           "rank": 13,
           "money_rank": 9
         },
@@ -4982,6 +5368,7 @@
           "rounds": 3,
           "total_cents": 1230,
           "total_net": 221,
+          "total_gross": 289,
           "hole_wins": 580,
           "hole_losses": 502,
           "day_scores": {
@@ -4996,6 +5383,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 96.33333333333333,
           "rank": 14,
           "money_rank": 11
         },
@@ -5004,6 +5392,7 @@
           "rounds": 3,
           "total_cents": -2010,
           "total_net": 222,
+          "total_gross": 238,
           "hole_wins": 506,
           "hole_losses": 567,
           "day_scores": {
@@ -5018,6 +5407,7 @@
           },
           "complete": true,
           "average_net": 74.0,
+          "average_gross": 79.33333333333333,
           "rank": 15,
           "money_rank": 18
         },
@@ -5026,6 +5416,7 @@
           "rounds": 3,
           "total_cents": -1280,
           "total_net": 223,
+          "total_gross": 273,
           "hole_wins": 552,
           "hole_losses": 535,
           "day_scores": {
@@ -5040,6 +5431,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 91.0,
           "rank": 16,
           "money_rank": 16
         },
@@ -5048,6 +5440,7 @@
           "rounds": 3,
           "total_cents": -1460,
           "total_net": 223,
+          "total_gross": 251,
           "hole_wins": 533,
           "hole_losses": 549,
           "day_scores": {
@@ -5062,6 +5455,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 83.66666666666667,
           "rank": 17,
           "money_rank": 17
         },
@@ -5070,6 +5464,7 @@
           "rounds": 3,
           "total_cents": -10430,
           "total_net": 236,
+          "total_gross": 320,
           "hole_wins": 393,
           "hole_losses": 676,
           "day_scores": {
@@ -5084,6 +5479,7 @@
           },
           "complete": true,
           "average_net": 78.66666666666667,
+          "average_gross": 106.66666666666667,
           "rank": 18,
           "money_rank": 20
         },
@@ -5092,6 +5488,7 @@
           "rounds": 3,
           "total_cents": -7160,
           "total_net": 244,
+          "total_gross": 292,
           "hole_wins": 405,
           "hole_losses": 686,
           "day_scores": {
@@ -5106,6 +5503,7 @@
           },
           "complete": true,
           "average_net": 81.33333333333333,
+          "average_gross": 97.33333333333333,
           "rank": 19,
           "money_rank": 19
         },
@@ -5114,6 +5512,7 @@
           "rounds": 3,
           "total_cents": -11140,
           "total_net": 253,
+          "total_gross": 309,
           "hole_wins": 372,
           "hole_losses": 716,
           "day_scores": {
@@ -5128,6 +5527,7 @@
           },
           "complete": true,
           "average_net": 84.33333333333333,
+          "average_gross": 103.0,
           "rank": 20,
           "money_rank": 21
         },
@@ -5136,6 +5536,7 @@
           "rounds": 3,
           "total_cents": -14000,
           "total_net": 263,
+          "total_gross": 313,
           "hole_wins": 304,
           "hole_losses": 784,
           "day_scores": {
@@ -5150,6 +5551,7 @@
           },
           "complete": true,
           "average_net": 87.66666666666667,
+          "average_gross": 104.33333333333333,
           "rank": 21,
           "money_rank": 22
         },
@@ -5158,6 +5560,7 @@
           "rounds": 1,
           "total_cents": 100,
           "total_net": 74,
+          "total_gross": 88,
           "hole_wins": 181,
           "hole_losses": 191,
           "day_scores": {
@@ -5168,6 +5571,7 @@
           },
           "complete": false,
           "average_net": 74.0,
+          "average_gross": 88.0,
           "rank": 22,
           "money_rank": 15
         }
@@ -5178,6 +5582,7 @@
           "rounds": 3,
           "total_cents": 11540,
           "total_net": 202,
+          "total_gross": 290,
           "hole_wins": 681,
           "hole_losses": 387,
           "day_scores": {
@@ -5192,6 +5597,7 @@
           },
           "complete": true,
           "average_net": 67.33333333333333,
+          "average_gross": 96.66666666666667,
           "rank": 1,
           "money_rank": 1
         },
@@ -5200,6 +5606,7 @@
           "rounds": 3,
           "total_cents": 5240,
           "total_net": 210,
+          "total_gross": 245,
           "hole_wins": 601,
           "hole_losses": 472,
           "day_scores": {
@@ -5214,6 +5621,7 @@
           },
           "complete": true,
           "average_net": 70.0,
+          "average_gross": 81.66666666666667,
           "rank": 3,
           "money_rank": 2
         },
@@ -5222,6 +5630,7 @@
           "rounds": 3,
           "total_cents": 4860,
           "total_net": 212,
+          "total_gross": 277,
           "hole_wins": 629,
           "hole_losses": 448,
           "day_scores": {
@@ -5236,6 +5645,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 92.33333333333333,
           "rank": 4,
           "money_rank": 3
         },
@@ -5244,6 +5654,7 @@
           "rounds": 3,
           "total_cents": 4680,
           "total_net": 213,
+          "total_gross": 264,
           "hole_wins": 590,
           "hole_losses": 487,
           "day_scores": {
@@ -5258,6 +5669,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 88.0,
           "rank": 7,
           "money_rank": 4
         },
@@ -5266,6 +5678,7 @@
           "rounds": 3,
           "total_cents": 4620,
           "total_net": 212,
+          "total_gross": 376,
           "hole_wins": 641,
           "hole_losses": 439,
           "day_scores": {
@@ -5280,6 +5693,7 @@
           },
           "complete": true,
           "average_net": 70.66666666666667,
+          "average_gross": 125.33333333333333,
           "rank": 5,
           "money_rank": 5
         },
@@ -5288,6 +5702,7 @@
           "rounds": 3,
           "total_cents": 4510,
           "total_net": 213,
+          "total_gross": 304,
           "hole_wins": 599,
           "hole_losses": 473,
           "day_scores": {
@@ -5302,6 +5717,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 101.33333333333333,
           "rank": 6,
           "money_rank": 6
         },
@@ -5310,6 +5726,7 @@
           "rounds": 3,
           "total_cents": 3490,
           "total_net": 210,
+          "total_gross": 265,
           "hole_wins": 585,
           "hole_losses": 481,
           "day_scores": {
@@ -5324,6 +5741,7 @@
           },
           "complete": true,
           "average_net": 70.0,
+          "average_gross": 88.33333333333333,
           "rank": 2,
           "money_rank": 7
         },
@@ -5332,6 +5750,7 @@
           "rounds": 3,
           "total_cents": 1900,
           "total_net": 216,
+          "total_gross": 274,
           "hole_wins": 527,
           "hole_losses": 552,
           "day_scores": {
@@ -5346,6 +5765,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 91.33333333333333,
           "rank": 9,
           "money_rank": 8
         },
@@ -5354,6 +5774,7 @@
           "rounds": 3,
           "total_cents": 1310,
           "total_net": 221,
+          "total_gross": 269,
           "hole_wins": 540,
           "hole_losses": 544,
           "day_scores": {
@@ -5368,6 +5789,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 89.66666666666667,
           "rank": 13,
           "money_rank": 9
         },
@@ -5376,6 +5798,7 @@
           "rounds": 3,
           "total_cents": 1310,
           "total_net": 218,
+          "total_gross": 243,
           "hole_wins": 537,
           "hole_losses": 546,
           "day_scores": {
@@ -5390,6 +5813,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 81.0,
           "rank": 10,
           "money_rank": 10
         },
@@ -5398,6 +5822,7 @@
           "rounds": 3,
           "total_cents": 1230,
           "total_net": 221,
+          "total_gross": 289,
           "hole_wins": 580,
           "hole_losses": 502,
           "day_scores": {
@@ -5412,6 +5837,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 96.33333333333333,
           "rank": 14,
           "money_rank": 11
         },
@@ -5420,6 +5846,7 @@
           "rounds": 3,
           "total_cents": 1150,
           "total_net": 218,
+          "total_gross": 296,
           "hole_wins": 586,
           "hole_losses": 486,
           "day_scores": {
@@ -5434,6 +5861,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 98.66666666666667,
           "rank": 11,
           "money_rank": 12
         },
@@ -5442,6 +5870,7 @@
           "rounds": 3,
           "total_cents": 1070,
           "total_net": 219,
+          "total_gross": 306,
           "hole_wins": 585,
           "hole_losses": 503,
           "day_scores": {
@@ -5456,6 +5885,7 @@
           },
           "complete": true,
           "average_net": 73.0,
+          "average_gross": 102.0,
           "rank": 12,
           "money_rank": 13
         },
@@ -5464,6 +5894,7 @@
           "rounds": 3,
           "total_cents": 470,
           "total_net": 213,
+          "total_gross": 267,
           "hole_wins": 587,
           "hole_losses": 490,
           "day_scores": {
@@ -5478,6 +5909,7 @@
           },
           "complete": true,
           "average_net": 71.0,
+          "average_gross": 89.0,
           "rank": 8,
           "money_rank": 14
         },
@@ -5486,6 +5918,7 @@
           "rounds": 1,
           "total_cents": 100,
           "total_net": 74,
+          "total_gross": 88,
           "hole_wins": 181,
           "hole_losses": 191,
           "day_scores": {
@@ -5496,6 +5929,7 @@
           },
           "complete": false,
           "average_net": 74.0,
+          "average_gross": 88.0,
           "rank": 22,
           "money_rank": 15
         },
@@ -5504,6 +5938,7 @@
           "rounds": 3,
           "total_cents": -1280,
           "total_net": 223,
+          "total_gross": 273,
           "hole_wins": 552,
           "hole_losses": 535,
           "day_scores": {
@@ -5518,6 +5953,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 91.0,
           "rank": 16,
           "money_rank": 16
         },
@@ -5526,6 +5962,7 @@
           "rounds": 3,
           "total_cents": -1460,
           "total_net": 223,
+          "total_gross": 251,
           "hole_wins": 533,
           "hole_losses": 549,
           "day_scores": {
@@ -5540,6 +5977,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 83.66666666666667,
           "rank": 17,
           "money_rank": 17
         },
@@ -5548,6 +5986,7 @@
           "rounds": 3,
           "total_cents": -2010,
           "total_net": 222,
+          "total_gross": 238,
           "hole_wins": 506,
           "hole_losses": 567,
           "day_scores": {
@@ -5562,6 +6001,7 @@
           },
           "complete": true,
           "average_net": 74.0,
+          "average_gross": 79.33333333333333,
           "rank": 15,
           "money_rank": 18
         },
@@ -5570,6 +6010,7 @@
           "rounds": 3,
           "total_cents": -7160,
           "total_net": 244,
+          "total_gross": 292,
           "hole_wins": 405,
           "hole_losses": 686,
           "day_scores": {
@@ -5584,6 +6025,7 @@
           },
           "complete": true,
           "average_net": 81.33333333333333,
+          "average_gross": 97.33333333333333,
           "rank": 19,
           "money_rank": 19
         },
@@ -5592,6 +6034,7 @@
           "rounds": 3,
           "total_cents": -10430,
           "total_net": 236,
+          "total_gross": 320,
           "hole_wins": 393,
           "hole_losses": 676,
           "day_scores": {
@@ -5606,6 +6049,7 @@
           },
           "complete": true,
           "average_net": 78.66666666666667,
+          "average_gross": 106.66666666666667,
           "rank": 18,
           "money_rank": 20
         },
@@ -5614,6 +6058,7 @@
           "rounds": 3,
           "total_cents": -11140,
           "total_net": 253,
+          "total_gross": 309,
           "hole_wins": 372,
           "hole_losses": 716,
           "day_scores": {
@@ -5628,6 +6073,7 @@
           },
           "complete": true,
           "average_net": 84.33333333333333,
+          "average_gross": 103.0,
           "rank": 20,
           "money_rank": 21
         },
@@ -5636,6 +6082,7 @@
           "rounds": 3,
           "total_cents": -14000,
           "total_net": 263,
+          "total_gross": 313,
           "hole_wins": 304,
           "hole_losses": 784,
           "day_scores": {
@@ -5650,6 +6097,7 @@
           },
           "complete": true,
           "average_net": 87.66666666666667,
+          "average_gross": 104.33333333333333,
           "rank": 21,
           "money_rank": 22
         }
@@ -5666,6 +6114,7 @@
           "rounds": 3,
           "total_cents": 4800,
           "total_net": 208,
+          "total_gross": 259,
           "hole_wins": 410,
           "hole_losses": 340,
           "day_scores": {
@@ -5680,6 +6129,7 @@
           },
           "complete": true,
           "average_net": 69.33333333333333,
+          "average_gross": 86.33333333333333,
           "rank": 1,
           "money_rank": 1
         },
@@ -5688,6 +6138,7 @@
           "rounds": 3,
           "total_cents": 3350,
           "total_net": 216,
+          "total_gross": 268,
           "hole_wins": 404,
           "hole_losses": 334,
           "day_scores": {
@@ -5702,6 +6153,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 89.33333333333333,
           "rank": 2,
           "money_rank": 2
         },
@@ -5710,6 +6162,7 @@
           "rounds": 3,
           "total_cents": 1170,
           "total_net": 217,
+          "total_gross": 285,
           "hole_wins": 375,
           "hole_losses": 363,
           "day_scores": {
@@ -5724,6 +6177,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 95.0,
           "rank": 3,
           "money_rank": 4
         },
@@ -5732,6 +6186,7 @@
           "rounds": 3,
           "total_cents": 1300,
           "total_net": 217,
+          "total_gross": 262,
           "hole_wins": 388,
           "hole_losses": 363,
           "day_scores": {
@@ -5746,6 +6201,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 87.33333333333333,
           "rank": 4,
           "money_rank": 3
         },
@@ -5754,6 +6210,7 @@
           "rounds": 3,
           "total_cents": -160,
           "total_net": 218,
+          "total_gross": 278,
           "hole_wins": 351,
           "hole_losses": 392,
           "day_scores": {
@@ -5768,6 +6225,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 92.66666666666667,
           "rank": 5,
           "money_rank": 8
         },
@@ -5776,6 +6234,7 @@
           "rounds": 3,
           "total_cents": 430,
           "total_net": 219,
+          "total_gross": 321,
           "hole_wins": 386,
           "hole_losses": 373,
           "day_scores": {
@@ -5790,6 +6249,7 @@
           },
           "complete": true,
           "average_net": 73.0,
+          "average_gross": 107.0,
           "rank": 6,
           "money_rank": 6
         },
@@ -5798,6 +6258,7 @@
           "rounds": 3,
           "total_cents": -1060,
           "total_net": 221,
+          "total_gross": 291,
           "hole_wins": 357,
           "hole_losses": 398,
           "day_scores": {
@@ -5812,6 +6273,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 97.0,
           "rank": 7,
           "money_rank": 11
         },
@@ -5820,6 +6282,7 @@
           "rounds": 3,
           "total_cents": 480,
           "total_net": 223,
+          "total_gross": 377,
           "hole_wins": 394,
           "hole_losses": 356,
           "day_scores": {
@@ -5834,6 +6297,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 125.66666666666667,
           "rank": 8,
           "money_rank": 5
         },
@@ -5842,6 +6306,7 @@
           "rounds": 3,
           "total_cents": -1190,
           "total_net": 223,
+          "total_gross": 275,
           "hole_wins": 352,
           "hole_losses": 386,
           "day_scores": {
@@ -5856,6 +6321,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 91.66666666666667,
           "rank": 9,
           "money_rank": 12
         },
@@ -5864,6 +6330,7 @@
           "rounds": 3,
           "total_cents": -570,
           "total_net": 223,
+          "total_gross": 410,
           "hole_wins": 384,
           "hole_losses": 376,
           "day_scores": {
@@ -5878,6 +6345,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 136.66666666666666,
           "rank": 10,
           "money_rank": 10
         },
@@ -5886,6 +6354,7 @@
           "rounds": 3,
           "total_cents": 100,
           "total_net": 223,
+          "total_gross": 267,
           "hole_wins": 395,
           "hole_losses": 365,
           "day_scores": {
@@ -5900,6 +6369,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 89.0,
           "rank": 11,
           "money_rank": 7
         },
@@ -5908,6 +6378,7 @@
           "rounds": 3,
           "total_cents": -450,
           "total_net": 224,
+          "total_gross": 317,
           "hole_wins": 384,
           "hole_losses": 384,
           "day_scores": {
@@ -5922,6 +6393,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 105.66666666666667,
           "rank": 12,
           "money_rank": 9
         },
@@ -5930,6 +6402,7 @@
           "rounds": 3,
           "total_cents": -2030,
           "total_net": 226,
+          "total_gross": 308,
           "hole_wins": 346,
           "hole_losses": 409,
           "day_scores": {
@@ -5944,6 +6417,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 102.66666666666667,
           "rank": 13,
           "money_rank": 14
         },
@@ -5952,6 +6426,7 @@
           "rounds": 3,
           "total_cents": -2410,
           "total_net": 228,
+          "total_gross": 268,
           "hole_wins": 341,
           "hole_losses": 422,
           "day_scores": {
@@ -5966,6 +6441,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 89.33333333333333,
           "rank": 14,
           "money_rank": 16
         },
@@ -5974,6 +6450,7 @@
           "rounds": 3,
           "total_cents": -2060,
           "total_net": 229,
+          "total_gross": 326,
           "hole_wins": 378,
           "hole_losses": 374,
           "day_scores": {
@@ -5988,6 +6465,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 108.66666666666667,
           "rank": 15,
           "money_rank": 15
         },
@@ -5996,6 +6474,7 @@
           "rounds": 1,
           "total_cents": -1700,
           "total_net": 80,
+          "total_gross": 97,
           "hole_wins": 129,
           "hole_losses": 139,
           "day_scores": {
@@ -6006,6 +6485,7 @@
           },
           "complete": false,
           "average_net": 80.0,
+          "average_gross": 97.0,
           "rank": 16,
           "money_rank": 13
         }
@@ -6016,6 +6496,7 @@
           "rounds": 3,
           "total_cents": 4800,
           "total_net": 208,
+          "total_gross": 259,
           "hole_wins": 410,
           "hole_losses": 340,
           "day_scores": {
@@ -6030,6 +6511,7 @@
           },
           "complete": true,
           "average_net": 69.33333333333333,
+          "average_gross": 86.33333333333333,
           "rank": 1,
           "money_rank": 1
         },
@@ -6038,6 +6520,7 @@
           "rounds": 3,
           "total_cents": 3350,
           "total_net": 216,
+          "total_gross": 268,
           "hole_wins": 404,
           "hole_losses": 334,
           "day_scores": {
@@ -6052,6 +6535,7 @@
           },
           "complete": true,
           "average_net": 72.0,
+          "average_gross": 89.33333333333333,
           "rank": 2,
           "money_rank": 2
         },
@@ -6060,6 +6544,7 @@
           "rounds": 3,
           "total_cents": 1300,
           "total_net": 217,
+          "total_gross": 262,
           "hole_wins": 388,
           "hole_losses": 363,
           "day_scores": {
@@ -6074,6 +6559,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 87.33333333333333,
           "rank": 4,
           "money_rank": 3
         },
@@ -6082,6 +6568,7 @@
           "rounds": 3,
           "total_cents": 1170,
           "total_net": 217,
+          "total_gross": 285,
           "hole_wins": 375,
           "hole_losses": 363,
           "day_scores": {
@@ -6096,6 +6583,7 @@
           },
           "complete": true,
           "average_net": 72.33333333333333,
+          "average_gross": 95.0,
           "rank": 3,
           "money_rank": 4
         },
@@ -6104,6 +6592,7 @@
           "rounds": 3,
           "total_cents": 480,
           "total_net": 223,
+          "total_gross": 377,
           "hole_wins": 394,
           "hole_losses": 356,
           "day_scores": {
@@ -6118,6 +6607,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 125.66666666666667,
           "rank": 8,
           "money_rank": 5
         },
@@ -6126,6 +6616,7 @@
           "rounds": 3,
           "total_cents": 430,
           "total_net": 219,
+          "total_gross": 321,
           "hole_wins": 386,
           "hole_losses": 373,
           "day_scores": {
@@ -6140,6 +6631,7 @@
           },
           "complete": true,
           "average_net": 73.0,
+          "average_gross": 107.0,
           "rank": 6,
           "money_rank": 6
         },
@@ -6148,6 +6640,7 @@
           "rounds": 3,
           "total_cents": 100,
           "total_net": 223,
+          "total_gross": 267,
           "hole_wins": 395,
           "hole_losses": 365,
           "day_scores": {
@@ -6162,6 +6655,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 89.0,
           "rank": 11,
           "money_rank": 7
         },
@@ -6170,6 +6664,7 @@
           "rounds": 3,
           "total_cents": -160,
           "total_net": 218,
+          "total_gross": 278,
           "hole_wins": 351,
           "hole_losses": 392,
           "day_scores": {
@@ -6184,6 +6679,7 @@
           },
           "complete": true,
           "average_net": 72.66666666666667,
+          "average_gross": 92.66666666666667,
           "rank": 5,
           "money_rank": 8
         },
@@ -6192,6 +6688,7 @@
           "rounds": 3,
           "total_cents": -450,
           "total_net": 224,
+          "total_gross": 317,
           "hole_wins": 384,
           "hole_losses": 384,
           "day_scores": {
@@ -6206,6 +6703,7 @@
           },
           "complete": true,
           "average_net": 74.66666666666667,
+          "average_gross": 105.66666666666667,
           "rank": 12,
           "money_rank": 9
         },
@@ -6214,6 +6712,7 @@
           "rounds": 3,
           "total_cents": -570,
           "total_net": 223,
+          "total_gross": 410,
           "hole_wins": 384,
           "hole_losses": 376,
           "day_scores": {
@@ -6228,6 +6727,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 136.66666666666666,
           "rank": 10,
           "money_rank": 10
         },
@@ -6236,6 +6736,7 @@
           "rounds": 3,
           "total_cents": -1060,
           "total_net": 221,
+          "total_gross": 291,
           "hole_wins": 357,
           "hole_losses": 398,
           "day_scores": {
@@ -6250,6 +6751,7 @@
           },
           "complete": true,
           "average_net": 73.66666666666667,
+          "average_gross": 97.0,
           "rank": 7,
           "money_rank": 11
         },
@@ -6258,6 +6760,7 @@
           "rounds": 3,
           "total_cents": -1190,
           "total_net": 223,
+          "total_gross": 275,
           "hole_wins": 352,
           "hole_losses": 386,
           "day_scores": {
@@ -6272,6 +6775,7 @@
           },
           "complete": true,
           "average_net": 74.33333333333333,
+          "average_gross": 91.66666666666667,
           "rank": 9,
           "money_rank": 12
         },
@@ -6280,6 +6784,7 @@
           "rounds": 1,
           "total_cents": -1700,
           "total_net": 80,
+          "total_gross": 97,
           "hole_wins": 129,
           "hole_losses": 139,
           "day_scores": {
@@ -6290,6 +6795,7 @@
           },
           "complete": false,
           "average_net": 80.0,
+          "average_gross": 97.0,
           "rank": 16,
           "money_rank": 13
         },
@@ -6298,6 +6804,7 @@
           "rounds": 3,
           "total_cents": -2030,
           "total_net": 226,
+          "total_gross": 308,
           "hole_wins": 346,
           "hole_losses": 409,
           "day_scores": {
@@ -6312,6 +6819,7 @@
           },
           "complete": true,
           "average_net": 75.33333333333333,
+          "average_gross": 102.66666666666667,
           "rank": 13,
           "money_rank": 14
         },
@@ -6320,6 +6828,7 @@
           "rounds": 3,
           "total_cents": -2060,
           "total_net": 229,
+          "total_gross": 326,
           "hole_wins": 378,
           "hole_losses": 374,
           "day_scores": {
@@ -6334,6 +6843,7 @@
           },
           "complete": true,
           "average_net": 76.33333333333333,
+          "average_gross": 108.66666666666667,
           "rank": 15,
           "money_rank": 15
         },
@@ -6342,6 +6852,7 @@
           "rounds": 3,
           "total_cents": -2410,
           "total_net": 228,
+          "total_gross": 268,
           "hole_wins": 341,
           "hole_losses": 422,
           "day_scores": {
@@ -6356,6 +6867,7 @@
           },
           "complete": true,
           "average_net": 76.0,
+          "average_gross": 89.33333333333333,
           "rank": 14,
           "money_rank": 16
         }

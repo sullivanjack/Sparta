@@ -101,13 +101,14 @@ def build_seasons(rounds: list[dict], adjustments: list[dict]) -> list[dict]:
                 item = players.setdefault(
                     name,
                     {
-                        "name": name, "rounds": 0, "total_cents": 0, "total_net": 0,
+                        "name": name, "rounds": 0, "total_cents": 0, "total_net": 0, "total_gross": 0,
                         "hole_wins": 0, "hole_losses": 0, "day_scores": {}, "day_handicaps": {},
                     },
                 )
                 item["rounds"] += 1
                 item["total_cents"] += player["total_cents"]
                 item["total_net"] += official_net
+                item["total_gross"] += player["gross_total"]
                 item["hole_wins"] += player["holes"]["wins"]
                 item["hole_losses"] += player["holes"]["losses"]
                 item["day_scores"][str(round_["day"])] = official_net
@@ -117,6 +118,7 @@ def build_seasons(rounds: list[dict], adjustments: list[dict]) -> list[dict]:
         for player in standings:
             player["complete"] = player["rounds"] == len(year_rounds)
             player["average_net"] = player["total_net"] / player["rounds"]
+            player["average_gross"] = player["total_gross"] / player["rounds"]
         standings.sort(key=lambda player: (not player["complete"], player["total_net"], player["name"]))
         for rank, player in enumerate(standings, 1):
             player["rank"] = rank

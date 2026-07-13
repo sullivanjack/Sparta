@@ -12,7 +12,7 @@ function statsForYear(year) {
 function renderLeaderboard() {
   const players = statsForYear(document.querySelector("#year-filter").value);
   document.querySelector("#podium").innerHTML = players.slice(0,3).map((p,index) => `<a class="podium-card" href="${playerLink(p.name)}"><span class="podium-rank">${index+1}</span><div><h3>${p.name}</h3><p>${money(p.total_cents)} · ${p.rounds} rounds</p></div></a>`).join("");
-  document.querySelector("#leaderboard-body").innerHTML = players.map((p,index) => `<tr><td class="muted">${ordinal(index+1)}</td><td><a class="player-link" href="${playerLink(p.name)}"><strong>${p.name}</strong></a></td><td>${p.rounds}</td><td>${p.average_net.toFixed(1)}</td><td>${p.hole_wins}–${p.hole_losses}</td><td class="money ${moneyClass(p.total_cents)}">${money(p.total_cents)}</td></tr>`).join("");
+  document.querySelector("#leaderboard-body").innerHTML = players.map((p,index) => `<tr><td class="muted">${ordinal(index+1)}</td><td><a class="player-link" href="${playerLink(p.name)}"><strong>${p.name}</strong></a></td><td>${p.rounds}</td><td>${p.average_gross.toFixed(1)}</td><td>${p.hole_wins}–${p.hole_losses}</td><td class="money ${moneyClass(p.total_cents)}">${money(p.total_cents)}</td></tr>`).join("");
 }
 
 function renderYears() {
