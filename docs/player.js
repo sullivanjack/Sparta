@@ -34,7 +34,7 @@ function scorecard({round, player}) {
 async function init() {
   const requestedName = new URLSearchParams(location.search).get("name");
   try {
-    const response = await fetch("data/sparta.json");
+    const response = await fetch("data/sparta.json?v=6");
     if (!response.ok) throw new Error(`Data request failed (${response.status})`);
     const data = await response.json();
     const knownPlayer = data.leaderboard.find(player => player.name === requestedName);
@@ -66,14 +66,22 @@ async function init() {
       [ordinal(career.worst_finish), "Worst finish", ""],
     ].map(([value,label,className]) => `<div class="stat-card"><strong class="${className}">${value}</strong><span>${label}</span></div>`).join("");
 
-    const whs = career.world_handicap;
-    document.querySelector("#handicap-panel").innerHTML = whs.eligible
-      ? `<div class="handicap-index"><strong>${whs.index.toFixed(1)}</strong><span>Estimated Handicap Index</span></div><div class="handicap-details"><div><strong>${whs.score_count}</strong><span>Scores available</span></div><div><strong>${whs.differentials_used}</strong><span>Differentials used</span></div><div><strong>${whs.best_differential.toFixed(1)}</strong><span>Best differential</span></div></div><p>Estimated from Sparta rounds using a 67.6 Course Rating, 112 Slope Rating, PCC 0, and net-double-bogey score adjustments. It does not include WHS caps, exceptional-score reductions, or committee adjustments.</p>`
-      : `<div class="handicap-unavailable"><strong>Not yet eligible</strong><p>${whs.score_count} of 3 required scores are available.</p></div>`;
-
     document.querySelector("#season-grid").innerHTML = career.seasons.map(season => {
       return `<article class="season-card"><h3>${season.year}</h3><div class="season-row"><span>Finish</span><strong>${ordinal(season.finish)}</strong></div><div class="season-row"><span>Rounds</span><strong>${season.rounds}</strong></div><div class="season-row"><span>Average net</span><strong>${season.average_net.toFixed(1)}</strong></div><div class="season-row"><span>Hole record</span><strong>${season.hole_wins}–${season.hole_losses}</strong></div><div class="season-row"><span>Winnings</span><strong class="${moneyClass(season.total_cents)}">${money(season.total_cents)}</strong></div></article>`;
     }).join("");
+
+    const sparta = career.sparta_handicap;
+    document.querySelector("#sparta-handicap-panel").innerHTML = sparta.available
+      ? `<div class="sparta-handicap-panel">
+          <div class="sparta-handicap-index"><strong>${sparta.playing_handicap}</strong><span>${sparta.current ? `${sparta.target_year} playing handicap` : "Last calculated handicap"}</span></div>
+          <div class="sparta-handicap-breakdown">
+            <div class="sparta-handicap-heading"><strong>Based on ${sparta.source_year}</strong><span class="${sparta.current ? "current" : "stale"}">${sparta.current ? "Current" : `Outside ${sparta.lookback_years}-year window`}</span></div>
+            <div class="sparta-round-values">${sparta.rounds.map(round => `<div><span>Day ${round.day}</span><strong>${round.gross_total}</strong><small>(${round.gross_total} − 70) × .875 = ${round.round_handicap.toFixed(1)}</small></div>`).join("")}</div>
+            <p>Three-round average: <strong>${sparta.value.toFixed(1)}</strong> · Playing handicap: <strong>${sparta.playing_handicap}</strong></p>
+          </div>
+          <p class="sparta-handicap-rule">The following season uses the average of all three round values. During the tournament, each next-day handicap is the average of the current handicap and the previous round's value.</p>
+        </div>`
+      : `<div class="handicap-unavailable"><strong>No Sparta handicap available</strong><p>A complete three-round season is required.</p></div>`;
 
     const roundYears = career.seasons.map(season => season.year);
     const yearFilter = document.querySelector("#round-year-filter");

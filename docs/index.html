@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Scores, settlements, and all-time statistics for the Sparta International.">
+  <meta name="description" content="Past champions, scores, and tournament history for the Sparta International.">
   <title>Sparta International</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <header class="hero">
     <nav class="nav shell" aria-label="Main navigation">
       <a class="brand" href="index.html" aria-label="Sparta International home"><span>SI</span> Sparta International</a>
-      <div class="nav-links"><a href="#years">Years</a><a href="#leaderboard">Leaderboard</a></div>
+      <div class="nav-links"><a href="#champions">Champions</a></div>
     </nav>
     <div class="hero-content shell">
       <div class="hero-stats" aria-label="Tournament summary">
@@ -26,32 +26,17 @@
   </header>
 
   <main>
-    <section class="section" id="years">
+    <section class="section" id="champions">
       <div class="shell">
         <div class="section-heading">
-          <div><p class="eyebrow dark">Year by year</p><h2>Tournament Archive</h2></div>
+          <div><p class="eyebrow dark">Sparta history</p><h2>Past Champions</h2></div>
         </div>
-        <div class="year-cards" id="year-cards"></div>
-      </div>
-    </section>
-
-    <section class="section rounds-section" id="leaderboard">
-      <div class="shell">
-        <div class="section-heading light">
-          <div><p class="eyebrow">The long game</p><h2>Money Leaderboard</h2></div>
-          <label class="select-label dark-select">Season <select id="year-filter"><option value="all">All years</option></select></label>
-        </div>
-        <div class="podium" id="podium" aria-label="Top three players"></div>
-        <div class="table-card">
-          <table>
-            <thead><tr><th>Rank</th><th>Player</th><th>Rounds</th><th>Avg. gross</th><th>Record</th><th class="money">Winnings</th></tr></thead>
-            <tbody id="leaderboard-body"></tbody>
-          </table>
-        </div>
+        <div class="champions-grid" id="champions-grid"></div>
+        <div class="champions-grid" id="historical-champions-grid"></div>
       </div>
     </section>
   </main>
   <footer><div class="shell"><span>Sparta International</span><span>Built from the official scorecards</span></div></footer>
-  <script src="app.js" defer></script>
+  <script src="app.js?v=4" defer></script>
 </body>
 </html>

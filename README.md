@@ -25,7 +25,23 @@ The first scorecard row provides the difficulty rank of each hole, from 1 (harde
 
 The event uses a nine-hole, par-35 course played twice from different tees. Hole pars are `4, 4, 4, 5, 3, 3, 4, 4, 4` on both nines, for a par of 70.
 
-Golfer profiles also include an estimated World Handicap System index derived from historical Sparta rounds. The estimate uses a Course Rating of 67.6, Slope Rating of 112, PCC 0, net-double-bogey adjusted gross scores, and the WHS fewer-than-20-scores table. It cannot reproduce caps, exceptional-score reductions, or committee adjustments that are not present in the archive.
+### Sparta handicap
+
+The event's custom handicap is calculated as follows:
+
+- Each round produces `(gross score - 70) × 0.875`.
+- Day 2 and Day 3 use the average of the current handicap and the preceding round's value.
+- The following season uses the average of all three round values.
+- The unrounded value is retained for later calculations; scorecards use the nearest whole stroke.
+- A starting handicap may use the latest complete season from either of the preceding two years.
+
+Populate a scorecard template with calculated handicaps using:
+
+```bash
+python3 scripts/calculate_sparta_handicaps.py data/rounds/2026/templates/Sparta2026_Day1.csv --year 2026 --day 1
+```
+
+For Day 2 and Day 3, place the completed preceding scorecard(s) in `data/rounds/2026/` first. Golfer profiles show the source season, all three gross-score calculations, the unrounded average, and the playing handicap.
 
 ## Calculate a round
 
@@ -55,13 +71,13 @@ The importer validates the header, all 18 scores, unique player names, non-negat
 
 ## Build the historical site data
 
-The static site lives in `docs/` and reads one generated JSON file. Its homepage links to a dedicated overview for every archived year, with season leaderboards and day-by-day results; golfer names link to individual career profiles and golf-style scorecards.
+The static site lives in `docs/` and reads one generated JSON file. Its homepage presents the modern champions and links to dedicated season overviews with leaderboards and day-by-day results; golfer names link to individual career profiles and golf-style scorecards. A separate Early Years entry shows the surviving aggregate net totals from 2001–2018 and clearly identifies those records as partial.
 
 ```bash
 python3 scripts/build_site_data.py
 ```
 
-The command discovers source scorecards under `data/rounds/<year>/`, validates and settles every round, then writes `docs/data/sparta.json`. Python precomputes all season standings, money rankings, player profiles, finish counts, scoring statistics, and round placements; the browser only renders those results. The command exits unsuccessfully if any input cannot be processed, so bad scorecards cannot silently enter the archive.
+The command discovers source scorecards under `data/rounds/<year>/`, loads the partial early records from `data/archive/sparta_historical_net_scores.csv`, validates and ranks the data, then writes `docs/data/sparta.json`. Python precomputes all standings, money rankings, player profiles, finish counts, scoring statistics, and round placements; the browser only renders those results. The command exits unsuccessfully if any input cannot be processed, so bad scorecards cannot silently enter the archive.
 
 To preview the site locally:
 
@@ -88,11 +104,13 @@ The tests cover handicap allocation, tie-breaking, zero-sum settlement, and ever
 ```text
 Sparta.py                  CLI entry point
 sparta/game.py             Pure scoring and settlement rules
+sparta/handicap.py         Sparta tournament handicap model
 sparta/io.py               Validated historical CSV importer
 sparta/report.py           CSV and JSON report writers
+scripts/calculate_sparta_handicaps.py  Scorecard handicap updater
 scripts/build_site_data.py Historical data generator
 tests/                     Calculator and archive tests
 docs/                      GitHub Pages site
-data/rounds/2019/ … 2025/  Original scorecards and legacy reports
+data/rounds/2019/ … 2026/  Scorecards, legacy reports, and current templates
 data/archive/               Older spreadsheets and saved experiments
 ```

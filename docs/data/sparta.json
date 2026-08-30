@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T00:22:55.025533+00:00",
+  "generated_at": "2026-08-30T23:10:12.164823+00:00",
   "rules_version": 1,
   "course": {
     "holes": 18,
@@ -23,10 +23,7 @@
       4,
       4,
       4
-    ],
-    "rating": 67.6,
-    "slope": 112,
-    "pcc": 0
+    ]
   },
   "round_count": 18,
   "years": [
@@ -38,6 +35,7 @@
     2019
   ],
   "aliases": {
+    "Jeremy": "Jeremy Flynn",
     "Leo": "Leo Berhost",
     "Ralph": "Ralph Reis",
     "Tim Stefl": "Tim Steffl"
@@ -351,7 +349,7 @@
       "best_net": 63
     },
     {
-      "name": "Jeremy",
+      "name": "Jeremy Flynn",
       "rounds": 6,
       "years": [
         2024,
@@ -1140,7 +1138,7 @@
           "money_rank": 18
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "rounds": 3,
           "total_cents": -980,
           "total_net": 225,
@@ -1670,7 +1668,7 @@
           "money_rank": 15
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "rounds": 3,
           "total_cents": -980,
           "total_net": 225,
@@ -2110,7 +2108,7 @@
           "money_rank": 8
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "rounds": 3,
           "total_cents": 2670,
           "total_net": 215,
@@ -2590,7 +2588,7 @@
           "money_rank": 6
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "rounds": 3,
           "total_cents": 2670,
           "total_net": 215,
@@ -6874,6 +6872,1296 @@
       ]
     }
   ],
+  "historical_seasons": [
+    {
+      "year": 2018,
+      "competitor_count": 11,
+      "standings": [
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 214,
+          "rank": 1
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 218,
+          "rank": 2
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 218,
+          "rank": 2
+        },
+        {
+          "name": "Dave Brauer",
+          "net_total": 219,
+          "rank": 4
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 219,
+          "rank": 4
+        },
+        {
+          "name": "Dave Kyser",
+          "net_total": 220,
+          "rank": 6
+        },
+        {
+          "name": "Matt Lawrence",
+          "net_total": 220,
+          "rank": 6
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 221,
+          "rank": 8
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 228,
+          "rank": 9
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 236,
+          "rank": 10
+        },
+        {
+          "name": "Leo B",
+          "net_total": 243,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "competitor_count": 10,
+      "standings": [
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 212,
+          "rank": 1
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 214,
+          "rank": 2
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 214,
+          "rank": 2
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 215,
+          "rank": 4
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 216,
+          "rank": 5
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 217,
+          "rank": 6
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 218,
+          "rank": 7
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 219,
+          "rank": 8
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 225,
+          "rank": 9
+        },
+        {
+          "name": "Dave Brauer",
+          "net_total": 227,
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "competitor_count": 10,
+      "standings": [
+        {
+          "name": "Jim Kuebel",
+          "net_total": 215,
+          "rank": 1
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 216,
+          "rank": 2
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 218,
+          "rank": 3
+        },
+        {
+          "name": "Dave Brauer",
+          "net_total": 218,
+          "rank": 3
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 220,
+          "rank": 5
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 228,
+          "rank": 6
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 230,
+          "rank": 7
+        },
+        {
+          "name": "Dave Humberger",
+          "net_total": 231,
+          "rank": 8
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 233,
+          "rank": 9
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 233,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "competitor_count": 11,
+      "standings": [
+        {
+          "name": "Jim Kuebel",
+          "net_total": 213,
+          "rank": 1
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 213,
+          "rank": 1
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 213,
+          "rank": 1
+        },
+        {
+          "name": "Dave Humberger",
+          "net_total": 215,
+          "rank": 4
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 215,
+          "rank": 4
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 218,
+          "rank": 6
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 218,
+          "rank": 6
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 220,
+          "rank": 8
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 221,
+          "rank": 9
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 223,
+          "rank": 10
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 225,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "competitor_count": 11,
+      "standings": [
+        {
+          "name": "Jim Kuebel",
+          "net_total": 208,
+          "rank": 1
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 209,
+          "rank": 2
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 210,
+          "rank": 3
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 215,
+          "rank": 4
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 216,
+          "rank": 5
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 217,
+          "rank": 6
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 219,
+          "rank": 7
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 220,
+          "rank": 8
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 221,
+          "rank": 9
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 225,
+          "rank": 10
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 239,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "competitor_count": 16,
+      "standings": [
+        {
+          "name": "Sean Flynn",
+          "net_total": 212,
+          "rank": 1
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 216,
+          "rank": 2
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 217,
+          "rank": 3
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 218,
+          "rank": 4
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 219,
+          "rank": 5
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 219,
+          "rank": 5
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 220,
+          "rank": 7
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 220,
+          "rank": 7
+        },
+        {
+          "name": "Mike Fitzgerald",
+          "net_total": 220,
+          "rank": 7
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 221,
+          "rank": 10
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 223,
+          "rank": 11
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 224,
+          "rank": 12
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 226,
+          "rank": 13
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 227,
+          "rank": 14
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 233,
+          "rank": 15
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 234,
+          "rank": 16
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "competitor_count": 14,
+      "standings": [
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 214,
+          "rank": 1
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 214,
+          "rank": 1
+        },
+        {
+          "name": "Dave Humberger",
+          "net_total": 215,
+          "rank": 3
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 217,
+          "rank": 4
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 218,
+          "rank": 5
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 222,
+          "rank": 6
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 223,
+          "rank": 7
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 223,
+          "rank": 7
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 223,
+          "rank": 7
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 224,
+          "rank": 10
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 225,
+          "rank": 11
+        },
+        {
+          "name": "Sean Flynn",
+          "net_total": 226,
+          "rank": 12
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 227,
+          "rank": 13
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 230,
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "competitor_count": 10,
+      "standings": [
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 210,
+          "rank": 1
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 215,
+          "rank": 2
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 218,
+          "rank": 3
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 220,
+          "rank": 4
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 221,
+          "rank": 5
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 222,
+          "rank": 6
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 224,
+          "rank": 7
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 228,
+          "rank": 8
+        },
+        {
+          "name": "Dave Humberger",
+          "net_total": 229,
+          "rank": 9
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 229,
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "competitor_count": 11,
+      "standings": [
+        {
+          "name": "Mike Flynn",
+          "net_total": 209,
+          "rank": 1
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 215,
+          "rank": 2
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 216,
+          "rank": 3
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 216,
+          "rank": 3
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 218,
+          "rank": 5
+        },
+        {
+          "name": "Tim Ward",
+          "net_total": 219,
+          "rank": 6
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 220,
+          "rank": 7
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 222,
+          "rank": 8
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 228,
+          "rank": 9
+        },
+        {
+          "name": "John Hogue",
+          "net_total": 228,
+          "rank": 9
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 237,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "competitor_count": 12,
+      "standings": [
+        {
+          "name": "Jerry Flynn",
+          "net_total": 208,
+          "rank": 1
+        },
+        {
+          "name": "Scott Bernstein",
+          "net_total": 212,
+          "rank": 2
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 217,
+          "rank": 3
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 218,
+          "rank": 4
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 220,
+          "rank": 5
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 220,
+          "rank": 5
+        },
+        {
+          "name": "Sean Flynn",
+          "net_total": 221,
+          "rank": 7
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 228,
+          "rank": 8
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 228,
+          "rank": 8
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 228,
+          "rank": 8
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 229,
+          "rank": 11
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 250,
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "competitor_count": 13,
+      "standings": [
+        {
+          "name": "Larry Wuest",
+          "net_total": 211,
+          "rank": 1
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 212,
+          "rank": 2
+        },
+        {
+          "name": "Scott Bernstein",
+          "net_total": 213,
+          "rank": 3
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 215,
+          "rank": 4
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 216,
+          "rank": 5
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 217,
+          "rank": 6
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 220,
+          "rank": 7
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 221,
+          "rank": 8
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 222,
+          "rank": 9
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 227,
+          "rank": 10
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 228,
+          "rank": 11
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 229,
+          "rank": 12
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 238,
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "competitor_count": 18,
+      "standings": [
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 210,
+          "rank": 1
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 212,
+          "rank": 2
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 214,
+          "rank": 3
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 215,
+          "rank": 4
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 215,
+          "rank": 4
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 216,
+          "rank": 6
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 216,
+          "rank": 6
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 216,
+          "rank": 6
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 216,
+          "rank": 6
+        },
+        {
+          "name": "Scott Bernstein",
+          "net_total": 216,
+          "rank": 6
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 220,
+          "rank": 11
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 220,
+          "rank": 11
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 221,
+          "rank": 13
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 222,
+          "rank": 14
+        },
+        {
+          "name": "Colin Sullivan",
+          "net_total": 227,
+          "rank": 15
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 231,
+          "rank": 16
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 236,
+          "rank": 17
+        },
+        {
+          "name": "Dave Brauer",
+          "net_total": 241,
+          "rank": 18
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "competitor_count": 12,
+      "standings": [
+        {
+          "name": "Larry Wuest",
+          "net_total": 217,
+          "rank": 1
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 217,
+          "rank": 1
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 219,
+          "rank": 3
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 224,
+          "rank": 4
+        },
+        {
+          "name": "Herman Kaestner",
+          "net_total": 226,
+          "rank": 5
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 228,
+          "rank": 6
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 231,
+          "rank": 7
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 231,
+          "rank": 7
+        },
+        {
+          "name": "Sean Flynn",
+          "net_total": 232,
+          "rank": 9
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 234,
+          "rank": 10
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 235,
+          "rank": 11
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 235,
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "competitor_count": 17,
+      "standings": [
+        {
+          "name": "Jerry Flynn",
+          "net_total": 208,
+          "rank": 1
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 211,
+          "rank": 2
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 213,
+          "rank": 3
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 214,
+          "rank": 4
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 215,
+          "rank": 5
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 215,
+          "rank": 5
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 215,
+          "rank": 5
+        },
+        {
+          "name": "Scott Bernstein",
+          "net_total": 215,
+          "rank": 5
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 218,
+          "rank": 9
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 219,
+          "rank": 10
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 221,
+          "rank": 11
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 222,
+          "rank": 12
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 223,
+          "rank": 13
+        },
+        {
+          "name": "Herman Kaestner",
+          "net_total": 228,
+          "rank": 14
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 232,
+          "rank": 15
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 232,
+          "rank": 15
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 238,
+          "rank": 17
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "competitor_count": 15,
+      "standings": [
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 216,
+          "rank": 1
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 218,
+          "rank": 2
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 221,
+          "rank": 3
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 224,
+          "rank": 4
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 224,
+          "rank": 4
+        },
+        {
+          "name": "Tim Ward",
+          "net_total": 225,
+          "rank": 6
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 226,
+          "rank": 7
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 227,
+          "rank": 8
+        },
+        {
+          "name": "Chris Flynn",
+          "net_total": 230,
+          "rank": 9
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 230,
+          "rank": 9
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 232,
+          "rank": 11
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 234,
+          "rank": 12
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 236,
+          "rank": 13
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 241,
+          "rank": 14
+        },
+        {
+          "name": "Phil Weigers",
+          "net_total": 242,
+          "rank": 15
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "competitor_count": 15,
+      "standings": [
+        {
+          "name": "Larry Wuest",
+          "net_total": 210,
+          "rank": 1
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 211,
+          "rank": 2
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 211,
+          "rank": 2
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 213,
+          "rank": 4
+        },
+        {
+          "name": "Kevin Fitzgerald",
+          "net_total": 216,
+          "rank": 5
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 217,
+          "rank": 6
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 217,
+          "rank": 6
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 219,
+          "rank": 8
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 219,
+          "rank": 8
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 219,
+          "rank": 8
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 222,
+          "rank": 11
+        },
+        {
+          "name": "Herman Kaestner",
+          "net_total": 228,
+          "rank": 12
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 234,
+          "rank": 13
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 237,
+          "rank": 14
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 237,
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "competitor_count": 17,
+      "standings": [
+        {
+          "name": "Rich McGovern",
+          "net_total": 211,
+          "rank": 1
+        },
+        {
+          "name": "Bernie Sullivan",
+          "net_total": 213,
+          "rank": 2
+        },
+        {
+          "name": "Colin Sullivan",
+          "net_total": 213,
+          "rank": 2
+        },
+        {
+          "name": "Henry Lucio",
+          "net_total": 214,
+          "rank": 4
+        },
+        {
+          "name": "Jerry Flynn",
+          "net_total": 214,
+          "rank": 4
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 215,
+          "rank": 6
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 216,
+          "rank": 7
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 216,
+          "rank": 7
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 216,
+          "rank": 7
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 217,
+          "rank": 10
+        },
+        {
+          "name": "Walter Brauer",
+          "net_total": 217,
+          "rank": 10
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 218,
+          "rank": 12
+        },
+        {
+          "name": "Ralph Reis",
+          "net_total": 218,
+          "rank": 12
+        },
+        {
+          "name": "Tim Ward",
+          "net_total": 220,
+          "rank": 14
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 224,
+          "rank": 15
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 227,
+          "rank": 16
+        },
+        {
+          "name": "Herman Kaestner",
+          "net_total": 228,
+          "rank": 17
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "competitor_count": 13,
+      "standings": [
+        {
+          "name": "Jerry Flynn",
+          "net_total": 213,
+          "rank": 1
+        },
+        {
+          "name": "Larry Wuest",
+          "net_total": 213,
+          "rank": 1
+        },
+        {
+          "name": "Brian McGovern",
+          "net_total": 214,
+          "rank": 3
+        },
+        {
+          "name": "Bob Magnuson",
+          "net_total": 216,
+          "rank": 4
+        },
+        {
+          "name": "Joe McCardel",
+          "net_total": 216,
+          "rank": 4
+        },
+        {
+          "name": "Bill McGovern",
+          "net_total": 219,
+          "rank": 6
+        },
+        {
+          "name": "JohnSullivanJr",
+          "net_total": 219,
+          "rank": 6
+        },
+        {
+          "name": "Herman Kaestner",
+          "net_total": 220,
+          "rank": 8
+        },
+        {
+          "name": "Mike Flynn",
+          "net_total": 222,
+          "rank": 9
+        },
+        {
+          "name": "Jim Kuebel",
+          "net_total": 225,
+          "rank": 10
+        },
+        {
+          "name": "Rich McGovern",
+          "net_total": 228,
+          "rank": 11
+        },
+        {
+          "name": "Jeremy Flynn",
+          "net_total": 229,
+          "rank": 12
+        },
+        {
+          "name": "John S Sr",
+          "net_total": 239,
+          "rank": 13
+        }
+      ]
+    }
+  ],
   "player_profiles": {
     "Edwin Erhlbacher": {
       "name": "Edwin Erhlbacher",
@@ -6938,17 +8226,30 @@
       "third_place_finishes": 0,
       "best_finish": 1,
       "worst_finish": 18,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 12,
-        "index": 20.3,
-        "differentials_used": 4,
-        "best_differential": 15.5,
-        "counting_differentials": [
-          15.5,
-          20.6,
-          21.6,
-          23.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 20.416666666666668,
+        "playing_handicap": 20,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 96,
+            "round_handicap": 22.75
+          },
+          {
+            "day": 2,
+            "gross_total": 101,
+            "round_handicap": 27.125
+          },
+          {
+            "day": 3,
+            "gross_total": 83,
+            "round_handicap": 11.375
+          }
         ]
       }
     },
@@ -7015,17 +8316,30 @@
       "third_place_finishes": 1,
       "best_finish": 3,
       "worst_finish": 20,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 12,
-        "index": 24.9,
-        "differentials_used": 4,
-        "best_differential": 20.6,
-        "counting_differentials": [
-          20.6,
-          25.6,
-          26.6,
-          26.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 21.583333333333332,
+        "playing_handicap": 22,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 96,
+            "round_handicap": 22.75
+          },
+          {
+            "day": 2,
+            "gross_total": 100,
+            "round_handicap": 26.25
+          },
+          {
+            "day": 3,
+            "gross_total": 88,
+            "round_handicap": 15.75
+          }
         ]
       }
     },
@@ -7072,15 +8386,30 @@
       "third_place_finishes": 0,
       "best_finish": 6,
       "worst_finish": 17,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 6,
-        "index": 24.1,
-        "differentials_used": 2,
-        "best_differential": 23.6,
-        "counting_differentials": [
-          23.6,
-          26.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 27.416666666666668,
+        "playing_handicap": 27,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 108,
+            "round_handicap": 33.25
+          },
+          {
+            "day": 2,
+            "gross_total": 102,
+            "round_handicap": 28.0
+          },
+          {
+            "day": 3,
+            "gross_total": 94,
+            "round_handicap": 21.0
+          }
         ]
       }
     },
@@ -7167,19 +8496,30 @@
       "third_place_finishes": 0,
       "best_finish": 5,
       "worst_finish": 20,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 22.9,
-        "differentials_used": 6,
-        "best_differential": 19.6,
-        "counting_differentials": [
-          19.6,
-          21.6,
-          22.6,
-          24.6,
-          24.6,
-          24.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 21.291666666666668,
+        "playing_handicap": 21,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 95,
+            "round_handicap": 21.875
+          },
+          {
+            "day": 2,
+            "gross_total": 96,
+            "round_handicap": 22.75
+          },
+          {
+            "day": 3,
+            "gross_total": 92,
+            "round_handicap": 19.25
+          }
         ]
       }
     },
@@ -7256,18 +8596,30 @@
       "third_place_finishes": 1,
       "best_finish": 3,
       "worst_finish": 16,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 15,
-        "index": 10.1,
-        "differentials_used": 5,
-        "best_differential": 8.5,
-        "counting_differentials": [
-          8.5,
-          9.5,
-          9.5,
-          11.5,
-          11.5
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 9.041666666666666,
+        "playing_handicap": 9,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 76,
+            "round_handicap": 5.25
+          },
+          {
+            "day": 2,
+            "gross_total": 84,
+            "round_handicap": 12.25
+          },
+          {
+            "day": 3,
+            "gross_total": 81,
+            "round_handicap": 9.625
+          }
         ]
       }
     },
@@ -7334,22 +8686,35 @@
       "third_place_finishes": 1,
       "best_finish": 3,
       "worst_finish": 8,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 12,
-        "index": 13.3,
-        "differentials_used": 4,
-        "best_differential": 12.5,
-        "counting_differentials": [
-          12.5,
-          12.5,
-          13.5,
-          14.5
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 14.291666666666666,
+        "playing_handicap": 14,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          },
+          {
+            "day": 2,
+            "gross_total": 82,
+            "round_handicap": 10.5
+          },
+          {
+            "day": 3,
+            "gross_total": 84,
+            "round_handicap": 12.25
+          }
         ]
       }
     },
-    "Jeremy": {
-      "name": "Jeremy",
+    "Jeremy Flynn": {
+      "name": "Jeremy Flynn",
       "rounds": 6,
       "total_cents": 1690,
       "hole_wins": 1125,
@@ -7391,15 +8756,30 @@
       "third_place_finishes": 0,
       "best_finish": 9,
       "worst_finish": 19,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 6,
-        "index": 21.1,
-        "differentials_used": 2,
-        "best_differential": 20.6,
-        "counting_differentials": [
-          20.6,
-          23.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 26.833333333333332,
+        "playing_handicap": 27,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 108,
+            "round_handicap": 33.25
+          },
+          {
+            "day": 2,
+            "gross_total": 98,
+            "round_handicap": 24.5
+          },
+          {
+            "day": 3,
+            "gross_total": 96,
+            "round_handicap": 22.75
+          }
         ]
       }
     },
@@ -7486,18 +8866,30 @@
       "third_place_finishes": 0,
       "best_finish": 1,
       "worst_finish": 16,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 16,
-        "index": 17.6,
-        "differentials_used": 5,
-        "best_differential": 15.5,
-        "counting_differentials": [
-          15.5,
-          15.5,
-          18.6,
-          18.6,
-          19.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 19.541666666666668,
+        "playing_handicap": 20,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 86,
+            "round_handicap": 14.0
+          },
+          {
+            "day": 2,
+            "gross_total": 98,
+            "round_handicap": 24.5
+          },
+          {
+            "day": 3,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          }
         ]
       }
     },
@@ -7584,19 +8976,30 @@
       "third_place_finishes": 0,
       "best_finish": 2,
       "worst_finish": 16,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 18.1,
-        "differentials_used": 6,
-        "best_differential": 12.5,
-        "counting_differentials": [
-          12.5,
-          17.6,
-          18.6,
-          19.6,
-          19.6,
-          20.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 20.708333333333332,
+        "playing_handicap": 21,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 94,
+            "round_handicap": 21.0
+          },
+          {
+            "day": 2,
+            "gross_total": 94,
+            "round_handicap": 21.0
+          },
+          {
+            "day": 3,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          }
         ]
       }
     },
@@ -7683,19 +9086,30 @@
       "third_place_finishes": 0,
       "best_finish": 2,
       "worst_finish": 13,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 25.4,
-        "differentials_used": 6,
-        "best_differential": 23.6,
-        "counting_differentials": [
-          23.6,
-          23.6,
-          25.6,
-          25.6,
-          26.6,
-          27.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 21.291666666666668,
+        "playing_handicap": 21,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          },
+          {
+            "day": 2,
+            "gross_total": 96,
+            "round_handicap": 22.75
+          },
+          {
+            "day": 3,
+            "gross_total": 94,
+            "round_handicap": 21.0
+          }
         ]
       }
     },
@@ -7782,19 +9196,30 @@
       "third_place_finishes": 0,
       "best_finish": 2,
       "worst_finish": 21,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 23.3,
-        "differentials_used": 6,
-        "best_differential": 21.6,
-        "counting_differentials": [
-          21.6,
-          22.6,
-          22.6,
-          23.6,
-          24.6,
-          24.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 23.333333333333332,
+        "playing_handicap": 23,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 100,
+            "round_handicap": 26.25
+          },
+          {
+            "day": 2,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          },
+          {
+            "day": 3,
+            "gross_total": 97,
+            "round_handicap": 23.625
+          }
         ]
       }
     },
@@ -7881,19 +9306,30 @@
       "third_place_finishes": 0,
       "best_finish": 2,
       "worst_finish": 19,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 17.0,
-        "differentials_used": 6,
-        "best_differential": 12.5,
-        "counting_differentials": [
-          12.5,
-          16.5,
-          16.5,
-          18.6,
-          18.6,
-          19.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 16.625,
+        "playing_handicap": 17,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 89,
+            "round_handicap": 16.625
+          },
+          {
+            "day": 2,
+            "gross_total": 88,
+            "round_handicap": 15.75
+          },
+          {
+            "day": 3,
+            "gross_total": 90,
+            "round_handicap": 17.5
+          }
         ]
       }
     },
@@ -7940,15 +9376,30 @@
       "third_place_finishes": 1,
       "best_finish": 3,
       "worst_finish": 15,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 6,
-        "index": 8.5,
-        "differentials_used": 2,
-        "best_differential": 7.5,
-        "counting_differentials": [
-          7.5,
-          11.5
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 7.583333333333333,
+        "playing_handicap": 8,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 79,
+            "round_handicap": 7.875
+          },
+          {
+            "day": 2,
+            "gross_total": 75,
+            "round_handicap": 4.375
+          },
+          {
+            "day": 3,
+            "gross_total": 82,
+            "round_handicap": 10.5
+          }
         ]
       }
     },
@@ -8015,17 +9466,30 @@
       "third_place_finishes": 0,
       "best_finish": 7,
       "worst_finish": 19,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 12,
-        "index": 26.9,
-        "differentials_used": 4,
-        "best_differential": 24.6,
-        "counting_differentials": [
-          24.6,
-          26.6,
-          27.6,
-          28.7
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 28.875,
+        "playing_handicap": 29,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 102,
+            "round_handicap": 28.0
+          },
+          {
+            "day": 2,
+            "gross_total": 103,
+            "round_handicap": 28.875
+          },
+          {
+            "day": 3,
+            "gross_total": 104,
+            "round_handicap": 29.75
+          }
         ]
       }
     },
@@ -8062,14 +9526,30 @@
       "third_place_finishes": 0,
       "best_finish": 22,
       "worst_finish": 22,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 3,
-        "index": 44.8,
-        "differentials_used": 1,
-        "best_differential": 46.8,
-        "counting_differentials": [
-          46.8
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 41.416666666666664,
+        "playing_handicap": 41,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 116,
+            "round_handicap": 40.25
+          },
+          {
+            "day": 2,
+            "gross_total": 120,
+            "round_handicap": 43.75
+          },
+          {
+            "day": 3,
+            "gross_total": 116,
+            "round_handicap": 40.25
+          }
         ]
       }
     },
@@ -8116,15 +9596,30 @@
       "third_place_finishes": 0,
       "best_finish": 8,
       "worst_finish": 10,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 6,
-        "index": 6.0,
-        "differentials_used": 2,
-        "best_differential": 6.5,
-        "counting_differentials": [
-          6.5,
-          7.5
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 6.708333333333333,
+        "playing_handicap": 7,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 75,
+            "round_handicap": 4.375
+          },
+          {
+            "day": 2,
+            "gross_total": 77,
+            "round_handicap": 6.125
+          },
+          {
+            "day": 3,
+            "gross_total": 81,
+            "round_handicap": 9.625
+          }
         ]
       }
     },
@@ -8211,19 +9706,30 @@
       "third_place_finishes": 0,
       "best_finish": 1,
       "worst_finish": 18,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 18.0,
-        "differentials_used": 6,
-        "best_differential": 15.5,
-        "counting_differentials": [
-          15.5,
-          16.5,
-          16.5,
-          19.6,
-          19.6,
-          20.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 21.291666666666668,
+        "playing_handicap": 21,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 92,
+            "round_handicap": 19.25
+          },
+          {
+            "day": 2,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          },
+          {
+            "day": 3,
+            "gross_total": 98,
+            "round_handicap": 24.5
+          }
         ]
       }
     },
@@ -8310,19 +9816,30 @@
       "third_place_finishes": 0,
       "best_finish": 5,
       "worst_finish": 21,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 17.2,
-        "differentials_used": 6,
-        "best_differential": 14.5,
-        "counting_differentials": [
-          14.5,
-          15.5,
-          17.6,
-          17.6,
-          18.6,
-          19.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 25.375,
+        "playing_handicap": 25,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 101,
+            "round_handicap": 27.125
+          },
+          {
+            "day": 2,
+            "gross_total": 95,
+            "round_handicap": 21.875
+          },
+          {
+            "day": 3,
+            "gross_total": 101,
+            "round_handicap": 27.125
+          }
         ]
       }
     },
@@ -8369,15 +9886,30 @@
       "third_place_finishes": 1,
       "best_finish": 3,
       "worst_finish": 24,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 6,
-        "index": 25.7,
-        "differentials_used": 2,
-        "best_differential": 24.6,
-        "counting_differentials": [
-          24.6,
-          28.7
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 28.291666666666668,
+        "playing_handicap": 28,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 99,
+            "round_handicap": 25.375
+          },
+          {
+            "day": 2,
+            "gross_total": 103,
+            "round_handicap": 28.875
+          },
+          {
+            "day": 3,
+            "gross_total": 105,
+            "round_handicap": 30.625
+          }
         ]
       }
     },
@@ -8454,18 +9986,30 @@
       "third_place_finishes": 0,
       "best_finish": 1,
       "worst_finish": 21,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 15,
-        "index": 28.4,
-        "differentials_used": 5,
-        "best_differential": 24.6,
-        "counting_differentials": [
-          24.6,
-          27.6,
-          27.6,
-          30.7,
-          31.7
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 29.166666666666668,
+        "playing_handicap": 29,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 98,
+            "round_handicap": 24.5
+          },
+          {
+            "day": 2,
+            "gross_total": 104,
+            "round_handicap": 29.75
+          },
+          {
+            "day": 3,
+            "gross_total": 108,
+            "round_handicap": 33.25
+          }
         ]
       }
     },
@@ -8522,16 +10066,30 @@
       "third_place_finishes": 0,
       "best_finish": 7,
       "worst_finish": 23,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 9,
-        "index": 25.9,
-        "differentials_used": 3,
-        "best_differential": 24.6,
-        "counting_differentials": [
-          24.6,
-          25.6,
-          27.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 33.25,
+        "playing_handicap": 33,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 110,
+            "round_handicap": 35.0
+          },
+          {
+            "day": 2,
+            "gross_total": 105,
+            "round_handicap": 30.625
+          },
+          {
+            "day": 3,
+            "gross_total": 109,
+            "round_handicap": 34.125
+          }
         ]
       }
     },
@@ -8618,19 +10176,30 @@
       "third_place_finishes": 0,
       "best_finish": 2,
       "worst_finish": 17,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 20.3,
-        "differentials_used": 6,
-        "best_differential": 18.6,
-        "counting_differentials": [
-          18.6,
-          19.6,
-          20.6,
-          20.6,
-          20.6,
-          21.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 20.708333333333332,
+        "playing_handicap": 21,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 88,
+            "round_handicap": 15.75
+          },
+          {
+            "day": 2,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          },
+          {
+            "day": 3,
+            "gross_total": 100,
+            "round_handicap": 26.25
+          }
         ]
       }
     },
@@ -8717,19 +10286,30 @@
       "third_place_finishes": 0,
       "best_finish": 5,
       "worst_finish": 19,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 46.1,
-        "differentials_used": 6,
-        "best_differential": 41.8,
-        "counting_differentials": [
-          41.8,
-          44.8,
-          45.8,
-          46.8,
-          47.8,
-          49.8
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 44.333333333333336,
+        "playing_handicap": 44,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 121,
+            "round_handicap": 44.625
+          },
+          {
+            "day": 2,
+            "gross_total": 117,
+            "round_handicap": 41.125
+          },
+          {
+            "day": 3,
+            "gross_total": 124,
+            "round_handicap": 47.25
+          }
         ]
       }
     },
@@ -8786,16 +10366,30 @@
       "third_place_finishes": 0,
       "best_finish": 6,
       "worst_finish": 25,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 9,
-        "index": 32.7,
-        "differentials_used": 3,
-        "best_differential": 31.7,
-        "counting_differentials": [
-          31.7,
-          32.7,
-          33.7
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 46.958333333333336,
+        "playing_handicap": 47,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 125,
+            "round_handicap": 48.125
+          },
+          {
+            "day": 2,
+            "gross_total": 118,
+            "round_handicap": 42.0
+          },
+          {
+            "day": 3,
+            "gross_total": 128,
+            "round_handicap": 50.75
+          }
         ]
       }
     },
@@ -8882,19 +10476,30 @@
       "third_place_finishes": 1,
       "best_finish": 3,
       "worst_finish": 20,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 18,
-        "index": 19.1,
-        "differentials_used": 6,
-        "best_differential": 17.6,
-        "counting_differentials": [
-          17.6,
-          17.6,
-          19.6,
-          19.6,
-          19.6,
-          20.6
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2025,
+        "lookback_years": 2,
+        "value": 19.25,
+        "playing_handicap": 19,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 85,
+            "round_handicap": 13.125
+          },
+          {
+            "day": 2,
+            "gross_total": 89,
+            "round_handicap": 16.625
+          },
+          {
+            "day": 3,
+            "gross_total": 102,
+            "round_handicap": 28.0
+          }
         ]
       }
     },
@@ -8951,15 +10556,30 @@
       "third_place_finishes": 0,
       "best_finish": 1,
       "worst_finish": 20,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 8,
-        "index": 29.2,
-        "differentials_used": 2,
-        "best_differential": 28.7,
-        "counting_differentials": [
-          28.7,
-          29.7
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2024,
+        "lookback_years": 2,
+        "value": 24.208333333333332,
+        "playing_handicap": 24,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 96,
+            "round_handicap": 22.75
+          },
+          {
+            "day": 2,
+            "gross_total": 99,
+            "round_handicap": 25.375
+          },
+          {
+            "day": 3,
+            "gross_total": 98,
+            "round_handicap": 24.5
+          }
         ]
       }
     },
@@ -8996,14 +10616,30 @@
       "third_place_finishes": 0,
       "best_finish": 20,
       "worst_finish": 20,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 3,
-        "index": 32.7,
-        "differentials_used": 1,
-        "best_differential": 34.7,
-        "counting_differentials": [
-          34.7
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2024,
+        "lookback_years": 2,
+        "value": 32.083333333333336,
+        "playing_handicap": 32,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 104,
+            "round_handicap": 29.75
+          },
+          {
+            "day": 2,
+            "gross_total": 111,
+            "round_handicap": 35.875
+          },
+          {
+            "day": 3,
+            "gross_total": 105,
+            "round_handicap": 30.625
+          }
         ]
       }
     },
@@ -9050,15 +10686,30 @@
       "third_place_finishes": 0,
       "best_finish": 12,
       "worst_finish": 22,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 6,
-        "index": 14.0,
-        "differentials_used": 2,
-        "best_differential": 14.5,
-        "counting_differentials": [
-          14.5,
-          15.5
+      "sparta_handicap": {
+        "available": true,
+        "current": true,
+        "target_year": 2026,
+        "source_year": 2024,
+        "lookback_years": 2,
+        "value": 19.833333333333332,
+        "playing_handicap": 20,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          },
+          {
+            "day": 2,
+            "gross_total": 83,
+            "round_handicap": 11.375
+          },
+          {
+            "day": 3,
+            "gross_total": 102,
+            "round_handicap": 28.0
+          }
         ]
       }
     },
@@ -9105,14 +10756,30 @@
       "third_place_finishes": 0,
       "best_finish": 17,
       "worst_finish": 22,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 5,
-        "index": 48.8,
-        "differentials_used": 1,
-        "best_differential": 48.8,
-        "counting_differentials": [
-          48.8
+      "sparta_handicap": {
+        "available": true,
+        "current": false,
+        "target_year": 2026,
+        "source_year": 2023,
+        "lookback_years": 2,
+        "value": 46.666666666666664,
+        "playing_handicap": 47,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 126,
+            "round_handicap": 49.0
+          },
+          {
+            "day": 2,
+            "gross_total": 127,
+            "round_handicap": 49.875
+          },
+          {
+            "day": 3,
+            "gross_total": 117,
+            "round_handicap": 41.125
+          }
         ]
       }
     },
@@ -9169,16 +10836,30 @@
       "third_place_finishes": 0,
       "best_finish": 1,
       "worst_finish": 14,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 9,
-        "index": 23.9,
-        "differentials_used": 3,
-        "best_differential": 23.6,
-        "counting_differentials": [
-          23.6,
-          23.6,
-          24.6
+      "sparta_handicap": {
+        "available": true,
+        "current": false,
+        "target_year": 2026,
+        "source_year": 2023,
+        "lookback_years": 2,
+        "value": 20.708333333333332,
+        "playing_handicap": 21,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 93,
+            "round_handicap": 20.125
+          },
+          {
+            "day": 2,
+            "gross_total": 92,
+            "round_handicap": 19.25
+          },
+          {
+            "day": 3,
+            "gross_total": 96,
+            "round_handicap": 22.75
+          }
         ]
       }
     },
@@ -9215,11 +10896,11 @@
       "third_place_finishes": 0,
       "best_finish": 23,
       "worst_finish": 23,
-      "world_handicap": {
-        "eligible": false,
-        "score_count": 1,
-        "index": null,
-        "differentials_used": 0
+      "sparta_handicap": {
+        "available": false,
+        "current": false,
+        "target_year": 2026,
+        "lookback_years": 2
       }
     },
     "Sean Flynn": {
@@ -9255,14 +10936,30 @@
       "third_place_finishes": 0,
       "best_finish": 17,
       "worst_finish": 17,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 3,
-        "index": 11.5,
-        "differentials_used": 1,
-        "best_differential": 13.5,
-        "counting_differentials": [
-          13.5
+      "sparta_handicap": {
+        "available": true,
+        "current": false,
+        "target_year": 2026,
+        "source_year": 2021,
+        "lookback_years": 2,
+        "value": 11.958333333333334,
+        "playing_handicap": 12,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 85,
+            "round_handicap": 13.125
+          },
+          {
+            "day": 2,
+            "gross_total": 81,
+            "round_handicap": 9.625
+          },
+          {
+            "day": 3,
+            "gross_total": 85,
+            "round_handicap": 13.125
+          }
         ]
       }
     },
@@ -9299,14 +10996,30 @@
       "third_place_finishes": 0,
       "best_finish": 18,
       "worst_finish": 18,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 3,
-        "index": 31.7,
-        "differentials_used": 1,
-        "best_differential": 33.7,
-        "counting_differentials": [
-          33.7
+      "sparta_handicap": {
+        "available": true,
+        "current": false,
+        "target_year": 2026,
+        "source_year": 2021,
+        "lookback_years": 2,
+        "value": 32.083333333333336,
+        "playing_handicap": 32,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 102,
+            "round_handicap": 28.0
+          },
+          {
+            "day": 2,
+            "gross_total": 106,
+            "round_handicap": 31.5
+          },
+          {
+            "day": 3,
+            "gross_total": 112,
+            "round_handicap": 36.75
+          }
         ]
       }
     },
@@ -9353,15 +11066,30 @@
       "third_place_finishes": 0,
       "best_finish": 4,
       "worst_finish": 10,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 6,
-        "index": 8.5,
-        "differentials_used": 2,
-        "best_differential": 8.5,
-        "counting_differentials": [
-          8.5,
-          10.5
+      "sparta_handicap": {
+        "available": true,
+        "current": false,
+        "target_year": 2026,
+        "source_year": 2021,
+        "lookback_years": 2,
+        "value": 9.625,
+        "playing_handicap": 10,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 78,
+            "round_handicap": 7.0
+          },
+          {
+            "day": 2,
+            "gross_total": 76,
+            "round_handicap": 5.25
+          },
+          {
+            "day": 3,
+            "gross_total": 89,
+            "round_handicap": 16.625
+          }
         ]
       }
     },
@@ -9398,11 +11126,11 @@
       "third_place_finishes": 0,
       "best_finish": 22,
       "worst_finish": 22,
-      "world_handicap": {
-        "eligible": false,
-        "score_count": 1,
-        "index": null,
-        "differentials_used": 0
+      "sparta_handicap": {
+        "available": false,
+        "current": false,
+        "target_year": 2026,
+        "lookback_years": 2
       }
     },
     "Richie Payne": {
@@ -9438,14 +11166,30 @@
       "third_place_finishes": 0,
       "best_finish": 12,
       "worst_finish": 12,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 3,
-        "index": 35.7,
-        "differentials_used": 1,
-        "best_differential": 37.7,
-        "counting_differentials": [
-          37.7
+      "sparta_handicap": {
+        "available": true,
+        "current": false,
+        "target_year": 2026,
+        "source_year": 2019,
+        "lookback_years": 2,
+        "value": 31.208333333333332,
+        "playing_handicap": 31,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 105,
+            "round_handicap": 30.625
+          },
+          {
+            "day": 2,
+            "gross_total": 105,
+            "round_handicap": 30.625
+          },
+          {
+            "day": 3,
+            "gross_total": 107,
+            "round_handicap": 32.375
+          }
         ]
       }
     },
@@ -9482,14 +11226,30 @@
       "third_place_finishes": 0,
       "best_finish": 8,
       "worst_finish": 8,
-      "world_handicap": {
-        "eligible": true,
-        "score_count": 3,
-        "index": 50.9,
-        "differentials_used": 1,
-        "best_differential": 52.9,
-        "counting_differentials": [
-          52.9
+      "sparta_handicap": {
+        "available": true,
+        "current": false,
+        "target_year": 2026,
+        "source_year": 2019,
+        "lookback_years": 2,
+        "value": 48.708333333333336,
+        "playing_handicap": 49,
+        "rounds": [
+          {
+            "day": 1,
+            "gross_total": 132,
+            "round_handicap": 54.25
+          },
+          {
+            "day": 2,
+            "gross_total": 123,
+            "round_handicap": 46.375
+          },
+          {
+            "day": 3,
+            "gross_total": 122,
+            "round_handicap": 45.5
+          }
         ]
       }
     }
@@ -9581,8 +11341,7 @@
           "gross_back": 42,
           "net_front": 28,
           "net_back": 29,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 11.375,
           "net_rank": 1
         },
         {
@@ -9661,8 +11420,7 @@
           "gross_back": 43,
           "net_front": 33,
           "net_back": 30,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 2
         },
         {
@@ -9741,8 +11499,7 @@
           "gross_back": 44,
           "net_front": 36,
           "net_back": 30,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 3
         },
         {
@@ -9821,8 +11578,7 @@
           "gross_back": 44,
           "net_front": 36,
           "net_back": 32,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 4
         },
         {
@@ -9901,8 +11657,7 @@
           "gross_back": 40,
           "net_front": 36,
           "net_back": 34,
-          "adjusted_gross_total": 80,
-          "score_differential": 12.5,
+          "sparta_round_handicap": 9.625,
           "net_rank": 5
         },
         {
@@ -9981,12 +11736,11 @@
           "gross_back": 44,
           "net_front": 33,
           "net_back": 37,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 6
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "handicap": 26,
           "gross_scores": [
             5,
@@ -10056,13 +11810,12 @@
           },
           "total_cents": 3140,
           "total": 31.4,
-          "canonical_name": "Jeremy",
+          "canonical_name": "Jeremy Flynn",
           "gross_front": 48,
           "gross_back": 48,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 7
         },
         {
@@ -10141,8 +11894,7 @@
           "gross_back": 49,
           "net_front": 33,
           "net_back": 38,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 8
         },
         {
@@ -10221,8 +11973,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 36,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 9
         },
         {
@@ -10301,8 +12052,7 @@
           "gross_back": 49,
           "net_front": 34,
           "net_back": 38,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 10
         },
         {
@@ -10381,8 +12131,7 @@
           "gross_back": 52,
           "net_front": 33,
           "net_back": 39,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 23.625,
           "net_rank": 11
         },
         {
@@ -10461,8 +12210,7 @@
           "gross_back": 43,
           "net_front": 39,
           "net_back": 34,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 12
         },
         {
@@ -10541,8 +12289,7 @@
           "gross_back": 40,
           "net_front": 38,
           "net_back": 36,
-          "adjusted_gross_total": 82,
-          "score_differential": 14.5,
+          "sparta_round_handicap": 10.5,
           "net_rank": 13
         },
         {
@@ -10621,8 +12368,7 @@
           "gross_back": 54,
           "net_front": 35,
           "net_back": 39,
-          "adjusted_gross_total": 104,
-          "score_differential": 36.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 14
         },
         {
@@ -10701,8 +12447,7 @@
           "gross_back": 58,
           "net_front": 37,
           "net_back": 37,
-          "adjusted_gross_total": 116,
-          "score_differential": 48.8,
+          "sparta_round_handicap": 40.25,
           "net_rank": 15
         },
         {
@@ -10781,8 +12526,7 @@
           "gross_back": 41,
           "net_front": 37,
           "net_back": 38,
-          "adjusted_gross_total": 81,
-          "score_differential": 13.5,
+          "sparta_round_handicap": 9.625,
           "net_rank": 16
         },
         {
@@ -10861,8 +12605,7 @@
           "gross_back": 49,
           "net_front": 39,
           "net_back": 38,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 17
         },
         {
@@ -10941,8 +12684,7 @@
           "gross_back": 51,
           "net_front": 39,
           "net_back": 39,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 18
         },
         {
@@ -11021,8 +12763,7 @@
           "gross_back": 49,
           "net_front": 43,
           "net_back": 35,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 19
         },
         {
@@ -11101,8 +12842,7 @@
           "gross_back": 55,
           "net_front": 38,
           "net_back": 40,
-          "adjusted_gross_total": 106,
-          "score_differential": 38.7,
+          "sparta_round_handicap": 33.25,
           "net_rank": 20
         },
         {
@@ -11181,8 +12921,7 @@
           "gross_back": 54,
           "net_front": 40,
           "net_back": 38,
-          "adjusted_gross_total": 108,
-          "score_differential": 40.8,
+          "sparta_round_handicap": 34.125,
           "net_rank": 21
         },
         {
@@ -11261,8 +13000,7 @@
           "gross_back": 51,
           "net_front": 39,
           "net_back": 41,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 22
         },
         {
@@ -11341,8 +13079,7 @@
           "gross_back": 61,
           "net_front": 41,
           "net_back": 39,
-          "adjusted_gross_total": 121,
-          "score_differential": 53.9,
+          "sparta_round_handicap": 47.25,
           "net_rank": 23
         },
         {
@@ -11421,8 +13158,7 @@
           "gross_back": 64,
           "net_front": 43,
           "net_back": 42,
-          "adjusted_gross_total": 127,
-          "score_differential": 59.9,
+          "sparta_round_handicap": 50.75,
           "net_rank": 24
         },
         {
@@ -11501,8 +13237,7 @@
           "gross_back": 51,
           "net_front": 43,
           "net_back": 43,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 25
         }
       ],
@@ -11517,7 +13252,7 @@
               "Jack Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bernie Sullivan"
@@ -11606,7 +13341,7 @@
               "Edwin Erhlbacher"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bernie Sullivan"
@@ -11716,7 +13451,7 @@
               "Chris Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Joe McCardell"
@@ -11802,7 +13537,7 @@
               "Chris Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -11855,7 +13590,7 @@
               "Chris Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -11935,7 +13670,7 @@
               "Chris Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -12015,7 +13750,7 @@
               "TJ Williams"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bernie Sullivan"
@@ -12122,7 +13857,7 @@
               "Joe McCardell"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bernie Sullivan"
@@ -12169,7 +13904,7 @@
               "Davie Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -12240,7 +13975,7 @@
               "Davie Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -12350,7 +14085,7 @@
               "Tim Stefl"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -12463,7 +14198,7 @@
               "Tim Stefl"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ]
           ]
         },
@@ -12516,7 +14251,7 @@
               "Tim Stefl"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Brauer"
@@ -12581,7 +14316,7 @@
               "Richard McGovern"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Brauer"
@@ -12638,7 +14373,7 @@
               "Ralph Reis",
               "Nick McCardell",
               "Matt Brauer",
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Kizer"
@@ -12714,7 +14449,7 @@
               "Ralph Reis",
               "Nick McCardell",
               "Matt Brauer",
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Matt Lawrence"
@@ -12783,7 +14518,7 @@
               "Nick McCardell",
               "Matt Brauer",
               "Joe Keifer",
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Kizer",
@@ -12832,7 +14567,7 @@
               "Nick McCardell",
               "Matt Brauer",
               "Joe Keifer",
-              "Jeremy",
+              "Jeremy Flynn",
               "Cory Colvin"
             ],
             [
@@ -12980,8 +14715,7 @@
           "gross_back": 50,
           "net_front": 28,
           "net_back": 34,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 1
         },
         {
@@ -13060,8 +14794,7 @@
           "gross_back": 36,
           "net_front": 34,
           "net_back": 30,
-          "adjusted_gross_total": 75,
-          "score_differential": 7.5,
+          "sparta_round_handicap": 4.375,
           "net_rank": 2
         },
         {
@@ -13140,8 +14873,7 @@
           "gross_back": 41,
           "net_front": 32,
           "net_back": 32,
-          "adjusted_gross_total": 82,
-          "score_differential": 14.5,
+          "sparta_round_handicap": 10.5,
           "net_rank": 3
         },
         {
@@ -13220,12 +14952,11 @@
           "gross_back": 44,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 4
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "handicap": 28,
           "gross_scores": [
             5,
@@ -13295,13 +15026,12 @@
           },
           "total_cents": 2560,
           "total": 25.6,
-          "canonical_name": "Jeremy",
+          "canonical_name": "Jeremy Flynn",
           "gross_front": 48,
           "gross_back": 50,
           "net_front": 34,
           "net_back": 36,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 5
         },
         {
@@ -13380,8 +15110,7 @@
           "gross_back": 37,
           "net_front": 37,
           "net_back": 34,
-          "adjusted_gross_total": 77,
-          "score_differential": 9.5,
+          "sparta_round_handicap": 6.125,
           "net_rank": 6
         },
         {
@@ -13460,8 +15189,7 @@
           "gross_back": 48,
           "net_front": 35,
           "net_back": 36,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 7
         },
         {
@@ -13540,8 +15268,7 @@
           "gross_back": 48,
           "net_front": 36,
           "net_back": 35,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 8
         },
         {
@@ -13620,8 +15347,7 @@
           "gross_back": 57,
           "net_front": 37,
           "net_back": 34,
-          "adjusted_gross_total": 117,
-          "score_differential": 49.8,
+          "sparta_round_handicap": 41.125,
           "net_rank": 9
         },
         {
@@ -13700,8 +15426,7 @@
           "gross_back": 44,
           "net_front": 39,
           "net_back": 33,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 10
         },
         {
@@ -13780,8 +15505,7 @@
           "gross_back": 50,
           "net_front": 38,
           "net_back": 34,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.875,
           "net_rank": 11
         },
         {
@@ -13860,8 +15584,7 @@
           "gross_back": 44,
           "net_front": 37,
           "net_back": 36,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 12
         },
         {
@@ -13940,8 +15663,7 @@
           "gross_back": 45,
           "net_front": 38,
           "net_back": 35,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 13
         },
         {
@@ -14020,8 +15742,7 @@
           "gross_back": 54,
           "net_front": 35,
           "net_back": 38,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 14
         },
         {
@@ -14100,8 +15821,7 @@
           "gross_back": 40,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 15
         },
         {
@@ -14180,8 +15900,7 @@
           "gross_back": 45,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 16
         },
         {
@@ -14260,8 +15979,7 @@
           "gross_back": 47,
           "net_front": 38,
           "net_back": 36,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 17
         },
         {
@@ -14340,8 +16058,7 @@
           "gross_back": 47,
           "net_front": 41,
           "net_back": 33,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 18
         },
         {
@@ -14420,8 +16137,7 @@
           "gross_back": 50,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 104,
-          "score_differential": 36.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 19
         },
         {
@@ -14500,8 +16216,7 @@
           "gross_back": 61,
           "net_front": 35,
           "net_back": 39,
-          "adjusted_gross_total": 115,
-          "score_differential": 47.8,
+          "sparta_round_handicap": 42.0,
           "net_rank": 20
         },
         {
@@ -14580,8 +16295,7 @@
           "gross_back": 53,
           "net_front": 35,
           "net_back": 40,
-          "adjusted_gross_total": 101,
-          "score_differential": 33.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 21
         },
         {
@@ -14660,8 +16374,7 @@
           "gross_back": 52,
           "net_front": 36,
           "net_back": 40,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 22
         },
         {
@@ -14740,8 +16453,7 @@
           "gross_back": 51,
           "net_front": 38,
           "net_back": 41,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 23
         },
         {
@@ -14820,8 +16532,7 @@
           "gross_back": 50,
           "net_front": 41,
           "net_back": 38,
-          "adjusted_gross_total": 103,
-          "score_differential": 35.7,
+          "sparta_round_handicap": 28.875,
           "net_rank": 24
         },
         {
@@ -14900,8 +16611,7 @@
           "gross_back": 60,
           "net_front": 40,
           "net_back": 40,
-          "adjusted_gross_total": 119,
-          "score_differential": 51.9,
+          "sparta_round_handicap": 43.75,
           "net_rank": 25
         }
       ],
@@ -14928,7 +16638,7 @@
               "Blake Dougan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -15029,7 +16739,7 @@
               "Ralph Reis"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Richard McGovern"
@@ -15103,7 +16813,7 @@
               "Matt Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Jack Sullivan"
@@ -15171,7 +16881,7 @@
               "Matt Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Jack Sullivan"
@@ -15284,7 +16994,7 @@
               "Leo Berhost"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Chris Flynn"
@@ -15319,7 +17029,7 @@
               "Mike Fitzgerald"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Jerry Flynn"
@@ -15414,7 +17124,7 @@
               "Leo Berhost"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Dougan"
@@ -15479,7 +17189,7 @@
               "Leo Berhost"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Dougan"
@@ -15619,7 +17329,7 @@
               "Leo Berhost"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Davie Brauer"
@@ -15690,7 +17400,7 @@
               "Joe McCardell"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Edwin Erhlbacher"
@@ -15746,7 +17456,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Kizer"
@@ -15850,7 +17560,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Kizer"
@@ -15922,7 +17632,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Kizer"
@@ -15982,7 +17692,7 @@
               "Jack Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Kizer"
@@ -16085,7 +17795,7 @@
               "Jack Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -16096,7 +17806,7 @@
           "hole": 16,
           "ranking": [
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Leo Berhost",
@@ -16168,7 +17878,7 @@
               "Mike Dougan",
               "Richard McGovern",
               "Joe Keifer",
-              "Jeremy",
+              "Jeremy Flynn",
               "Cory Colvin"
             ],
             [
@@ -16220,7 +17930,7 @@
               "Kevin Fitzgerald",
               "Richard McGovern",
               "Joe Keifer",
-              "Jeremy",
+              "Jeremy Flynn",
               "Cory Colvin"
             ],
             [
@@ -16381,8 +18091,7 @@
           "gross_back": 40,
           "net_front": 28,
           "net_back": 32,
-          "adjusted_gross_total": 76,
-          "score_differential": 8.5,
+          "sparta_round_handicap": 5.25,
           "net_rank": 1
         },
         {
@@ -16461,8 +18170,7 @@
           "gross_back": 44,
           "net_front": 31,
           "net_back": 32,
-          "adjusted_gross_total": 86,
-          "score_differential": 18.6,
+          "sparta_round_handicap": 14.0,
           "net_rank": 2
         },
         {
@@ -16541,8 +18249,7 @@
           "gross_back": 52,
           "net_front": 29,
           "net_back": 34,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 3
         },
         {
@@ -16621,8 +18328,7 @@
           "gross_back": 42,
           "net_front": 30,
           "net_back": 34,
-          "adjusted_gross_total": 79,
-          "score_differential": 11.5,
+          "sparta_round_handicap": 7.875,
           "net_rank": 4
         },
         {
@@ -16701,8 +18407,7 @@
           "gross_back": 44,
           "net_front": 32,
           "net_back": 32,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 5
         },
         {
@@ -16781,8 +18486,7 @@
           "gross_back": 52,
           "net_front": 31,
           "net_back": 34,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 6
         },
         {
@@ -16861,8 +18565,7 @@
           "gross_back": 42,
           "net_front": 34,
           "net_back": 32,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 7
         },
         {
@@ -16941,8 +18644,7 @@
           "gross_back": 50,
           "net_front": 31,
           "net_back": 36,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 8
         },
         {
@@ -17021,8 +18723,7 @@
           "gross_back": 47,
           "net_front": 35,
           "net_back": 32,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 9
         },
         {
@@ -17101,8 +18802,7 @@
           "gross_back": 37,
           "net_front": 35,
           "net_back": 33,
-          "adjusted_gross_total": 75,
-          "score_differential": 7.5,
+          "sparta_round_handicap": 4.375,
           "net_rank": 10
         },
         {
@@ -17181,8 +18881,7 @@
           "gross_back": 48,
           "net_front": 37,
           "net_back": 31,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 11
         },
         {
@@ -17261,8 +18960,7 @@
           "gross_back": 46,
           "net_front": 35,
           "net_back": 34,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 12
         },
         {
@@ -17341,8 +19039,7 @@
           "gross_back": 49,
           "net_front": 31,
           "net_back": 39,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 13
         },
         {
@@ -17421,8 +19118,7 @@
           "gross_back": 45,
           "net_front": 37,
           "net_back": 33,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 14
         },
         {
@@ -17501,8 +19197,7 @@
           "gross_back": 48,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 15
         },
         {
@@ -17581,8 +19276,7 @@
           "gross_back": 59,
           "net_front": 38,
           "net_back": 35,
-          "adjusted_gross_total": 120,
-          "score_differential": 52.9,
+          "sparta_round_handicap": 44.625,
           "net_rank": 16
         },
         {
@@ -17661,8 +19355,7 @@
           "gross_back": 49,
           "net_front": 36,
           "net_back": 39,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 17
         },
         {
@@ -17741,8 +19434,7 @@
           "gross_back": 49,
           "net_front": 39,
           "net_back": 37,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 18
         },
         {
@@ -17821,8 +19513,7 @@
           "gross_back": 60,
           "net_front": 36,
           "net_back": 40,
-          "adjusted_gross_total": 114,
-          "score_differential": 46.8,
+          "sparta_round_handicap": 40.25,
           "net_rank": 19
         },
         {
@@ -17901,8 +19592,7 @@
           "gross_back": 46,
           "net_front": 40,
           "net_back": 38,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 20
         },
         {
@@ -17981,8 +19671,7 @@
           "gross_back": 51,
           "net_front": 40,
           "net_back": 40,
-          "adjusted_gross_total": 101,
-          "score_differential": 33.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 21
         },
         {
@@ -18061,8 +19750,7 @@
           "gross_back": 55,
           "net_front": 41,
           "net_back": 40,
-          "adjusted_gross_total": 107,
-          "score_differential": 39.8,
+          "sparta_round_handicap": 35.0,
           "net_rank": 22
         },
         {
@@ -18141,12 +19829,11 @@
           "gross_back": 53,
           "net_front": 43,
           "net_back": 41,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 33.25,
           "net_rank": 23
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "handicap": 23,
           "gross_scores": [
             6,
@@ -18216,13 +19903,12 @@
           },
           "total_cents": -6680,
           "total": -66.8,
-          "canonical_name": "Jeremy",
+          "canonical_name": "Jeremy Flynn",
           "gross_front": 54,
           "gross_back": 54,
           "net_front": 43,
           "net_back": 42,
-          "adjusted_gross_total": 106,
-          "score_differential": 38.7,
+          "sparta_round_handicap": 33.25,
           "net_rank": 24
         },
         {
@@ -18301,8 +19987,7 @@
           "gross_back": 64,
           "net_front": 41,
           "net_back": 44,
-          "adjusted_gross_total": 121,
-          "score_differential": 53.9,
+          "sparta_round_handicap": 48.125,
           "net_rank": 25
         }
       ],
@@ -18371,7 +20056,7 @@
               "Mike Fitzgerald"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Davie Brauer"
@@ -18457,7 +20142,7 @@
               "Jack Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Blake Dougan"
@@ -18543,7 +20228,7 @@
               "Matt Lawrence"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ]
           ]
         },
@@ -18617,7 +20302,7 @@
               "Cory Colvin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Nick McCardell"
@@ -18697,7 +20382,7 @@
               "Cory Colvin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Fitzgerald"
@@ -18777,7 +20462,7 @@
               "Dave Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Fitzgerald"
@@ -18851,7 +20536,7 @@
               "Leo Berhost"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Kevin Fitzgerald"
@@ -18877,7 +20562,7 @@
               "John Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Cory Colvin"
@@ -18972,7 +20657,7 @@
               "John Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Kevin Fitzgerald"
@@ -19073,7 +20758,7 @@
               "Dave Kizer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Fitzgerald"
@@ -19171,7 +20856,7 @@
               "Joe Keifer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Ralph Reis"
@@ -19242,7 +20927,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Fitzgerald"
@@ -19331,7 +21016,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Fitzgerald"
@@ -19408,7 +21093,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Dougan"
@@ -19498,7 +21183,7 @@
               "Mike Fitzgerald"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Davie Brauer"
@@ -19528,7 +21213,7 @@
               "Kevin Fitzgerald"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Mike Dougan",
@@ -19629,7 +21314,7 @@
               "Dave Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ]
           ]
         },
@@ -19660,7 +21345,7 @@
               "Mike Fitzgerald",
               "Richard McGovern",
               "Dave Kizer",
-              "Jeremy",
+              "Jeremy Flynn",
               "TJ Williams",
               "Tim Stefl"
             ],
@@ -19806,8 +21491,7 @@
           "gross_back": 44,
           "net_front": 35,
           "net_back": 31,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 1
         },
         {
@@ -19886,8 +21570,7 @@
           "gross_back": 48,
           "net_front": 34,
           "net_back": 32,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 2
         },
         {
@@ -19966,8 +21649,7 @@
           "gross_back": 40,
           "net_front": 37,
           "net_back": 30,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 3
         },
         {
@@ -20046,8 +21728,7 @@
           "gross_back": 44,
           "net_front": 35,
           "net_back": 34,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 4
         },
         {
@@ -20126,8 +21807,7 @@
           "gross_back": 46,
           "net_front": 34,
           "net_back": 35,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 5
         },
         {
@@ -20206,8 +21886,7 @@
           "gross_back": 49,
           "net_front": 31,
           "net_back": 38,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 6
         },
         {
@@ -20286,8 +21965,7 @@
           "gross_back": 44,
           "net_front": 38,
           "net_back": 32,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 7
         },
         {
@@ -20366,8 +22044,7 @@
           "gross_back": 61,
           "net_front": 32,
           "net_back": 38,
-          "adjusted_gross_total": 115,
-          "score_differential": 47.8,
+          "sparta_round_handicap": 40.25,
           "net_rank": 8
         },
         {
@@ -20446,8 +22123,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 9
         },
         {
@@ -20526,8 +22202,7 @@
           "gross_back": 51,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 10
         },
         {
@@ -20606,8 +22281,7 @@
           "gross_back": 40,
           "net_front": 38,
           "net_back": 37,
-          "adjusted_gross_total": 79,
-          "score_differential": 11.5,
+          "sparta_round_handicap": 8.75,
           "net_rank": 11
         },
         {
@@ -20686,8 +22360,7 @@
           "gross_back": 50,
           "net_front": 37,
           "net_back": 38,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 12
         },
         {
@@ -20766,8 +22439,7 @@
           "gross_back": 45,
           "net_front": 37,
           "net_back": 39,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 13
         },
         {
@@ -20846,8 +22518,7 @@
           "gross_back": 47,
           "net_front": 38,
           "net_back": 41,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 14
         },
         {
@@ -20926,8 +22597,7 @@
           "gross_back": 52,
           "net_front": 37,
           "net_back": 43,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 15
         },
         {
@@ -21006,8 +22676,7 @@
           "gross_back": 50,
           "net_front": 40,
           "net_back": 40,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 16
         },
         {
@@ -21086,12 +22755,11 @@
           "gross_back": 58,
           "net_front": 37,
           "net_back": 43,
-          "adjusted_gross_total": 106,
-          "score_differential": 38.7,
+          "sparta_round_handicap": 34.125,
           "net_rank": 17
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "handicap": 20,
           "gross_scores": [
             6,
@@ -21161,13 +22829,12 @@
           },
           "total_cents": -3470,
           "total": -34.7,
-          "canonical_name": "Jeremy",
+          "canonical_name": "Jeremy Flynn",
           "gross_front": 51,
           "gross_back": 50,
           "net_front": 41,
           "net_back": 40,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 18
         },
         {
@@ -21246,8 +22913,7 @@
           "gross_back": 43,
           "net_front": 48,
           "net_back": 35,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 24.5,
           "net_rank": 19
         },
         {
@@ -21326,8 +22992,7 @@
           "gross_back": 53,
           "net_front": 41,
           "net_back": 44,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 20
         },
         {
@@ -21406,8 +23071,7 @@
           "gross_back": 58,
           "net_front": 45,
           "net_back": 45,
-          "adjusted_gross_total": 113,
-          "score_differential": 45.8,
+          "sparta_round_handicap": 39.375,
           "net_rank": 21
         }
       ],
@@ -21467,7 +23131,7 @@
               "Cory Colvin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Joe Keifer"
@@ -21538,7 +23202,7 @@
               "Kevin Fitzgerald"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Leo Berhost"
@@ -21603,7 +23267,7 @@
               "Edwin Erhlbacher"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Chris Flynn"
@@ -21665,7 +23329,7 @@
               "Kevin Fitzgerald"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Ralph Reis"
@@ -21742,7 +23406,7 @@
               "Kevin Fitzgerald"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Grant"
@@ -21759,7 +23423,7 @@
               "Ralph Reis"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Leo Berhost"
@@ -21851,7 +23515,7 @@
               "Matt Lawrence"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Chris Flynn"
@@ -21943,7 +23607,7 @@
               "Edwin Erhlbacher"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Richard McGovern"
@@ -21990,7 +23654,7 @@
               "TJ Williams"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bob Breslin"
@@ -22076,7 +23740,7 @@
               "TJ Williams"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Joe Keifer"
@@ -22147,7 +23811,7 @@
               "TJ Williams"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Grant"
@@ -22203,7 +23867,7 @@
               "TJ Williams"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Jerry Flynn"
@@ -22241,7 +23905,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Jerry Flynn"
@@ -22318,7 +23982,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Jerry Flynn"
@@ -22392,7 +24056,7 @@
               "Bernie Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Dave Brauer"
@@ -22449,7 +24113,7 @@
               "John Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bob Breslin"
@@ -22544,7 +24208,7 @@
               "Matt Lawrence"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ]
           ]
         },
@@ -22573,7 +24237,7 @@
               "Matt Lawrence",
               "Matt Brauer",
               "Joe Keifer",
-              "Jeremy",
+              "Jeremy Flynn",
               "TJ Williams",
               "Jack Sullivan",
               "Greg Nestor"
@@ -22719,8 +24383,7 @@
           "gross_back": 40,
           "net_front": 33,
           "net_back": 30,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 11.375,
           "net_rank": 1
         },
         {
@@ -22799,8 +24462,7 @@
           "gross_back": 49,
           "net_front": 29,
           "net_back": 35,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 2
         },
         {
@@ -22879,8 +24541,7 @@
           "gross_back": 42,
           "net_front": 34,
           "net_back": 31,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 3
         },
         {
@@ -22959,12 +24620,11 @@
           "gross_back": 44,
           "net_front": 33,
           "net_back": 34,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 4
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "handicap": 21,
           "gross_scores": [
             6,
@@ -23034,13 +24694,12 @@
           },
           "total_cents": 2830,
           "total": 28.3,
-          "canonical_name": "Jeremy",
+          "canonical_name": "Jeremy Flynn",
           "gross_front": 43,
           "gross_back": 45,
           "net_front": 33,
           "net_back": 34,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 5
         },
         {
@@ -23119,8 +24778,7 @@
           "gross_back": 36,
           "net_front": 35,
           "net_back": 33,
-          "adjusted_gross_total": 74,
-          "score_differential": 6.5,
+          "sparta_round_handicap": 3.5,
           "net_rank": 6
         },
         {
@@ -23199,8 +24857,7 @@
           "gross_back": 46,
           "net_front": 33,
           "net_back": 35,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 7
         },
         {
@@ -23279,8 +24936,7 @@
           "gross_back": 46,
           "net_front": 33,
           "net_back": 35,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 8
         },
         {
@@ -23359,8 +25015,7 @@
           "gross_back": 46,
           "net_front": 36,
           "net_back": 32,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 9
         },
         {
@@ -23439,8 +25094,7 @@
           "gross_back": 46,
           "net_front": 38,
           "net_back": 30,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 10
         },
         {
@@ -23519,8 +25173,7 @@
           "gross_back": 43,
           "net_front": 37,
           "net_back": 33,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 11
         },
         {
@@ -23599,8 +25252,7 @@
           "gross_back": 44,
           "net_front": 37,
           "net_back": 33,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 12
         },
         {
@@ -23679,8 +25331,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 35,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 13
         },
         {
@@ -23759,8 +25410,7 @@
           "gross_back": 44,
           "net_front": 40,
           "net_back": 32,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 14
         },
         {
@@ -23839,8 +25489,7 @@
           "gross_back": 52,
           "net_front": 35,
           "net_back": 37,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 15
         },
         {
@@ -23919,8 +25568,7 @@
           "gross_back": 41,
           "net_front": 38,
           "net_back": 36,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 16
         },
         {
@@ -23999,8 +25647,7 @@
           "gross_back": 44,
           "net_front": 36,
           "net_back": 38,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 13.125,
           "net_rank": 17
         },
         {
@@ -24079,8 +25726,7 @@
           "gross_back": 49,
           "net_front": 34,
           "net_back": 42,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 18
         },
         {
@@ -24159,8 +25805,7 @@
           "gross_back": 65,
           "net_front": 34,
           "net_back": 42,
-          "adjusted_gross_total": 117,
-          "score_differential": 49.8,
+          "sparta_round_handicap": 44.625,
           "net_rank": 19
         },
         {
@@ -24239,8 +25884,7 @@
           "gross_back": 52,
           "net_front": 37,
           "net_back": 40,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 20
         },
         {
@@ -24319,8 +25963,7 @@
           "gross_back": 55,
           "net_front": 42,
           "net_back": 40,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 35.875,
           "net_rank": 21
         },
         {
@@ -24399,8 +26042,7 @@
           "gross_back": 70,
           "net_front": 47,
           "net_back": 42,
-          "adjusted_gross_total": 129,
-          "score_differential": 61.9,
+          "sparta_round_handicap": 64.75,
           "net_rank": 22
         }
       ],
@@ -24463,7 +26105,7 @@
               "Bob Breslin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Joe Keifer"
@@ -24513,7 +26155,7 @@
               "Jack Sullivan"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "TJ Williams"
@@ -24587,7 +26229,7 @@
               "Greg Nestor"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "TJ Williams"
@@ -24643,7 +26285,7 @@
               "Greg Nestor"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "TJ Williams"
@@ -24693,7 +26335,7 @@
           "hole": 5,
           "ranking": [
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "TJ Williams"
@@ -24797,7 +26439,7 @@
               "Jerry Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Matt Lawrence"
@@ -24844,7 +26486,7 @@
               "Matt Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Matt Lawrence"
@@ -24957,7 +26599,7 @@
               "Dave Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Matt Lawrence"
@@ -24998,7 +26640,7 @@
               "Dave Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Chris Flynn"
@@ -25105,7 +26747,7 @@
               "Matt Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "TJ Williams"
@@ -25128,7 +26770,7 @@
               "Chris Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bernie Sullivan"
@@ -25220,7 +26862,7 @@
               "Bob Breslin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bernie Sullivan"
@@ -25291,7 +26933,7 @@
               "Edwin Erhlbacher"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Ralph Reis"
@@ -25350,7 +26992,7 @@
               "Richard McGovern"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Greg Nestor"
@@ -25410,7 +27052,7 @@
               "Grant"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Greg Nestor"
@@ -25488,7 +27130,7 @@
               "Leo Berhost"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Bernie Sullivan",
@@ -25554,7 +27196,7 @@
             [
               "Jerry Flynn",
               "Joe Keifer",
-              "Jeremy",
+              "Jeremy Flynn",
               "Jack Sullivan",
               "Chris Flynn"
             ],
@@ -25606,7 +27248,7 @@
               "Richard McGovern",
               "Matt Brauer",
               "Joe Keifer",
-              "Jeremy",
+              "Jeremy Flynn",
               "Jack Sullivan",
               "Chris Flynn"
             ],
@@ -25754,8 +27396,7 @@
           "gross_back": 47,
           "net_front": 30,
           "net_back": 27,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 1
         },
         {
@@ -25834,8 +27475,7 @@
           "gross_back": 44,
           "net_front": 33,
           "net_back": 32,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 2
         },
         {
@@ -25914,12 +27554,11 @@
           "gross_back": 44,
           "net_front": 38,
           "net_back": 28,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 23.625,
           "net_rank": 3
         },
         {
-          "name": "Jeremy",
+          "name": "Jeremy Flynn",
           "handicap": 24,
           "gross_scores": [
             4,
@@ -25989,13 +27628,12 @@
           },
           "total_cents": 3310,
           "total": 33.1,
-          "canonical_name": "Jeremy",
+          "canonical_name": "Jeremy Flynn",
           "gross_front": 46,
           "gross_back": 45,
           "net_front": 34,
           "net_back": 33,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 4
         },
         {
@@ -26074,8 +27712,7 @@
           "gross_back": 58,
           "net_front": 34,
           "net_back": 33,
-          "adjusted_gross_total": 114,
-          "score_differential": 46.8,
+          "sparta_round_handicap": 40.25,
           "net_rank": 5
         },
         {
@@ -26154,8 +27791,7 @@
           "gross_back": 43,
           "net_front": 37,
           "net_back": 31,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 6
         },
         {
@@ -26234,8 +27870,7 @@
           "gross_back": 42,
           "net_front": 39,
           "net_back": 30,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 7
         },
         {
@@ -26314,8 +27949,7 @@
           "gross_back": 40,
           "net_front": 34,
           "net_back": 37,
-          "adjusted_gross_total": 76,
-          "score_differential": 8.5,
+          "sparta_round_handicap": 6.125,
           "net_rank": 8
         },
         {
@@ -26394,8 +28028,7 @@
           "gross_back": 40,
           "net_front": 36,
           "net_back": 35,
-          "adjusted_gross_total": 81,
-          "score_differential": 13.5,
+          "sparta_round_handicap": 9.625,
           "net_rank": 9
         },
         {
@@ -26474,8 +28107,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 35,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 10
         },
         {
@@ -26554,8 +28186,7 @@
           "gross_back": 43,
           "net_front": 36,
           "net_back": 36,
-          "adjusted_gross_total": 86,
-          "score_differential": 18.6,
+          "sparta_round_handicap": 14.0,
           "net_rank": 11
         },
         {
@@ -26634,8 +28265,7 @@
           "gross_back": 44,
           "net_front": 39,
           "net_back": 34,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 12
         },
         {
@@ -26714,8 +28344,7 @@
           "gross_back": 49,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 13
         },
         {
@@ -26794,8 +28423,7 @@
           "gross_back": 44,
           "net_front": 40,
           "net_back": 34,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 14
         },
         {
@@ -26874,8 +28502,7 @@
           "gross_back": 50,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 103,
-          "score_differential": 35.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 15
         },
         {
@@ -26954,8 +28581,7 @@
           "gross_back": 51,
           "net_front": 39,
           "net_back": 36,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 16
         },
         {
@@ -27034,8 +28660,7 @@
           "gross_back": 39,
           "net_front": 42,
           "net_back": 34,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 13.125,
           "net_rank": 17
         },
         {
@@ -27114,8 +28739,7 @@
           "gross_back": 50,
           "net_front": 38,
           "net_back": 38,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 18
         },
         {
@@ -27194,8 +28818,7 @@
           "gross_back": 47,
           "net_front": 41,
           "net_back": 38,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 23.625,
           "net_rank": 19
         },
         {
@@ -27274,8 +28897,7 @@
           "gross_back": 50,
           "net_front": 42,
           "net_back": 38,
-          "adjusted_gross_total": 104,
-          "score_differential": 36.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 20
         },
         {
@@ -27354,8 +28976,7 @@
           "gross_back": 52,
           "net_front": 40,
           "net_back": 41,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 21
         },
         {
@@ -27434,8 +29055,7 @@
           "gross_back": 62,
           "net_front": 47,
           "net_back": 35,
-          "adjusted_gross_total": 129,
-          "score_differential": 61.9,
+          "sparta_round_handicap": 56.875,
           "net_rank": 22
         }
       ],
@@ -27444,7 +29064,7 @@
           "hole": 1,
           "ranking": [
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Greg Nestor"
@@ -27524,7 +29144,7 @@
               "Matt Lawrence"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Davie Brauer"
@@ -27622,7 +29242,7 @@
               "Jerry Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -27705,7 +29325,7 @@
               "Jerry Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Davie Brauer"
@@ -27776,7 +29396,7 @@
               "Jerry Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Cory Colvin"
@@ -27817,7 +29437,7 @@
               "Matt Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -27900,7 +29520,7 @@
               "Grant"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -27962,7 +29582,7 @@
               "Cory Colvin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -28021,7 +29641,7 @@
               "Bob Breslin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -28092,7 +29712,7 @@
               "Bob Breslin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -28178,7 +29798,7 @@
               "Bob Breslin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Kevin Fitzgerald"
@@ -28237,7 +29857,7 @@
               "Bob Breslin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "John Sullivan"
@@ -28311,7 +29931,7 @@
               "Bob Breslin"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Matt Lawrence"
@@ -28379,7 +29999,7 @@
               "Chris Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "TJ Williams"
@@ -28475,7 +30095,7 @@
               "Matt Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Joe Keifer"
@@ -28528,7 +30148,7 @@
               "Jerry Flynn"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Greg Nestor"
@@ -28601,7 +30221,7 @@
               "Dave Brauer"
             ],
             [
-              "Jeremy"
+              "Jeremy Flynn"
             ],
             [
               "Greg Nestor"
@@ -28650,7 +30270,7 @@
             [
               "Edwin Erhlbacher",
               "Richard McGovern",
-              "Jeremy"
+              "Jeremy Flynn"
             ]
           ]
         }
@@ -28787,8 +30407,7 @@
           "gross_back": 43,
           "net_front": 34,
           "net_back": 32,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 1
         },
         {
@@ -28867,8 +30486,7 @@
           "gross_back": 42,
           "net_front": 34,
           "net_back": 33,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 13.125,
           "net_rank": 2
         },
         {
@@ -28947,8 +30565,7 @@
           "gross_back": 50,
           "net_front": 33,
           "net_back": 34,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 3
         },
         {
@@ -29027,8 +30644,7 @@
           "gross_back": 40,
           "net_front": 36,
           "net_back": 32,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 4
         },
         {
@@ -29107,8 +30723,7 @@
           "gross_back": 57,
           "net_front": 36,
           "net_back": 33,
-          "adjusted_gross_total": 116,
-          "score_differential": 48.8,
+          "sparta_round_handicap": 41.125,
           "net_rank": 5
         },
         {
@@ -29187,8 +30802,7 @@
           "gross_back": 41,
           "net_front": 33,
           "net_back": 37,
-          "adjusted_gross_total": 79,
-          "score_differential": 11.5,
+          "sparta_round_handicap": 7.875,
           "net_rank": 6
         },
         {
@@ -29267,8 +30881,7 @@
           "gross_back": 42,
           "net_front": 36,
           "net_back": 36,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 7
         },
         {
@@ -29347,8 +30960,7 @@
           "gross_back": 45,
           "net_front": 38,
           "net_back": 36,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 8
         },
         {
@@ -29427,8 +31039,7 @@
           "gross_back": 47,
           "net_front": 38,
           "net_back": 36,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 9
         },
         {
@@ -29507,8 +31118,7 @@
           "gross_back": 44,
           "net_front": 40,
           "net_back": 35,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 10
         },
         {
@@ -29587,8 +31197,7 @@
           "gross_back": 44,
           "net_front": 41,
           "net_back": 34,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 11
         },
         {
@@ -29667,8 +31276,7 @@
           "gross_back": 52,
           "net_front": 34,
           "net_back": 41,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 12
         },
         {
@@ -29747,8 +31355,7 @@
           "gross_back": 48,
           "net_front": 43,
           "net_back": 32,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 33.25,
           "net_rank": 13
         },
         {
@@ -29827,8 +31434,7 @@
           "gross_back": 56,
           "net_front": 41,
           "net_back": 34,
-          "adjusted_gross_total": 119,
-          "score_differential": 51.9,
+          "sparta_round_handicap": 42.875,
           "net_rank": 14
         },
         {
@@ -29907,8 +31513,7 @@
           "gross_back": 45,
           "net_front": 37,
           "net_back": 39,
-          "adjusted_gross_total": 86,
-          "score_differential": 18.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 15
         },
         {
@@ -29987,8 +31592,7 @@
           "gross_back": 48,
           "net_front": 38,
           "net_back": 39,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 16
         },
         {
@@ -30067,8 +31671,7 @@
           "gross_back": 52,
           "net_front": 34,
           "net_back": 43,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 17
         },
         {
@@ -30147,8 +31750,7 @@
           "gross_back": 52,
           "net_front": 37,
           "net_back": 41,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 18
         },
         {
@@ -30227,8 +31829,7 @@
           "gross_back": 52,
           "net_front": 39,
           "net_back": 39,
-          "adjusted_gross_total": 103,
-          "score_differential": 35.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 19
         },
         {
@@ -30307,8 +31908,7 @@
           "gross_back": 48,
           "net_front": 41,
           "net_back": 38,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 20
         },
         {
@@ -30387,8 +31987,7 @@
           "gross_back": 52,
           "net_front": 39,
           "net_back": 40,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 28.875,
           "net_rank": 21
         },
         {
@@ -30467,8 +32066,7 @@
           "gross_back": 47,
           "net_front": 40,
           "net_back": 41,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 22
         }
       ],
@@ -31816,8 +33414,7 @@
           "gross_back": 39,
           "net_front": 35,
           "net_back": 29,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 13.125,
           "net_rank": 1
         },
         {
@@ -31896,8 +33493,7 @@
           "gross_back": 41,
           "net_front": 32,
           "net_back": 35,
-          "adjusted_gross_total": 80,
-          "score_differential": 12.5,
+          "sparta_round_handicap": 8.75,
           "net_rank": 2
         },
         {
@@ -31976,8 +33572,7 @@
           "gross_back": 43,
           "net_front": 36,
           "net_back": 33,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 3
         },
         {
@@ -32056,8 +33651,7 @@
           "gross_back": 44,
           "net_front": 36,
           "net_back": 33,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 4
         },
         {
@@ -32136,8 +33730,7 @@
           "gross_back": 40,
           "net_front": 37,
           "net_back": 34,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 5
         },
         {
@@ -32216,8 +33809,7 @@
           "gross_back": 47,
           "net_front": 34,
           "net_back": 37,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 6
         },
         {
@@ -32296,8 +33888,7 @@
           "gross_back": 55,
           "net_front": 34,
           "net_back": 38,
-          "adjusted_gross_total": 106,
-          "score_differential": 38.7,
+          "sparta_round_handicap": 31.5,
           "net_rank": 7
         },
         {
@@ -32376,8 +33967,7 @@
           "gross_back": 41,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 81,
-          "score_differential": 13.5,
+          "sparta_round_handicap": 9.625,
           "net_rank": 8
         },
         {
@@ -32456,8 +34046,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 9
         },
         {
@@ -32536,8 +34125,7 @@
           "gross_back": 47,
           "net_front": 38,
           "net_back": 35,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 23.625,
           "net_rank": 10
         },
         {
@@ -32616,8 +34204,7 @@
           "gross_back": 44,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 11
         },
         {
@@ -32696,8 +34283,7 @@
           "gross_back": 58,
           "net_front": 38,
           "net_back": 36,
-          "adjusted_gross_total": 118,
-          "score_differential": 50.9,
+          "sparta_round_handicap": 42.0,
           "net_rank": 12
         },
         {
@@ -32776,8 +34362,7 @@
           "gross_back": 45,
           "net_front": 39,
           "net_back": 36,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 13
         },
         {
@@ -32856,8 +34441,7 @@
           "gross_back": 51,
           "net_front": 34,
           "net_back": 43,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 14
         },
         {
@@ -32936,8 +34520,7 @@
           "gross_back": 48,
           "net_front": 38,
           "net_back": 39,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 15
         },
         {
@@ -33016,8 +34599,7 @@
           "gross_back": 48,
           "net_front": 38,
           "net_back": 39,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 16
         },
         {
@@ -33096,8 +34678,7 @@
           "gross_back": 47,
           "net_front": 41,
           "net_back": 36,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 17
         },
         {
@@ -33176,8 +34757,7 @@
           "gross_back": 52,
           "net_front": 39,
           "net_back": 40,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 28.875,
           "net_rank": 18
         },
         {
@@ -33256,8 +34836,7 @@
           "gross_back": 41,
           "net_front": 44,
           "net_back": 36,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 19
         },
         {
@@ -33336,8 +34915,7 @@
           "gross_back": 54,
           "net_front": 41,
           "net_back": 39,
-          "adjusted_gross_total": 107,
-          "score_differential": 39.8,
+          "sparta_round_handicap": 35.0,
           "net_rank": 20
         },
         {
@@ -33416,8 +34994,7 @@
           "gross_back": 60,
           "net_front": 43,
           "net_back": 37,
-          "adjusted_gross_total": 123,
-          "score_differential": 55.9,
+          "sparta_round_handicap": 49.875,
           "net_rank": 21
         },
         {
@@ -33496,8 +35073,7 @@
           "gross_back": 50,
           "net_front": 40,
           "net_back": 44,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 23.625,
           "net_rank": 22
         }
       ],
@@ -34845,8 +36421,7 @@
           "gross_back": 44,
           "net_front": 30,
           "net_back": 32,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 1
         },
         {
@@ -34925,8 +36500,7 @@
           "gross_back": 42,
           "net_front": 33,
           "net_back": 31,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 2
         },
         {
@@ -35005,8 +36579,7 @@
           "gross_back": 36,
           "net_front": 35,
           "net_back": 31,
-          "adjusted_gross_total": 77,
-          "score_differential": 9.5,
+          "sparta_round_handicap": 6.125,
           "net_rank": 3
         },
         {
@@ -35085,8 +36658,7 @@
           "gross_back": 46,
           "net_front": 34,
           "net_back": 34,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 4
         },
         {
@@ -35165,8 +36737,7 @@
           "gross_back": 50,
           "net_front": 31,
           "net_back": 37,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 5
         },
         {
@@ -35245,8 +36816,7 @@
           "gross_back": 38,
           "net_front": 38,
           "net_back": 31,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 6
         },
         {
@@ -35325,8 +36895,7 @@
           "gross_back": 47,
           "net_front": 34,
           "net_back": 36,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 7
         },
         {
@@ -35405,8 +36974,7 @@
           "gross_back": 43,
           "net_front": 38,
           "net_back": 32,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 8
         },
         {
@@ -35485,8 +37053,7 @@
           "gross_back": 46,
           "net_front": 40,
           "net_back": 30,
-          "adjusted_gross_total": 103,
-          "score_differential": 35.7,
+          "sparta_round_handicap": 28.875,
           "net_rank": 9
         },
         {
@@ -35565,8 +37132,7 @@
           "gross_back": 47,
           "net_front": 33,
           "net_back": 38,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 10
         },
         {
@@ -35645,8 +37211,7 @@
           "gross_back": 42,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 82,
-          "score_differential": 14.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 11
         },
         {
@@ -35725,8 +37290,7 @@
           "gross_back": 45,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 12
         },
         {
@@ -35805,8 +37369,7 @@
           "gross_back": 46,
           "net_front": 35,
           "net_back": 40,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 13
         },
         {
@@ -35885,8 +37448,7 @@
           "gross_back": 50,
           "net_front": 36,
           "net_back": 39,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 24.5,
           "net_rank": 14
         },
         {
@@ -35965,8 +37527,7 @@
           "gross_back": 57,
           "net_front": 41,
           "net_back": 34,
-          "adjusted_gross_total": 119,
-          "score_differential": 51.9,
+          "sparta_round_handicap": 44.625,
           "net_rank": 15
         },
         {
@@ -36045,8 +37606,7 @@
           "gross_back": 43,
           "net_front": 39,
           "net_back": 37,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 16
         },
         {
@@ -36125,8 +37685,7 @@
           "gross_back": 53,
           "net_front": 40,
           "net_back": 37,
-          "adjusted_gross_total": 108,
-          "score_differential": 40.8,
+          "sparta_round_handicap": 34.125,
           "net_rank": 17
         },
         {
@@ -36205,8 +37764,7 @@
           "gross_back": 47,
           "net_front": 39,
           "net_back": 39,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 18
         },
         {
@@ -36285,8 +37843,7 @@
           "gross_back": 45,
           "net_front": 43,
           "net_back": 36,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 23.625,
           "net_rank": 19
         },
         {
@@ -36365,8 +37922,7 @@
           "gross_back": 53,
           "net_front": 42,
           "net_back": 37,
-          "adjusted_gross_total": 110,
-          "score_differential": 42.8,
+          "sparta_round_handicap": 36.75,
           "net_rank": 20
         },
         {
@@ -36445,8 +38001,7 @@
           "gross_back": 64,
           "net_front": 38,
           "net_back": 41,
-          "adjusted_gross_total": 124,
-          "score_differential": 56.9,
+          "sparta_round_handicap": 49.0,
           "net_rank": 21
         },
         {
@@ -36525,8 +38080,7 @@
           "gross_back": 47,
           "net_front": 41,
           "net_back": 40,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 22
         },
         {
@@ -36605,8 +38159,7 @@
           "gross_back": 51,
           "net_front": 40,
           "net_back": 41,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 23
         }
       ],
@@ -38018,8 +39571,7 @@
           "gross_back": 46,
           "net_front": 34,
           "net_back": 30,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 1
         },
         {
@@ -38098,8 +39650,7 @@
           "gross_back": 44,
           "net_front": 31,
           "net_back": 35,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 2
         },
         {
@@ -38178,8 +39729,7 @@
           "gross_back": 41,
           "net_front": 36,
           "net_back": 30,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 3
         },
         {
@@ -38258,8 +39808,7 @@
           "gross_back": 45,
           "net_front": 32,
           "net_back": 35,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 4
         },
         {
@@ -38338,8 +39887,7 @@
           "gross_back": 42,
           "net_front": 35,
           "net_back": 33,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 5
         },
         {
@@ -38418,8 +39966,7 @@
           "gross_back": 46,
           "net_front": 37,
           "net_back": 34,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 6
         },
         {
@@ -38498,8 +40045,7 @@
           "gross_back": 37,
           "net_front": 41,
           "net_back": 32,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 11.375,
           "net_rank": 7
         },
         {
@@ -38578,8 +40124,7 @@
           "gross_back": 47,
           "net_front": 35,
           "net_back": 38,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 8
         },
         {
@@ -38658,8 +40203,7 @@
           "gross_back": 47,
           "net_front": 37,
           "net_back": 37,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 9
         },
         {
@@ -38738,8 +40282,7 @@
           "gross_back": 38,
           "net_front": 41,
           "net_back": 34,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 10
         },
         {
@@ -38818,8 +40361,7 @@
           "gross_back": 48,
           "net_front": 37,
           "net_back": 38,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 11
         },
         {
@@ -38898,8 +40440,7 @@
           "gross_back": 49,
           "net_front": 38,
           "net_back": 38,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 12
         },
         {
@@ -38978,8 +40519,7 @@
           "gross_back": 52,
           "net_front": 36,
           "net_back": 40,
-          "adjusted_gross_total": 101,
-          "score_differential": 33.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 13
         },
         {
@@ -39058,8 +40598,7 @@
           "gross_back": 43,
           "net_front": 43,
           "net_back": 35,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 14
         },
         {
@@ -39138,8 +40677,7 @@
           "gross_back": 55,
           "net_front": 38,
           "net_back": 41,
-          "adjusted_gross_total": 107,
-          "score_differential": 39.8,
+          "sparta_round_handicap": 33.25,
           "net_rank": 15
         },
         {
@@ -39218,8 +40756,7 @@
           "gross_back": 47,
           "net_front": 38,
           "net_back": 43,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 16
         },
         {
@@ -39298,8 +40835,7 @@
           "gross_back": 46,
           "net_front": 43,
           "net_back": 39,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 17
         },
         {
@@ -39378,8 +40914,7 @@
           "gross_back": 49,
           "net_front": 43,
           "net_back": 42,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 18
         },
         {
@@ -39458,8 +40993,7 @@
           "gross_back": 58,
           "net_front": 40,
           "net_back": 48,
-          "adjusted_gross_total": 106,
-          "score_differential": 38.7,
+          "sparta_round_handicap": 33.25,
           "net_rank": 19
         },
         {
@@ -39538,8 +41072,7 @@
           "gross_back": 63,
           "net_front": 43,
           "net_back": 46,
-          "adjusted_gross_total": 122,
-          "score_differential": 54.9,
+          "sparta_round_handicap": 46.375,
           "net_rank": 20
         }
       ],
@@ -40793,8 +42326,7 @@
           "gross_back": 42,
           "net_front": 27,
           "net_back": 32,
-          "adjusted_gross_total": 80,
-          "score_differential": 12.5,
+          "sparta_round_handicap": 8.75,
           "net_rank": 1
         },
         {
@@ -40873,8 +42405,7 @@
           "gross_back": 42,
           "net_front": 36,
           "net_back": 26,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 2
         },
         {
@@ -40953,8 +42484,7 @@
           "gross_back": 42,
           "net_front": 30,
           "net_back": 35,
-          "adjusted_gross_total": 80,
-          "score_differential": 12.5,
+          "sparta_round_handicap": 8.75,
           "net_rank": 3
         },
         {
@@ -41033,8 +42563,7 @@
           "gross_back": 51,
           "net_front": 28,
           "net_back": 37,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 4
         },
         {
@@ -41113,8 +42642,7 @@
           "gross_back": 47,
           "net_front": 30,
           "net_back": 38,
-          "adjusted_gross_total": 86,
-          "score_differential": 18.6,
+          "sparta_round_handicap": 14.0,
           "net_rank": 5
         },
         {
@@ -41193,8 +42721,7 @@
           "gross_back": 46,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 6
         },
         {
@@ -41273,8 +42800,7 @@
           "gross_back": 49,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 7
         },
         {
@@ -41353,8 +42879,7 @@
           "gross_back": 53,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 107,
-          "score_differential": 39.8,
+          "sparta_round_handicap": 32.375,
           "net_rank": 8
         },
         {
@@ -41433,8 +42958,7 @@
           "gross_back": 45,
           "net_front": 36,
           "net_back": 35,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 9
         },
         {
@@ -41513,8 +43037,7 @@
           "gross_back": 53,
           "net_front": 37,
           "net_back": 34,
-          "adjusted_gross_total": 109,
-          "score_differential": 41.8,
+          "sparta_round_handicap": 34.125,
           "net_rank": 10
         },
         {
@@ -41593,8 +43116,7 @@
           "gross_back": 41,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 81,
-          "score_differential": 13.5,
+          "sparta_round_handicap": 9.625,
           "net_rank": 11
         },
         {
@@ -41673,8 +43195,7 @@
           "gross_back": 44,
           "net_front": 35,
           "net_back": 38,
-          "adjusted_gross_total": 86,
-          "score_differential": 18.6,
+          "sparta_round_handicap": 14.0,
           "net_rank": 12
         },
         {
@@ -41753,8 +43274,7 @@
           "gross_back": 44,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 86,
-          "score_differential": 18.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 13
         },
         {
@@ -41833,8 +43353,7 @@
           "gross_back": 47,
           "net_front": 35,
           "net_back": 38,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 14
         },
         {
@@ -41913,8 +43432,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 38,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 15
         },
         {
@@ -41993,8 +43511,7 @@
           "gross_back": 45,
           "net_front": 40,
           "net_back": 36,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 16
         },
         {
@@ -42073,8 +43590,7 @@
           "gross_back": 54,
           "net_front": 35,
           "net_back": 41,
-          "adjusted_gross_total": 103,
-          "score_differential": 35.7,
+          "sparta_round_handicap": 28.875,
           "net_rank": 17
         },
         {
@@ -42153,8 +43669,7 @@
           "gross_back": 45,
           "net_front": 40,
           "net_back": 37,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 18
         },
         {
@@ -42233,8 +43748,7 @@
           "gross_back": 49,
           "net_front": 38,
           "net_back": 41,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 19
         },
         {
@@ -42313,8 +43827,7 @@
           "gross_back": 46,
           "net_front": 43,
           "net_back": 37,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 20
         }
       ],
@@ -43570,8 +45083,7 @@
           "gross_back": 44,
           "net_front": 32,
           "net_back": 32,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 1
         },
         {
@@ -43650,8 +45162,7 @@
           "gross_back": 43,
           "net_front": 32,
           "net_back": 33,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 2
         },
         {
@@ -43730,8 +45241,7 @@
           "gross_back": 47,
           "net_front": 31,
           "net_back": 38,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 3
         },
         {
@@ -43810,8 +45320,7 @@
           "gross_back": 42,
           "net_front": 32,
           "net_back": 38,
-          "adjusted_gross_total": 79,
-          "score_differential": 11.5,
+          "sparta_round_handicap": 7.875,
           "net_rank": 4
         },
         {
@@ -43890,8 +45399,7 @@
           "gross_back": 44,
           "net_front": 39,
           "net_back": 32,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 5
         },
         {
@@ -43970,8 +45478,7 @@
           "gross_back": 48,
           "net_front": 34,
           "net_back": 39,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 6
         },
         {
@@ -44050,8 +45557,7 @@
           "gross_back": 53,
           "net_front": 39,
           "net_back": 34,
-          "adjusted_gross_total": 110,
-          "score_differential": 42.8,
+          "sparta_round_handicap": 36.75,
           "net_rank": 7
         },
         {
@@ -44130,8 +45636,7 @@
           "gross_back": 45,
           "net_front": 37,
           "net_back": 37,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 8
         },
         {
@@ -44210,8 +45715,7 @@
           "gross_back": 54,
           "net_front": 39,
           "net_back": 35,
-          "adjusted_gross_total": 112,
-          "score_differential": 44.8,
+          "sparta_round_handicap": 37.625,
           "net_rank": 9
         },
         {
@@ -44290,8 +45794,7 @@
           "gross_back": 43,
           "net_front": 38,
           "net_back": 37,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 10
         },
         {
@@ -44370,8 +45873,7 @@
           "gross_back": 42,
           "net_front": 40,
           "net_back": 35,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 11
         },
         {
@@ -44450,8 +45952,7 @@
           "gross_back": 46,
           "net_front": 37,
           "net_back": 38,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 12
         },
         {
@@ -44530,8 +46031,7 @@
           "gross_back": 50,
           "net_front": 34,
           "net_back": 41,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 13
         },
         {
@@ -44610,8 +46110,7 @@
           "gross_back": 51,
           "net_front": 39,
           "net_back": 36,
-          "adjusted_gross_total": 106,
-          "score_differential": 38.7,
+          "sparta_round_handicap": 31.5,
           "net_rank": 14
         },
         {
@@ -44690,8 +46189,7 @@
           "gross_back": 41,
           "net_front": 40,
           "net_back": 36,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 15
         },
         {
@@ -44770,8 +46268,7 @@
           "gross_back": 49,
           "net_front": 40,
           "net_back": 36,
-          "adjusted_gross_total": 101,
-          "score_differential": 33.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 16
         },
         {
@@ -44850,8 +46347,7 @@
           "gross_back": 51,
           "net_front": 38,
           "net_back": 39,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 17
         },
         {
@@ -44930,8 +46426,7 @@
           "gross_back": 45,
           "net_front": 40,
           "net_back": 38,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 18
         },
         {
@@ -45010,8 +46505,7 @@
           "gross_back": 48,
           "net_front": 38,
           "net_back": 40,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.0,
           "net_rank": 19
         }
       ],
@@ -46207,8 +47701,7 @@
           "gross_back": 58,
           "net_front": 31,
           "net_back": 33,
-          "adjusted_gross_total": 113,
-          "score_differential": 45.8,
+          "sparta_round_handicap": 38.5,
           "net_rank": 1
         },
         {
@@ -46287,8 +47780,7 @@
           "gross_back": 42,
           "net_front": 34,
           "net_back": 33,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 2
         },
         {
@@ -46367,8 +47859,7 @@
           "gross_back": 46,
           "net_front": 34,
           "net_back": 35,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 3
         },
         {
@@ -46447,8 +47938,7 @@
           "gross_back": 49,
           "net_front": 33,
           "net_back": 36,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 4
         },
         {
@@ -46527,8 +48017,7 @@
           "gross_back": 40,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 80,
-          "score_differential": 12.5,
+          "sparta_round_handicap": 8.75,
           "net_rank": 5
         },
         {
@@ -46607,8 +48096,7 @@
           "gross_back": 45,
           "net_front": 34,
           "net_back": 36,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 6
         },
         {
@@ -46687,8 +48175,7 @@
           "gross_back": 42,
           "net_front": 37,
           "net_back": 33,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 7
         },
         {
@@ -46767,8 +48254,7 @@
           "gross_back": 44,
           "net_front": 36,
           "net_back": 35,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 8
         },
         {
@@ -46847,8 +48333,7 @@
           "gross_back": 40,
           "net_front": 37,
           "net_back": 36,
-          "adjusted_gross_total": 82,
-          "score_differential": 14.5,
+          "sparta_round_handicap": 10.5,
           "net_rank": 9
         },
         {
@@ -46927,8 +48412,7 @@
           "gross_back": 47,
           "net_front": 35,
           "net_back": 38,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 10
         },
         {
@@ -47007,8 +48491,7 @@
           "gross_back": 50,
           "net_front": 36,
           "net_back": 38,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 11
         },
         {
@@ -47087,8 +48570,7 @@
           "gross_back": 52,
           "net_front": 34,
           "net_back": 40,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 12
         },
         {
@@ -47167,8 +48649,7 @@
           "gross_back": 43,
           "net_front": 37,
           "net_back": 38,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 13
         },
         {
@@ -47247,8 +48728,7 @@
           "gross_back": 47,
           "net_front": 37,
           "net_back": 38,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 14
         },
         {
@@ -47327,8 +48807,7 @@
           "gross_back": 49,
           "net_front": 39,
           "net_back": 36,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 15
         },
         {
@@ -47407,8 +48886,7 @@
           "gross_back": 53,
           "net_front": 38,
           "net_back": 39,
-          "adjusted_gross_total": 103,
-          "score_differential": 35.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 16
         },
         {
@@ -47487,8 +48965,7 @@
           "gross_back": 57,
           "net_front": 39,
           "net_back": 41,
-          "adjusted_gross_total": 111,
-          "score_differential": 43.8,
+          "sparta_round_handicap": 36.75,
           "net_rank": 17
         },
         {
@@ -47567,8 +49044,7 @@
           "gross_back": 53,
           "net_front": 38,
           "net_back": 44,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 18
         },
         {
@@ -47647,8 +49123,7 @@
           "gross_back": 46,
           "net_front": 40,
           "net_back": 44,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 19
         },
         {
@@ -47727,8 +49202,7 @@
           "gross_back": 48,
           "net_front": 43,
           "net_back": 42,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 23.625,
           "net_rank": 20
         },
         {
@@ -47807,8 +49281,7 @@
           "gross_back": 62,
           "net_front": 40,
           "net_back": 50,
-          "adjusted_gross_total": 112,
-          "score_differential": 44.8,
+          "sparta_round_handicap": 39.375,
           "net_rank": 21
         }
       ],
@@ -49100,8 +50573,7 @@
           "gross_back": 48,
           "net_front": 29,
           "net_back": 36,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 1
         },
         {
@@ -49180,8 +50652,7 @@
           "gross_back": 48,
           "net_front": 32,
           "net_back": 33,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 2
         },
         {
@@ -49260,8 +50731,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 30,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 3
         },
         {
@@ -49340,8 +50810,7 @@
           "gross_back": 40,
           "net_front": 34,
           "net_back": 34,
-          "adjusted_gross_total": 81,
-          "score_differential": 13.5,
+          "sparta_round_handicap": 9.625,
           "net_rank": 4
         },
         {
@@ -49420,8 +50889,7 @@
           "gross_back": 42,
           "net_front": 34,
           "net_back": 34,
-          "adjusted_gross_total": 84,
-          "score_differential": 16.5,
+          "sparta_round_handicap": 12.25,
           "net_rank": 5
         },
         {
@@ -49500,8 +50968,7 @@
           "gross_back": 39,
           "net_front": 33,
           "net_back": 36,
-          "adjusted_gross_total": 76,
-          "score_differential": 8.5,
+          "sparta_round_handicap": 5.25,
           "net_rank": 6
         },
         {
@@ -49580,8 +51047,7 @@
           "gross_back": 38,
           "net_front": 36,
           "net_back": 33,
-          "adjusted_gross_total": 80,
-          "score_differential": 12.5,
+          "sparta_round_handicap": 8.75,
           "net_rank": 7
         },
         {
@@ -49660,8 +51126,7 @@
           "gross_back": 46,
           "net_front": 34,
           "net_back": 35,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 8
         },
         {
@@ -49740,8 +51205,7 @@
           "gross_back": 50,
           "net_front": 34,
           "net_back": 35,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 26.25,
           "net_rank": 9
         },
         {
@@ -49820,8 +51284,7 @@
           "gross_back": 45,
           "net_front": 36,
           "net_back": 34,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 10
         },
         {
@@ -49900,8 +51363,7 @@
           "gross_back": 60,
           "net_front": 38,
           "net_back": 32,
-          "adjusted_gross_total": 126,
-          "score_differential": 58.9,
+          "sparta_round_handicap": 49.875,
           "net_rank": 11
         },
         {
@@ -49980,8 +51442,7 @@
           "gross_back": 48,
           "net_front": 33,
           "net_back": 40,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 12
         },
         {
@@ -50060,8 +51521,7 @@
           "gross_back": 46,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 13
         },
         {
@@ -50140,8 +51600,7 @@
           "gross_back": 50,
           "net_front": 35,
           "net_back": 38,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 23.625,
           "net_rank": 14
         },
         {
@@ -50220,8 +51679,7 @@
           "gross_back": 50,
           "net_front": 36,
           "net_back": 38,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 15
         },
         {
@@ -50300,8 +51758,7 @@
           "gross_back": 51,
           "net_front": 35,
           "net_back": 39,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 16
         },
         {
@@ -50380,8 +51837,7 @@
           "gross_back": 52,
           "net_front": 36,
           "net_back": 38,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 17
         },
         {
@@ -50460,8 +51916,7 @@
           "gross_back": 39,
           "net_front": 39,
           "net_back": 36,
-          "adjusted_gross_total": 80,
-          "score_differential": 12.5,
+          "sparta_round_handicap": 9.625,
           "net_rank": 18
         },
         {
@@ -50540,8 +51995,7 @@
           "gross_back": 43,
           "net_front": 41,
           "net_back": 36,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 19
         },
         {
@@ -50620,8 +52074,7 @@
           "gross_back": 54,
           "net_front": 38,
           "net_back": 40,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 31.5,
           "net_rank": 20
         },
         {
@@ -50700,8 +52153,7 @@
           "gross_back": 47,
           "net_front": 38,
           "net_back": 42,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 21
         }
       ],
@@ -52001,8 +53453,7 @@
           "gross_back": 43,
           "net_front": 27,
           "net_back": 31,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 11.375,
           "net_rank": 1
         },
         {
@@ -52081,8 +53532,7 @@
           "gross_back": 48,
           "net_front": 26,
           "net_back": 37,
-          "adjusted_gross_total": 86,
-          "score_differential": 18.6,
+          "sparta_round_handicap": 14.0,
           "net_rank": 2
         },
         {
@@ -52161,8 +53611,7 @@
           "gross_back": 40,
           "net_front": 31,
           "net_back": 34,
-          "adjusted_gross_total": 78,
-          "score_differential": 10.5,
+          "sparta_round_handicap": 7.0,
           "net_rank": 3
         },
         {
@@ -52241,8 +53690,7 @@
           "gross_back": 44,
           "net_front": 31,
           "net_back": 37,
-          "adjusted_gross_total": 81,
-          "score_differential": 13.5,
+          "sparta_round_handicap": 11.375,
           "net_rank": 4
         },
         {
@@ -52321,8 +53769,7 @@
           "gross_back": 44,
           "net_front": 34,
           "net_back": 34,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 5
         },
         {
@@ -52401,8 +53848,7 @@
           "gross_back": 50,
           "net_front": 36,
           "net_back": 32,
-          "adjusted_gross_total": 104,
-          "score_differential": 36.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 6
         },
         {
@@ -52481,8 +53927,7 @@
           "gross_back": 49,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 7
         },
         {
@@ -52561,8 +54006,7 @@
           "gross_back": 47,
           "net_front": 36,
           "net_back": 35,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 8
         },
         {
@@ -52641,8 +54085,7 @@
           "gross_back": 45,
           "net_front": 36,
           "net_back": 37,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 9
         },
         {
@@ -52721,8 +54164,7 @@
           "gross_back": 44,
           "net_front": 37,
           "net_back": 37,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 10
         },
         {
@@ -52801,8 +54243,7 @@
           "gross_back": 53,
           "net_front": 33,
           "net_back": 41,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 11
         },
         {
@@ -52881,8 +54322,7 @@
           "gross_back": 56,
           "net_front": 34,
           "net_back": 41,
-          "adjusted_gross_total": 101,
-          "score_differential": 33.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 12
         },
         {
@@ -52961,8 +54401,7 @@
           "gross_back": 39,
           "net_front": 38,
           "net_back": 39,
-          "adjusted_gross_total": 77,
-          "score_differential": 9.5,
+          "sparta_round_handicap": 6.125,
           "net_rank": 13
         },
         {
@@ -53041,8 +54480,7 @@
           "gross_back": 48,
           "net_front": 36,
           "net_back": 41,
-          "adjusted_gross_total": 90,
-          "score_differential": 22.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 14
         },
         {
@@ -53121,8 +54559,7 @@
           "gross_back": 50,
           "net_front": 36,
           "net_back": 41,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 15
         },
         {
@@ -53201,8 +54638,7 @@
           "gross_back": 51,
           "net_front": 39,
           "net_back": 39,
-          "adjusted_gross_total": 101,
-          "score_differential": 33.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 16
         },
         {
@@ -53281,8 +54717,7 @@
           "gross_back": 55,
           "net_front": 38,
           "net_back": 40,
-          "adjusted_gross_total": 107,
-          "score_differential": 39.8,
+          "sparta_round_handicap": 34.125,
           "net_rank": 17
         },
         {
@@ -53361,8 +54796,7 @@
           "gross_back": 65,
           "net_front": 41,
           "net_back": 37,
-          "adjusted_gross_total": 133,
-          "score_differential": 66.0,
+          "sparta_round_handicap": 56.875,
           "net_rank": 18
         },
         {
@@ -53441,8 +54875,7 @@
           "gross_back": 43,
           "net_front": 39,
           "net_back": 41,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 19
         },
         {
@@ -53521,8 +54954,7 @@
           "gross_back": 50,
           "net_front": 47,
           "net_back": 50,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 23.625,
           "net_rank": 20
         },
         {
@@ -53601,8 +55033,7 @@
           "gross_back": 46,
           "net_front": 53,
           "net_back": 46,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 25.375,
           "net_rank": 21
         },
         {
@@ -53681,8 +55112,7 @@
           "gross_back": 51,
           "net_front": 51,
           "net_back": 51,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 22
         }
       ],
@@ -55052,8 +56482,7 @@
           "gross_back": 47,
           "net_front": 32,
           "net_back": 27,
-          "adjusted_gross_total": 99,
-          "score_differential": 31.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 1
         },
         {
@@ -55132,8 +56561,7 @@
           "gross_back": 45,
           "net_front": 30,
           "net_back": 36,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 2
         },
         {
@@ -55212,8 +56640,7 @@
           "gross_back": 43,
           "net_front": 34,
           "net_back": 32,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 3
         },
         {
@@ -55292,8 +56719,7 @@
           "gross_back": 44,
           "net_front": 36,
           "net_back": 32,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 4
         },
         {
@@ -55372,8 +56798,7 @@
           "gross_back": 46,
           "net_front": 35,
           "net_back": 34,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 20.125,
           "net_rank": 5
         },
         {
@@ -55452,8 +56877,7 @@
           "gross_back": 45,
           "net_front": 42,
           "net_back": 28,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 29.75,
           "net_rank": 6
         },
         {
@@ -55532,8 +56956,7 @@
           "gross_back": 49,
           "net_front": 33,
           "net_back": 41,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 18.375,
           "net_rank": 7
         },
         {
@@ -55612,8 +57035,7 @@
           "gross_back": 43,
           "net_front": 38,
           "net_back": 38,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 8
         },
         {
@@ -55692,8 +57114,7 @@
           "gross_back": 54,
           "net_front": 37,
           "net_back": 39,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 32.375,
           "net_rank": 9
         },
         {
@@ -55772,8 +57193,7 @@
           "gross_back": 55,
           "net_front": 44,
           "net_back": 32,
-          "adjusted_gross_total": 120,
-          "score_differential": 52.9,
+          "sparta_round_handicap": 45.5,
           "net_rank": 10
         },
         {
@@ -55852,8 +57272,7 @@
           "gross_back": 71,
           "net_front": 34,
           "net_back": 42,
-          "adjusted_gross_total": 132,
-          "score_differential": 65.0,
+          "sparta_round_handicap": 56.875,
           "net_rank": 11
         },
         {
@@ -55932,8 +57351,7 @@
           "gross_back": 49,
           "net_front": 40,
           "net_back": 37,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 12
         },
         {
@@ -56012,8 +57430,7 @@
           "gross_back": 55,
           "net_front": 36,
           "net_back": 41,
-          "adjusted_gross_total": 103,
-          "score_differential": 35.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 13
         },
         {
@@ -56092,8 +57509,7 @@
           "gross_back": 49,
           "net_front": 40,
           "net_back": 43,
-          "adjusted_gross_total": 94,
-          "score_differential": 26.6,
+          "sparta_round_handicap": 22.75,
           "net_rank": 14
         },
         {
@@ -56172,8 +57588,7 @@
           "gross_back": 49,
           "net_front": 41,
           "net_back": 42,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 24.5,
           "net_rank": 15
         }
       ],
@@ -57167,8 +58582,7 @@
           "gross_back": 41,
           "net_front": 33,
           "net_back": 33,
-          "adjusted_gross_total": 83,
-          "score_differential": 15.5,
+          "sparta_round_handicap": 11.375,
           "net_rank": 1
         },
         {
@@ -57247,8 +58661,7 @@
           "gross_back": 61,
           "net_front": 35,
           "net_back": 34,
-          "adjusted_gross_total": 123,
-          "score_differential": 55.9,
+          "sparta_round_handicap": 46.375,
           "net_rank": 2
         },
         {
@@ -57327,8 +58740,7 @@
           "gross_back": 42,
           "net_front": 35,
           "net_back": 35,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 3
         },
         {
@@ -57407,8 +58819,7 @@
           "gross_back": 43,
           "net_front": 38,
           "net_back": 35,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 4
         },
         {
@@ -57487,8 +58898,7 @@
           "gross_back": 47,
           "net_front": 38,
           "net_back": 36,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 23.625,
           "net_rank": 5
         },
         {
@@ -57567,8 +58977,7 @@
           "gross_back": 55,
           "net_front": 34,
           "net_back": 40,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 6
         },
         {
@@ -57647,8 +59056,7 @@
           "gross_back": 48,
           "net_front": 40,
           "net_back": 35,
-          "adjusted_gross_total": 102,
-          "score_differential": 34.7,
+          "sparta_round_handicap": 28.0,
           "net_rank": 7
         },
         {
@@ -57727,8 +59135,7 @@
           "gross_back": 48,
           "net_front": 33,
           "net_back": 43,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 8
         },
         {
@@ -57807,8 +59214,7 @@
           "gross_back": 45,
           "net_front": 40,
           "net_back": 36,
-          "adjusted_gross_total": 95,
-          "score_differential": 27.6,
+          "sparta_round_handicap": 21.875,
           "net_rank": 9
         },
         {
@@ -57887,8 +59293,7 @@
           "gross_back": 50,
           "net_front": 42,
           "net_back": 34,
-          "adjusted_gross_total": 109,
-          "score_differential": 41.8,
+          "sparta_round_handicap": 34.125,
           "net_rank": 10
         },
         {
@@ -57967,8 +59372,7 @@
           "gross_back": 67,
           "net_front": 40,
           "net_back": 38,
-          "adjusted_gross_total": 132,
-          "score_differential": 65.0,
+          "sparta_round_handicap": 58.625,
           "net_rank": 11
         },
         {
@@ -58047,8 +59451,7 @@
           "gross_back": 45,
           "net_front": 40,
           "net_back": 39,
-          "adjusted_gross_total": 91,
-          "score_differential": 23.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 12
         },
         {
@@ -58127,8 +59530,7 @@
           "gross_back": 57,
           "net_front": 41,
           "net_back": 39,
-          "adjusted_gross_total": 111,
-          "score_differential": 43.8,
+          "sparta_round_handicap": 40.25,
           "net_rank": 13
         },
         {
@@ -58207,8 +59609,7 @@
           "gross_back": 47,
           "net_front": 42,
           "net_back": 39,
-          "adjusted_gross_total": 97,
-          "score_differential": 29.7,
+          "sparta_round_handicap": 23.625,
           "net_rank": 14
         },
         {
@@ -58287,8 +59688,7 @@
           "gross_back": 51,
           "net_front": 39,
           "net_back": 42,
-          "adjusted_gross_total": 98,
-          "score_differential": 30.7,
+          "sparta_round_handicap": 25.375,
           "net_rank": 15
         }
       ],
@@ -59274,8 +60674,7 @@
           "gross_back": 47,
           "net_front": 29,
           "net_back": 34,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 17.5,
           "net_rank": 1
         },
         {
@@ -59354,8 +60753,7 @@
           "gross_back": 39,
           "net_front": 34,
           "net_back": 30,
-          "adjusted_gross_total": 82,
-          "score_differential": 14.5,
+          "sparta_round_handicap": 10.5,
           "net_rank": 2
         },
         {
@@ -59434,8 +60832,7 @@
           "gross_back": 45,
           "net_front": 32,
           "net_back": 34,
-          "adjusted_gross_total": 89,
-          "score_differential": 21.6,
+          "sparta_round_handicap": 16.625,
           "net_rank": 3
         },
         {
@@ -59514,8 +60911,7 @@
           "gross_back": 42,
           "net_front": 36,
           "net_back": 32,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 4
         },
         {
@@ -59594,8 +60990,7 @@
           "gross_back": 42,
           "net_front": 36,
           "net_back": 33,
-          "adjusted_gross_total": 88,
-          "score_differential": 20.6,
+          "sparta_round_handicap": 15.75,
           "net_rank": 5
         },
         {
@@ -59674,8 +61069,7 @@
           "gross_back": 74,
           "net_front": 29,
           "net_back": 40,
-          "adjusted_gross_total": 137,
-          "score_differential": 70.0,
+          "sparta_round_handicap": 59.5,
           "net_rank": 6
         },
         {
@@ -59754,8 +61148,7 @@
           "gross_back": 44,
           "net_front": 34,
           "net_back": 38,
-          "adjusted_gross_total": 85,
-          "score_differential": 17.6,
+          "sparta_round_handicap": 13.125,
           "net_rank": 7
         },
         {
@@ -59834,8 +61227,7 @@
           "gross_back": 49,
           "net_front": 41,
           "net_back": 32,
-          "adjusted_gross_total": 106,
-          "score_differential": 38.7,
+          "sparta_round_handicap": 33.25,
           "net_rank": 8
         },
         {
@@ -59914,8 +61306,7 @@
           "gross_back": 50,
           "net_front": 37,
           "net_back": 37,
-          "adjusted_gross_total": 100,
-          "score_differential": 32.7,
+          "sparta_round_handicap": 27.125,
           "net_rank": 9
         },
         {
@@ -59994,8 +61385,7 @@
           "gross_back": 55,
           "net_front": 34,
           "net_back": 40,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 30.625,
           "net_rank": 10
         },
         {
@@ -60074,8 +61464,7 @@
           "gross_back": 45,
           "net_front": 36,
           "net_back": 39,
-          "adjusted_gross_total": 87,
-          "score_differential": 19.6,
+          "sparta_round_handicap": 14.875,
           "net_rank": 11
         },
         {
@@ -60154,8 +61543,7 @@
           "gross_back": 49,
           "net_front": 36,
           "net_back": 39,
-          "adjusted_gross_total": 96,
-          "score_differential": 28.7,
+          "sparta_round_handicap": 22.75,
           "net_rank": 12
         },
         {
@@ -60234,8 +61622,7 @@
           "gross_back": 64,
           "net_front": 41,
           "net_back": 37,
-          "adjusted_gross_total": 130,
-          "score_differential": 63.0,
+          "sparta_round_handicap": 54.25,
           "net_rank": 13
         },
         {
@@ -60314,8 +61701,7 @@
           "gross_back": 44,
           "net_front": 44,
           "net_back": 36,
-          "adjusted_gross_total": 93,
-          "score_differential": 25.6,
+          "sparta_round_handicap": 23.625,
           "net_rank": 14
         },
         {
@@ -60394,8 +61780,7 @@
           "gross_back": 46,
           "net_front": 40,
           "net_back": 41,
-          "adjusted_gross_total": 92,
-          "score_differential": 24.6,
+          "sparta_round_handicap": 19.25,
           "net_rank": 15
         },
         {
@@ -60474,8 +61859,7 @@
           "gross_back": 52,
           "net_front": 48,
           "net_back": 42,
-          "adjusted_gross_total": 105,
-          "score_differential": 37.7,
+          "sparta_round_handicap": 35.875,
           "net_rank": 16
         }
       ],
