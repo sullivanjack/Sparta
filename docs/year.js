@@ -1,5 +1,9 @@
-const money = cents => `${cents < 0 ? "−" : ""}$${Math.abs(cents / 100).toFixed(2)}`;
-const moneyClass = cents => cents > 0 ? "positive" : cents < 0 ? "negative" : "muted";
+const roundedDollars = cents => Math.round(cents / 100);
+const money = cents => {
+  const dollars = roundedDollars(cents);
+  return `${dollars < 0 ? "−" : ""}$${Math.abs(dollars)}`;
+};
+const moneyClass = cents => roundedDollars(cents) > 0 ? "positive" : roundedDollars(cents) < 0 ? "negative" : "muted";
 const playerLink = name => `player.html?name=${encodeURIComponent(name)}`;
 
 function dayTable(round) {
@@ -9,7 +13,7 @@ function dayTable(round) {
 async function init() {
   const requestedYear = Number(new URLSearchParams(location.search).get("year"));
   try {
-    const response = await fetch("data/sparta.json");
+    const response = await fetch("data/sparta.json?v=8", {cache: "no-store"});
     if (!response.ok) throw new Error(`Data request failed (${response.status})`);
     const data = await response.json();
     const rounds = data.rounds.filter(round => round.year === requestedYear).sort((a,b) => a.day-b.day);

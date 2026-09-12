@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Golfer profiles and career statistics from the Sparta International.">
+  <title>Players · Sparta International</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Libre+Caslon+Display&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=10">
+</head>
+<body>
+  <header class="profile-header players-header">
+    <div class="shell">
+      <a class="back-link" href="index.html">← Home</a>
+      <p class="eyebrow">Golfer directory</p>
+      <h1>Players</h1>
+      <p class="profile-subtitle">Find a golfer and open their complete Sparta record.</p>
+    </div>
+  </header>
+  <main>
+    <section class="profile-section shell player-directory-section">
+      <div class="player-directory-tools">
+        <div><p class="eyebrow dark">The field</p><h2>All golfers</h2></div>
+        <div class="player-search">
+          <label for="player-search">Find a golfer</label>
+          <input id="player-search" type="search" placeholder="Search by name…" autocomplete="off">
+        </div>
+      </div>
+      <p class="player-directory-meta" id="player-directory-meta" aria-live="polite"></p>
+      <div class="player-directory" id="player-directory"></div>
+    </section>
+  </main>
+  <footer><div class="shell"><span>Sparta International</span><a class="light-link" href="index.html">Back home</a></div></footer>
+  <script src="players.js?v=3" defer></script>
+</body>
+</html>

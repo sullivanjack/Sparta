@@ -21,6 +21,7 @@ from sparta.report import result_dict  # noqa: E402
 
 ROUND_PATTERN = re.compile(r"Sparta(?P<year>\d{4})_Day(?P<day>\d+)\.csv$")
 COURSE_PARS = (4, 4, 4, 5, 3, 3, 4, 4, 4) * 2
+TOURNAMENT_ROUNDS = 3
 HISTORICAL_SCORES_PATH = Path("data/archive/sparta_historical_net_scores.csv")
 
 
@@ -63,10 +64,11 @@ def build_seasons(rounds: list[dict], adjustments: list[dict]) -> list[dict]:
 
         standings = list(players.values())
         for player in standings:
-            player["complete"] = player["rounds"] == len(year_rounds)
+            player["complete"] = player["rounds"] == TOURNAMENT_ROUNDS
+            player["up_to_date"] = player["rounds"] == len(year_rounds)
             player["average_net"] = player["total_net"] / player["rounds"]
             player["average_gross"] = player["total_gross"] / player["rounds"]
-        standings.sort(key=lambda player: (not player["complete"], player["total_net"], player["name"]))
+        standings.sort(key=lambda player: (not player["up_to_date"], player["total_net"], player["name"]))
         for rank, player in enumerate(standings, 1):
             player["rank"] = rank
         money_standings = sorted(
@@ -78,6 +80,7 @@ def build_seasons(rounds: list[dict], adjustments: list[dict]) -> list[dict]:
             {
                 "year": year,
                 "round_count": len(year_rounds),
+                "complete": len(year_rounds) == TOURNAMENT_ROUNDS,
                 "competitor_count": len(standings),
                 "scorecard_count": sum(round_["player_count"] for round_ in year_rounds),
                 "standings": standings,
@@ -129,7 +132,9 @@ def build_historical_seasons(root: Path) -> list[dict]:
 
 def build_player_profiles(rounds: list[dict], seasons: list[dict]) -> dict[str, dict]:
     profiles: dict[str, dict] = {}
-    target_year = max(round_["year"] for round_ in rounds) + 1
+    latest_year = max(round_["year"] for round_ in rounds)
+    latest_days = {round_["day"] for round_ in rounds if round_["year"] == latest_year}
+    target_year = latest_year + 1 if len(latest_days) == TOURNAMENT_ROUNDS else latest_year
     for round_ in rounds:
         for player in round_["players"]:
             name = player["canonical_name"]

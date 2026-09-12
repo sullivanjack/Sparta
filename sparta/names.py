@@ -1,6 +1,7 @@
 """Canonical golfer names shared by data imports and maintenance tools."""
 
 ALIASES = {
+    "Grant": "Grant Flynn",
     "Jeremy": "Jeremy Flynn",
     "Leo": "Leo Berhost",
     "Ralph": "Ralph Reis",

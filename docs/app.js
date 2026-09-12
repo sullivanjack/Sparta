@@ -4,13 +4,14 @@ let data;
 function renderChampions() {
   document.querySelector("#champions-grid").innerHTML = data.seasons.map(season => {
     const champion = season.standings[0];
+    const title = season.complete ? "Champion" : "Leader · tournament in progress";
     const dailyScores = Object.entries(champion.day_scores)
       .sort(([left], [right]) => Number(left) - Number(right))
       .map(([day, score]) => `<span><small>Day ${day}</small><strong>${score}</strong></span>`)
       .join("");
     return `<article class="champion-card">
       <a class="champion-year" href="year.html?year=${season.year}">${season.year}</a>
-      <div class="champion-name"><span>Champion</span><a href="${playerLink(champion.name)}">${champion.name}</a></div>
+      <div class="champion-name"><span>${title}</span><a href="${playerLink(champion.name)}">${champion.name}</a></div>
       <div class="champion-scores">${dailyScores}<span class="champion-total"><small>Total net</small><strong>${champion.total_net}</strong></span></div>
       <a class="champion-season-link" href="year.html?year=${season.year}">View tournament <span aria-hidden="true">→</span></a>
     </article>`;
@@ -32,7 +33,7 @@ function renderHistoricalChampions() {
 
 async function init() {
   try {
-    const response = await fetch("data/sparta.json");
+    const response = await fetch("data/sparta.json?v=8", {cache: "no-store"});
     if (!response.ok) throw new Error(`Data request failed (${response.status})`);
     data = await response.json();
     document.querySelector("#round-count").textContent = data.round_count;

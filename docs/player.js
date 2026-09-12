@@ -34,7 +34,7 @@ function scorecard({round, player}) {
 async function init() {
   const requestedName = new URLSearchParams(location.search).get("name");
   try {
-    const response = await fetch("data/sparta.json?v=6");
+    const response = await fetch("data/sparta.json?v=8", {cache: "no-store"});
     if (!response.ok) throw new Error(`Data request failed (${response.status})`);
     const data = await response.json();
     const knownPlayer = data.leaderboard.find(player => player.name === requestedName);
