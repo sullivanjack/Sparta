@@ -36,10 +36,14 @@ class HandicapTests(unittest.TestCase):
 
     def test_sparta_handicap_matches_workbook_model(self):
         self.assertEqual(round_handicap(108), 33.25)
-        day_two = next_day_handicap(23.666666666666668, 108)
-        self.assertAlmostEqual(day_two, 28.458333333333336)
-        self.assertEqual(playing_handicap(day_two), 28)
+        day_two = next_day_handicap(playing_handicap(23.666666666666668), 108)
+        self.assertAlmostEqual(day_two, 28.625)
+        self.assertEqual(playing_handicap(day_two), 29)
         self.assertAlmostEqual(next_season_handicap([108, 102, 94]), 27.416666666666668)
+
+    def test_day_two_starts_from_rounded_season_handicap(self):
+        result = calculated_handicaps(ROOT, 2026, 2, ["Davie Brauer"])
+        self.assertEqual(result, {"Davie Brauer": 31})
 
     def test_sparta_handicap_supports_two_year_fallback(self):
         result = handicap_breakdown(
@@ -90,7 +94,7 @@ class HistoricalDataTests(unittest.TestCase):
     def test_every_historical_input_loads_and_balances(self):
         sources = sorted(ROOT.glob("data/rounds/[0-9][0-9][0-9][0-9]/Sparta*_Day*.csv"))
         sources = [source for source in sources if "_Output" not in source.stem]
-        self.assertEqual(len(sources), 19)
+        self.assertEqual(len(sources), 21)
         for source in sources:
             with self.subTest(source=source):
                 _, players = load_round(source)
@@ -128,7 +132,7 @@ class HistoricalDataTests(unittest.TestCase):
                 )
                 self.assertEqual(player["rank"], expected_rank)
 
-    def test_2026_sparta_handicaps_use_latest_season_within_two_years(self):
+    def test_2026_opening_and_2027_sparta_handicaps_use_latest_complete_season(self):
         calculated = calculated_handicaps(
             ROOT, 2026, 1, ["Davie Brauer", "Bob Breslin", "Greg Nestor", "Grant Flynn", "Jon Moreau"]
         )
@@ -138,20 +142,21 @@ class HistoricalDataTests(unittest.TestCase):
         )
         data = build(ROOT)
         for name, source_year, handicap in (
-            ("Davie Brauer", 2025, 27),
-            ("Bob Breslin", 2024, 24),
-            ("Greg Nestor", 2024, 20),
+            ("Davie Brauer", 2026, 26),
+            ("Bob Breslin", 2026, 16),
+            ("Greg Nestor", 2026, 32),
         ):
             result = data["player_profiles"][name]["sparta_handicap"]
             self.assertTrue(result["current"])
             self.assertEqual((result["source_year"], result["playing_handicap"]), (source_year, handicap))
 
-    def test_2026_is_an_in_progress_one_round_season(self):
+    def test_2026_is_a_three_round_season_with_missing_cards_ranked_last(self):
         data = build(ROOT)
         season = next(item for item in data["seasons"] if item["year"] == 2026)
-        self.assertEqual((season["round_count"], season["complete"]), (1, False))
-        self.assertEqual(season["competitor_count"], 24)
-        self.assertTrue(all(player["up_to_date"] for player in season["standings"]))
+        self.assertEqual((season["round_count"], season["complete"]), (3, True))
+        self.assertEqual(season["competitor_count"], 25)
+        self.assertEqual(sum(player["up_to_date"] for player in season["standings"]), 22)
+        self.assertEqual(season["standings"][-1]["name"], "Grant Flynn")
 
     def test_official_2023_adjustment_is_applied_once(self):
         data = build(ROOT)

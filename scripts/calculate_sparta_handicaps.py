@@ -57,7 +57,10 @@ def calculated_handicaps(
         breakdown = handicap_breakdown(prior_seasons, target_year)
         current_year = player_scores.get(target_year, {})
         if breakdown.get("current"):
-            value = breakdown["value"]
+            # The prior season first becomes a whole-stroke Day 1 handicap.
+            # In-tournament averages start from that rounded playing value,
+            # matching the workbook, then retain precision between later days.
+            value = breakdown["playing_handicap"]
         elif day > 1 and 1 in current_year:
             # A new golfer's manually supplied Day 1 handicap seeds the model.
             value = current_year[1]["handicap"]
